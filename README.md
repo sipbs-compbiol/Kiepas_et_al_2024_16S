@@ -1,6 +1,6 @@
-# **README.md** - **Kiepas_et_al_2023_16S**
+# README.md - Kiepas_et_al_2023_16S
 
-## **16S taxonomy and clustering is not a proxy for taxonomy in *Streptomyces***
+## 16S taxonomy and clustering is not a proxy for taxonomy in *Streptomyces*
 
 This repository contains all supplementary information for analyses reported in Kiepas *et al.* (2023) descibing inconsistencies between taxonomies inferred using 16S and whole-genome identities in *Streptomyces*. 
 
@@ -19,16 +19,16 @@ This repository is provided to enable both reproduction and independed explorati
 
 
 
-## **Reporting Problems**
+## Reporting Problems
 Please report any issues and problem with this repository [here](https://github.com/kiepczi/Kiepas_et_al_2023_16S/issues).
 
-## **Contributors**
+## Contributors
 This manuscript has the following contributors:
 - [Angelika B. Kiepas](https://github.com/kiepczi) - PhD Candidate, Univeristy of Strathclyde
 - [Dr Leighton Pritchard](https://github.com/widdowquinn) - Strathclyde Chancellor's Fellow, Univeristy of Strathclyde
-- [Prof Paul A Hoskisson](https://github.com/PaulHoskisson) - Professor, Univeirsty of Strathclyde
+- [Prof Paul A. Hoskisson](https://github.com/PaulHoskisson) - Professor, Univeirsty of Strathclyde
 
-## **Contact Us**
+## Contact Us
 How to reach us:
 - Angelika B Kiepas:
     - Email: angelika.kiepas@strath.ac.uk
@@ -41,7 +41,7 @@ How to reach us:
     - Twitter: [@PaulHoskisson](https://twitter.com/PaulHoskisson?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
 
-## **Downloading Repository**
+## Downloading Repository
 If you wish to indepedently explore, repoduce and/or validate the analyses reported in the manuscipt, you can use `git` to clone this reporitory to your machine's Desktop directory. 
 
 ```bash
@@ -52,7 +52,7 @@ Alternatively, click [here](https://github.com/kiepczi/Kiepas_et_al_2023_16S/arc
 To use this repository please enusre that it is located on your local machine's Desktop directory, as we used absolute paths. 
 
 
-## **Set Up**
+## Set Up
 We strongly recommend to create a `conda` enviroment specific for this activity, for example using the commands:
 
 ```
@@ -74,7 +74,7 @@ In addtion, due to the repository size limits for GitHub.com, 16S sequences and 
 - The 16S sequence data used in this study are also available from  Greengenes v13.5 (https://gg-sg-web.s3-us-west-2.amazonaws.com/downloads/greengenes_database/gg_13_5/gg_13_5.fasta.gz), SILVA v138.1 (https://www.arb-silva.de/fileadmin/silva_databases/release_138_1/Exports/SILVA_138.1_SSURef_tax_silva.fasta.gz), RDP v11.5 (http://rdp.cme.msu.edu/download/current_Bacteria_unaligned.fa.gz) and the NCBI under BioProject PRJNA33175 (https://www.ncbi.nlm.nih.gov/nuccore?term=33175%5BBioProject%5D+OR+33317%5BBioProject%5D). Whereas, genomes can be downloaded using the `download_genomes.sh` Bash scipt provided in `supplementray file 17`. To ensure reproductibility, we stronly recommend to verify the accession IDs provided in supplementary file 2 and supplementray file 17 to confirm that no extra sequences have been included before conducting analyses. 
 
 
-## **Repository Files**
+## Repository Files
 Here you can find a list of all supplementary files provided in this repository, and current set of subfolders include:
 
 
@@ -133,9 +133,9 @@ Here you can find a list of all supplementary files provided in this repository,
 ***Supplementary file 27***: Maximum-likelihood tree showing three distinguishable clades. (PDF 225KB)
 
 
-## **Reproducing analyses (QUICK Guide)** 
+## Reproducing analyses (QUICK Guide) 
 
-### **Analysis of 16S sequences from SILVA, Greengenes, RDP and NCBI**
+### Analysis of 16S sequences from SILVA, Greengenes, RDP and NCBI
 To reproduce the analyses, and phylogenetic tree using 16S sequences downloaded from SILVA, Greengenes, RDP and NCBI, please run the following scipts in this order order:
 - `gg_map_taxonomy.py` - (supplementary file 2) assign taxonomy to greengenes sequences
 - `get_complete_strep_seq.py` - (supplementary file 3) extract full-length (1200bp or more) *Streptomyces* 16S sequences, and standaralise base coding to thymine rather than uracil
@@ -158,7 +158,7 @@ To reproduce the analyses, and phylogenetic tree using 16S sequences downloaded 
 - `raxml_tbe.sh` - (supplementary file 10) get TBE values
 - `collapse_branches_AK.ipynb` - (supplementary file 11) collapse branches with the same names
 
-### **Analysis of 16S sequences from *Streptomyces* genomes**
+### Analysis of 16S sequences from *Streptomyces* genomes
 To reproduce the analyses, and phylogenetic tree using 16S sequences downloaded from SILVA, Greengenes, RDP and NCBI, please run the following scipts in this order order:
 
 - `download_genomes.sh` - (supplementary file 17) download *Streptomyces* genomes. NOTE: To ensure reproductibility, we stronly recommend to verify the accession IDs provided in supplementray file 17 to confirm that no extra sequences have been included or excluded before conducting analyses. 
