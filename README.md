@@ -1,13 +1,10 @@
-# README.md - Kiepas_et_al_2023_16S
-
-## 16S taxonomy and clustering is not a proxy for taxonomy in *Streptomyces*
+# README.md - Kiepas_et_al_2023_16S: 16S taxonomy and clustering is not a proxy for taxonomy in *Streptomyces*
 
 This repository contains all supplementary information for analyses reported in Kiepas *et al.* (2023) descibing inconsistencies between taxonomies inferred using 16S and whole-genome identities in *Streptomyces*. 
 
 This repository is provided to enable both reproduction and independed exploration of the analysis reported in this manuscript.
 
-
-# Table of contents
+## Table of contents
 
 1. [Reporting Problems](#reporting-problems)
 2. [Contributors](#contributors)
