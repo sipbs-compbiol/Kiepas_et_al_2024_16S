@@ -1,0 +1,25 @@
+#!/usr/bin/env streptomyces
+# -*- coding: utf-8 -*-
+# (c) University of Strathclyde 2023
+
+#
+# Author:
+# Angelika B. Kiepas
+#
+# Contact
+# angelika.kiepas@strath.ac.uk
+#
+# Angelika B. Kiepas
+# Strathclyde Institute of Pharmacy & Biomedical Sciences
+# University of Strathclyde
+# Glasgow
+# G4 0RE
+# Scotland, UK
+#
+# The CC-BY License (CC-BY)
+#
+# The work is licensed under a
+# Creative Commons Attribution 4.0 International License.
+
+# For more information, please see
+#  <http://creativecommons.org/licenses/by/4.0/>.
