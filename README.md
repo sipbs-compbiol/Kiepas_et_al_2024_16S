@@ -61,7 +61,7 @@ We strongly recommend to create a `conda` enviroment specific for this activity.
 ```bash
 conda create --name streptomyces python=3.8 -y
 conda activate streptomyces
-conda install --file requirements.`.txt` -y
+conda install --file requirements.txt -y
 ```
 
 You will need also to install the following software within the environment, and follow the installation instructions are appropriate for each program:
@@ -120,19 +120,31 @@ Here you can find a list of all supplementary files provided in this repository.
 
 `Supplementary file 20`: Network analysis of genomes based on shared 16S sequences. ZIP file containing jupyter notebook with NetworkX analysis and all associated output files including. bash script for pyANI analysis runs on all connected components and all associated matrices, heatmaps and log files. (ZIP 29MB)
 
-`Supplementary file 21`: Network analysis of genomes based on shared 16S sequences. ZIP file containing jupyter notebook with NetworkX analysis and all associated output files including. bash script for pyANI analysis runs on all connected components and all associated matrices, heatmaps and log files. (ZIP 29MB)
+`Supplementary file 21`: Interactive network graph. HTML file containing interactive network graph of genomes sharing common full-length 16S sequences with each node colour corresponding to the number of connections/degrees. (HTML 4.7MB)
 
-`Supplementary file 22`: Interactive network graph. HTML file containing interactive network graph of genomes sharing common full-length 16S sequences with each node colour corresponding to the number of connections/degrees. (HTML 4.7MB)
+`Supplementary file 22`: Interactive network graph. HTML file containing interactive network graph of genomes sharing common full-length 16S sequences showing clique (blue) and non-clique (green) components. (HTML 4.7MB)
 
-`Supplementary file 23`: Interactive network graph. HTML file containing interactive network graph of genomes sharing common full-length 16S sequences showing number of unique genera within each connected component. Single candidate genera are represented as a single node colour within a connected component. (HTML 4.7MB)
+`Supplementary file 23`: Interactive network graph. HTML file containing interactive network graph of genomes sharing common full-length 16S sequences showing number of unique genera within each connected component. Each candidate genus is represented as a single node colour within a connected component. (HTML 4.7MB)
 
-`Supplementary file 24`: Interactive network graph. HTML file containing interactive network graph of genomes sharing common full-length 16S sequences showing number of unique species within each connected component. Single candidate species are represented as a single node colour within a connected component. (HTML 4.7MB)
+`Supplementary file 24`: Interactive network graph. HTML file containing interactive network graph of genomes sharing common full-length 16S rRNA sequences showing number of unique species within each connected component. Each candidate species is represented as a single node colour within a connected component. (HTML 4.7MB)
 
-`Supplementary file 25`: Interactive network graph. HTML file containing interactive network graph of genomes sharing common full-length 16S sequences showing number of unique NCBI names within each connected component. Single NCBI names are represented as a single node colour within a connected component, and more than one NCBI names are represented as multiple node colours within a connected component. Gray nodes represent genomes currently lacking assigned species names. (HTML 4.7MB)
+`Supplementary file 25`: Interactive network graph. HTML file containing interactive network graph of genomes sharing common full-length 16S rRNA sequences showing number of unique NCBI names within each connected component. Each NCBI assigned name is represented as a single node colour within a connected component. Gray nodes represent genomes currently lacking assigned species names. (HTML 4.7MB)
 
-`Supplementary file 26`: Distribution of 16S copies per genome with a distinction between unique and total copies for genomes at assembly level complete and chromosome. (PDF 6KB)
+`Supplementary file 26`: Intragenomic 16S rRNA heterogeneity within 1,369 Streptomyces genomes which exclusively contain only full-length and ambiguity symbol-free 16S rRNA sequences. A total of 811 genomes containing single 16S rRNA sequences are not shown. (PDF 8KB)
 
-`Supplementary file 27`: Maximum-likelihood tree showing three distinguishable clades. (PDF 225KB)
+`Supplementary file 27`: Distribution of 16S copies per genome with a distinction between unique and total copies for genomes at assembly level complete and chromosome. (PDF 7KB)
+
+`Supplementary file 28`: Schematic workflow for construction of the full-length 16S rRNA Streptomyces phylogeny. Each arrow represents a process and is annotated with script used and corresponding supplementary file. Output/data files, and the number of remaining sequences after each step, are indicated by rectangles. The green shading represents a single processing step of collecting and collating 16S database sequences. (PDF 91KB)
+
+`Supplementary file 29`: Schematic representation of the pipeline used to filter publicly available Streptomyces genomes. (PDF 59KB)
+
+`Supplementary file 30`: Sankey plot showing counts of taxonomic names in source databases, assigned at ranks from phylum to genus, to sequences identified with a key word ‘Streptomyces’ in the taxonomy field. Note that Actinobacteria and Actinobacteriota are synonyms in LPSN for the correct Phylum name Actinomycetota, but that Actinomycetales and Streptomycetales are not taxonomic synonyms for each other. Streptomycetales is synonymous in LPSN with the correct name Kitasatosporales;   Actinomycetales is a distinct  taxonomic Order. The parent order of the Family Streptomycetaceae  in LPSN is Kitasatosporales. (PDF 64KB)
+
+`Supplementary file 31`: Rectangular phylogram of the comprehensive maximum-likelihood tree of the genus Streptomyces based on the 16S sequence diversity of all 5,064 full-length 16S rRNA sequences with 100 TBE values. (PDF 194KB)
+
+`Supplementary file 32`: Genomes sharing identical 16S rRNA sequences are assigned different names in NCBI. A total of 1,030 singleton clusters are not shown. (PDF 8KB)
+
+
 
 ## Reproducing analyses (QUICK Guide)
 
