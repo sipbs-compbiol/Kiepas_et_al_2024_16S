@@ -144,6 +144,13 @@ Here you can find a list of all supplementary files provided in this repository.
 
 `Supplementary file 32`: Genomes sharing identical 16S rRNA sequences are assigned different names in NCBI. A total of 1,030 singleton clusters are not shown. (PDF 8KB)
 
+`Supplementary File 33`: Phylogenetic tree. PDF file showing collapsed phylogenetic tree showing distribution of members of the novel Acintacidiphila genus. (PDF 228KB)
+`Supplementary File 34`: Phylogenetic tree. PDF file showing collapsed phylogenetic tree showing distribution of members of the novel Phaeacidiphilus genus. (PDF 228KB)
+`Supplementary File 35`: Phylogenetic tree. PDF file showing collapsed phylogenetic tree showing distribution of members of the novel Mangrovactinospora genus. (PDF 228KB)
+`Supplementary File 36`: Phylogenetic tree. PDF file showing collapsed phylogenetic tree showing distribution of members of the novel Wenjunlia genus. (PDF 228KB)
+`Supplementary File 37`: Phylogenetic tree. PDF file showing collapsed phylogenetic tree showing distribution of members of the novel Streptantibioticus genus. (PDF 228KB)
+
+
 
 
 ## Reproducing analyses (QUICK Guide)
