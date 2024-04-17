@@ -1,2 +1,5 @@
 # macOS files
 .DS_Store
+supplementary_files/*/.RData*
+supplementary_files/*/.Rhistory
+supplementary_files/*/.ipynb_checkpoints/
