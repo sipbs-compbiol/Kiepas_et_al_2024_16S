@@ -1,6 +1,6 @@
 # Supplementary file 6 - Post-clustering analysis
 
-This ZIP file contains all Python scripts and data needed to analyse the cluster comositions for each cluyering thereshold. 
+This ZIP file contains all Python scripts and data needed to analyse the cluster compositions for each clustering thereshold. 
 
 ## Current set of subfiles include:
 
