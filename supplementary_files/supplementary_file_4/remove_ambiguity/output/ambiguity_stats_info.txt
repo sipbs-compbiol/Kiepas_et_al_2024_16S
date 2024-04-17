@@ -1,0 +1,2 @@
+Average count of ambiguity per sequence: 5.509066784608581
+Variance: 498.36933398094465
