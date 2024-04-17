@@ -1,0 +1,3 @@
+9d354da236076d6dceb61a55654b79d7	GCF_003129505.1_ASM312950v1_genomic	Streptomyces sp. V2 1, whole genome shotgun sequence
+7e42aba902cecd6c9a6fd3c0b51f6061	GCF_003268535.2_ASM326853v2_genomic	Streptomyces sp. ST1015 chromosome, complete genome
+3c3b9b23a32db4b48e05a6e12082dc7a	GCF_003268555.1_ASM326855v1_genomic	Streptomyces sp. ST1020 NODE_1000_length_1063_cov_69.9494_ID_1999, whole genome shotgun sequence

@@ -1,0 +1,8 @@
+70c1a053e6c9cfafb432e7034c29b13c	GCF_000010605.1_ASM1060v1_genomic	Streptomyces griseus subsp. griseus NBRC 13350, complete sequence
+fa2b70aea14e814e54c10cfde2bd9d82	GCF_000177175.2_ASM17717v2_genomic	Streptomyces sp. ACT-1 strain XylebKG-1 scaffold_1, whole genome shotgun sequence
+fefc3f7fe20ba9131baddba7403d2f53	GCF_001723115.1_ASM172311v1_genomic	Streptomyces griseus strain NRRL B-2165 Streptomyces_griseus_NRRL_B-2165_contig_1, whole genome shotgun sequence
+1fed6cb799e589bbe60f8f001dce1361	GCF_009862245.1_ASM986224v1_genomic	Streptomyces sp. SID7816 SID7816.c1, whole genome shotgun sequence
+6117dc84e57d655ab359a26f865a5ab4	GCF_009863155.1_ASM986315v1_genomic	Streptomyces sp. SID4928 SID4928.c1, whole genome shotgun sequence
+eb909c9d4e048ae372241701d2b9bd0d	GCF_009866455.1_ASM986645v1_genomic	Streptomyces griseus strain CGMCC 4.18 Scaffold1, whole genome shotgun sequence
+7bf5cdafd575c15f44e939401716ad2f	GCF_900091905.1_IMG-taxon_2657245728_annotated_assembly_genomic	Streptomyces sp. OspMP-M43, whole genome shotgun sequence
+ad685b06dbd0a3c69a12302052db2949	GCF_900105705.1_IMG-taxon_2634166340_annotated_assembly_genomic	Streptomyces griseus strain DSM 40236, whole genome shotgun sequence

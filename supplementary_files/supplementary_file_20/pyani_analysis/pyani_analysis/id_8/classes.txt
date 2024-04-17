@@ -1,0 +1,2 @@
+89bd38d7db089fa01d6386b04c33076f	GCF_003671715.1_ASM367171v1_genomic	Streptomyces sp. E2N166 NODE_10_length_17074_cov_59.231930, whole genome shotgun sequence
+a23e007db3074efd23fcb6c12b2ca996	GCF_018070535.1_ASM1807053v1_genomic	Streptomyces sp. b94 B94_contig_1, whole genome shotgun sequence

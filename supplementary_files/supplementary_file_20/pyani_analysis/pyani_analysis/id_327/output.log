@@ -1,0 +1,45 @@
+[INFO] [pyani.scripts.pyani_script]: Processed arguments: Namespace(version=False, citation=False, logfile=PosixPath('pyani_analysis/id_327/output.log'), verbose=True, debug=False, disable_tqdm=False, scheduler='multiprocessing', workers=None, sgegroupsize=10000, sgeargs=None, jobprefix='PYANI', name='id_327', classes=PosixPath('pyani_analysis/id_327/classes.txt'), labels=PosixPath('pyani_analysis/id_327/labels.txt'), recovery=False, indir=PosixPath('pyani_analysis/id_327'), outdir=PosixPath('pyani_analysis/id_327/output'), dbpath=PosixPath('.pyani/pyanidb'), nucmer_exe=PosixPath('nucmer'), filter_exe=PosixPath('delta-filter'), maxmatch=False, nofilter=False, func=<function subcmd_anim at 0x11d3575e0>)
+[INFO] [pyani.scripts.pyani_script]: command-line: /opt/anaconda3/envs/pyani_v3/bin/pyani anim -i=pyani_analysis/id_327 -o pyani_analysis/id_327/output -v -l pyani_analysis/id_327/output.log --name id_327 --labels pyani_analysis/id_327/labels.txt --classes pyani_analysis/id_327/classes.txt
+[INFO] [pyani.scripts.pyani_script]: pyani version: 0.3.0-alpha
+[INFO] [pyani.scripts.pyani_script]: CITATION INFO
+[INFO] [pyani.scripts.pyani_script]: If you use pyani in your work, please cite the following publication:
+[INFO] [pyani.scripts.pyani_script]: 	Pritchard, L., Glover, R. H., Humphris, S., Elphinstone, J. G.,
+[INFO] [pyani.scripts.pyani_script]: 	& Toth, I.K. (2016) 'Genomics and taxonomy in diagnostics for
+[INFO] [pyani.scripts.pyani_script]: 	food security: soft-rotting enterobacterial plant pathogens.'
+[INFO] [pyani.scripts.pyani_script]: 	Analytical Methods, 8(1), 12–24. http://doi.org/10.1039/C5AY02550H
+[INFO] [pyani.scripts.pyani_script]: DEPENDENCIES
+[INFO] [pyani.scripts.pyani_script]: The authors of pyani gratefully acknowledge its dependence on
+[INFO] [pyani.scripts.pyani_script]: the following bioinformatics software:
+[INFO] [pyani.scripts.pyani_script]: 	MUMmer3: S. Kurtz, A. Phillippy, A.L. Delcher, M. Smoot, M. Shumway,
+[INFO] [pyani.scripts.pyani_script]: 	C. Antonescu, and S.L. Salzberg (2004), 'Versatile and open software
+[INFO] [pyani.scripts.pyani_script]: 	for comparing large genomes' Genome Biology 5:R12
+[INFO] [pyani.scripts.pyani_script]: 	BLAST+: Camacho C., Coulouris G., Avagyan V., Ma N., Papadopoulos J.,
+[INFO] [pyani.scripts.pyani_script]: 	Bealer K., & Madden T.L. (2008) 'BLAST+: architecture and applications.'
+[INFO] [pyani.scripts.pyani_script]: 	BMC Bioinformatics 10:421.
+[INFO] [pyani.scripts.pyani_script]: 	BLAST: Altschul, S.F., Madden, T.L., Schäffer, A.A., Zhang, J.,
+[INFO] [pyani.scripts.pyani_script]: 	Zhang, Z., Miller, W. & Lipman, D.J. (1997) 'Gapped BLAST and PSI-BLAST:
+[INFO] [pyani.scripts.pyani_script]: 	a new generation of protein database search programs.' Nucleic Acids Res.
+[INFO] [pyani.scripts.pyani_script]: 	25:3389-3402
+[INFO] [pyani.scripts.pyani_script]: 	Biopython: Cock PA, Antao T, Chang JT, Chapman BA, Cox CJ, Dalke A,
+[INFO] [pyani.scripts.pyani_script]: 	Friedberg I, Hamelryck T, Kauff F, Wilczynski B and de Hoon MJL
+[INFO] [pyani.scripts.pyani_script]: 	(2009) Biopython: freely available Python tools for computational
+[INFO] [pyani.scripts.pyani_script]: 	molecular biology and bioinformatics. Bioinformatics, 25, 1422-1423
+[INFO] [pyani.scripts.subcommands.subcmd_anim]: Running ANIm analysis
+[INFO] [pyani.scripts.subcommands.subcmd_anim]: MUMMer nucmer version: Darwin_3.1 (/opt/anaconda3/envs/pyani_v3/bin/nucmer)
+[INFO] [pyani.scripts.subcommands.subcmd_anim]: Analysis name: id_327
+[INFO] [pyani.pyani_files]: Checking for hashfile: pyani_analysis/id_327/GCF_000382745.1_ASM38274v1_genomic.fna.md5.
+[INFO] [pyani.pyani_files]: Checking for hashfile: pyani_analysis/id_327/GCF_009862105.1_ASM986210v1_genomic.fna.md5.
+[INFO] [pyani.scripts.subcommands.subcmd_anim]: Generating ANIm command-lines
+[INFO] [pyani.scripts.subcommands.subcmd_anim]: Compiling genomes for comparison
+[INFO] [pyani.scripts.subcommands.subcmd_anim]: Compiling pairwise comparisons (this can take time for large datasets)...
+[INFO] [pyani.scripts.subcommands.subcmd_anim]: 	...total pairwise comparisons to be performed: 1
+[INFO] [pyani.scripts.subcommands.subcmd_anim]: Checking database for existing comparison data...
+[INFO] [pyani.scripts.subcommands.subcmd_anim]: 	...after check, still need to run 1 comparisons
+[INFO] [pyani.scripts.subcommands.subcmd_anim]: Creating NUCmer jobs for ANIm
+[INFO] [pyani.scripts.subcommands.subcmd_anim]: Results not found for 1 comparisons; 1 new jobs built.
+[INFO] [pyani.scripts.subcommands.subcmd_anim]: Running jobs with multiprocessing
+[INFO] [pyani.scripts.subcommands.subcmd_anim]: Multiprocessing run completed without error
+[INFO] [pyani.scripts.subcommands.subcmd_anim]: ...jobs complete
+[INFO] [pyani.scripts.subcommands.subcmd_anim]: Adding comparison results to database...
+[INFO] [pyani.scripts.subcommands.subcmd_anim]: ...database updated.
+[INFO] [pyani.scripts.pyani_script]: Completed. Time taken: 12.552

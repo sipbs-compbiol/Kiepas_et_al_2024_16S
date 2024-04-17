@@ -1,0 +1,2 @@
+2ffbb330f67af3ff79f9ca8fb01d6b52	GCF_009863095.1_ASM986309v1_genomic	Streptomyces sp. SID4950 SID4950.c1, whole genome shotgun sequence
+da1a01ec84b12d6719453bcfeeb92fc5	GCF_900091845.1_IMG-taxon_2657245709_annotated_assembly_genomic	Streptomyces sp. SolWspMP-5a-2, whole genome shotgun sequence

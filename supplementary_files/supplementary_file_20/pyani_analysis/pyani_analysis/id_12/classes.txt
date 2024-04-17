@@ -1,0 +1,18 @@
+4a988393e5e55b56ec7502647dd7db49	GCF_001278095.1_ASM127809v1_genomic	Streptomyces sp. CFMR 7 strain CFMR-7 chromosome, complete genome
+7078758996d9906ccc52f7a012f08a9f	GCF_001751305.1_ASM175130v1_genomic	Streptomyces nanshensis strain SCSIO M10372 C1000, whole genome shotgun sequence
+a694dcc3e655ab8e267efc1f2a77853c	GCF_002804165.1_ASM280416v1_genomic	Streptomyces cavourensis strain 1AS2a chromosome, complete genome
+1ab019efa334a2c75751276e7e9c8fcb	GCF_003352445.1_ASM335244v1_genomic	Streptomyces cavourensis strain TJ430 chromosome, complete genome
+6a920efc8215c0003708cb5f0cf020da	GCF_003949895.1_ASM394989v1_genomic	Streptomyces sp. WAC04770 AA000317-1000_WAC04770, whole genome shotgun sequence
+7590246e1fbd971c9dc430e4e12197c7	GCF_004000405.1_ASM400040v1_genomic	Streptomyces sp. B27 1, whole genome shotgun sequence
+a1ad4b129cefc9fd0ef04dffe1e92876	GCF_004334925.1_ASM433492v1_genomic	Streptomyces sp. IBTA2 000000F_arrow, whole genome shotgun sequence
+af4fb100be4e5871d70e51aca6615f0d	GCF_006788935.1_ASM678893v1_genomic	Streptomyces cavourensis strain DSM 41795 Ga0264341_11, whole genome shotgun sequence
+ebbe8a0f888781340b066c5f2ab5b485	GCF_013363475.1_ASM1336347v1_genomic	Streptomyces sp. KAI-26 NODE_10_length_302916_cov_535.824, whole genome shotgun sequence
+029d28fe6c51b00fd7c528265a5be9f2	GCF_013363675.1_ASM1336367v1_genomic	Streptomyces sp. CAI-24 NODE_1007_length_1332_cov_1545.08, whole genome shotgun sequence
+5583a330193095f4eb953f060b862439	GCF_014649215.1_ASM1464921v1_genomic	Streptomyces cavourensis strain JCM 4298 sequence01, whole genome shotgun sequence
+c0aba6783e32eb5ddfe5678bdda925f4	GCF_018619495.1_ASM1861949v1_genomic	Streptomyces sp. COG21 ctg.s1.000000F_arrow, whole genome shotgun sequence
+4e135be669e10b8c13348e4259b48fcc	GCF_018619515.1_ASM1861951v1_genomic	Streptomyces sp. CYG21 000000F_arrow, whole genome shotgun sequence
+c195ada141568a512792a30c3827ef25	GCF_018619535.1_ASM1861953v1_genomic	Streptomyces sp. CYG20 000000F_arrow, whole genome shotgun sequence
+88ff9b0a1d9eef9350a1a9770de4c6db	GCF_018619555.1_ASM1861955v1_genomic	Streptomyces sp. COG19 ctg.s1.000000F_arrow, whole genome shotgun sequence
+a15ce8acea5f09d5ddbbdc3ebda5e307	GCF_018619575.1_ASM1861957v1_genomic	Streptomyces sp. CBG30 000000F_arrow, whole genome shotgun sequence
+216206475c33797244615b49c40984b3	GCF_018619585.1_ASM1861958v1_genomic	Streptomyces sp. COG20 ctg.s1.000000F_arrow, whole genome shotgun sequence
+414e20e87276f10a827344bfeb005fce	GCF_900091865.1_IMG-taxon_2657245711_annotated_assembly_genomic	Streptomyces sp. DvalAA-19, whole genome shotgun sequence

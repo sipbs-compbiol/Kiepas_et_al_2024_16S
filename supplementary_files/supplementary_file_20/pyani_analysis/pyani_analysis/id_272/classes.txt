@@ -1,0 +1,2 @@
+3907a5d99552b6d7b014508ff125e07f	GCF_009863035.1_ASM986303v1_genomic	Streptomyces sp. SID4982 SID4982.c1, whole genome shotgun sequence
+35b3c4b01b1801f7ca9736ff5996ce8b	GCF_019090105.1_ASM1909010v1_genomic	Streptomyces sp. BV129 BV129_1, whole genome shotgun sequence

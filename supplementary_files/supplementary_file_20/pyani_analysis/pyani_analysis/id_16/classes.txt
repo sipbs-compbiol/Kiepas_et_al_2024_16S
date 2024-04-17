@@ -1,0 +1,2 @@
+2b024bcf16f6b9069ae30022c76258e0	GCF_001704635.1_ASM170463v1_genomic	Streptomyces sparsogenes strain ATCC 25498 contig1, whole genome shotgun sequence
+3f4a5ca68f5e247b96a044d18fc9264d	GCF_001969965.1_Sparso1.0_genomic	Streptomyces sparsogenes DSM 40356 contig00001, whole genome shotgun sequence

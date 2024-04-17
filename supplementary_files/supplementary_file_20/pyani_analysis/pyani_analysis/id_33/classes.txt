@@ -1,0 +1,9 @@
+2ac32de9cb80c47072485d887bee55e1	GCF_000495755.1_PVA94-07.23_genomic	Streptomyces sp. PVA_94-07 strain PVA 94-07 chromosome, whole genome shotgun sequence
+20fe3d5ad4bbfda63524377fbf494f73	GCF_000797385.1_ASM79738v1_genomic	Streptomyces sp. CNQ431 contig_1, whole genome shotgun sequence
+a5f19c148db6e3db5754397c66dcff3e	GCF_000800535.1_ASM80053v1_genomic	Streptomyces sp. M10 Scaffold1, whole genome shotgun sequence
+789736650a914b8ebe1a3adc3736d90a	GCF_010523235.1_ASM1052323v1_genomic	Streptomyces sp. 604F chromosome, complete genome
+1d51466c5146b192c62884cb520896ea	GCF_013363465.1_ASM1336346v1_genomic	Streptomyces odorifer strain KAI-180 NODE_10_length_186757_cov_565.314, whole genome shotgun sequence
+6ecc5ce2ff34fa462114f791a0c6d118	GCF_013363485.1_ASM1336348v1_genomic	Streptomyces sp. KAI-27 NODE_1007_length_814_cov_447.327, whole genome shotgun sequence
+5f7061bc9e7570a2db31f67323c041fb	GCF_013363585.1_ASM1336358v1_genomic	Streptomyces sp. CAI-78 NODE_100_length_23159_cov_474.474, whole genome shotgun sequence
+1b5538621c2f348aa114758835e37a0c	GCF_015601545.1_ASM1560154v1_genomic	Streptomyces albidoflavus strain W68 chromosome, complete genome
+acccf8a1b6c6e8d08a5077d02cf48a88	GCF_018638335.1_ASM1863833v1_genomic	Streptomyces sp. G11C 1, whole genome shotgun sequence

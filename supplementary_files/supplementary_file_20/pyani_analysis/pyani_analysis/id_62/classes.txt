@@ -1,0 +1,6 @@
+09a771d5889a573874e6f6c90d6e09b7	GCF_003671675.1_ASM367167v1_genomic	Streptomyces sp. E2N171 s-171_contig_1, whole genome shotgun sequence
+1d051df6baf0d7e02f799ea8cff01d72	GCF_003671735.1_ASM367173v1_genomic	Streptomyces sp. E1N211 s-211_S3_L001_R1_001, whole genome shotgun sequence
+afb5bf9eae9e2ba3444c6ad7907163d2	GCF_009739225.1_ASM973922v1_genomic	Streptomyces sp. Z38 NODE_100_length_21226_cov_29.930897, whole genome shotgun sequence
+e16b830e52b4bafa67dff10ec8708c32	GCF_016432685.1_ASM1643268v1_genomic	Streptomyces sp. I4(2020) I4_1_1, whole genome shotgun sequence
+31c76652cd0a33e6ac916c536f9d7bf9	GCF_018638305.1_ASM1863830v1_genomic	Streptomyces sp. Vc74B-19 1, whole genome shotgun sequence
+91f18da13f62a0eb795b4b66046eebc2	GCF_018966745.1_ASM1896674v1_genomic	Streptomyces sp. PAM3C PAM3C_contig10_305735, whole genome shotgun sequence

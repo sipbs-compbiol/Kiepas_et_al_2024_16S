@@ -1,0 +1,3 @@
+e14a444e3e581ebf483d01ecbb68941d	GCF_003751445.1_ASM375144v1_genomic	Streptomyces sp. 840.1 Ga0299888_11, whole genome shotgun sequence
+e8d728812ffda6e05b75069392bb1bc7	GCF_004795105.1_ASM479510v1_genomic	Streptomyces sp. A0642 NODE_101_length_818_cov_271.801737, whole genome shotgun sequence
+634b94adfe4660ff7b84c14cfeed69f9	GCF_007829885.1_ASM782988v1_genomic	Streptomyces brevispora strain DSM 42059 Ga0264373_11, whole genome shotgun sequence

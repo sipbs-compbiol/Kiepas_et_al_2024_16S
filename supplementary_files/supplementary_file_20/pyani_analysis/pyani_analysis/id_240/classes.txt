@@ -1,0 +1,2 @@
+05b2404b224e1273d3054a8f65e5cb24	GCF_004364245.1_ASM436424v1_genomic	Streptomyces sp. BK208 Ga0307686_101, whole genome shotgun sequence
+0142540f5d7ad0fed6798f475a5c9dc4	GCF_014650435.1_ASM1465043v1_genomic	Streptomyces tendae strain JCM 4610 sequence001, whole genome shotgun sequence

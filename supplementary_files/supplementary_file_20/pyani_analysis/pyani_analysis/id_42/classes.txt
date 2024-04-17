@@ -1,0 +1,2 @@
+899ef0275cfee90cebcb6a8f0eed75c0	GCF_002154575.1_ASM215457v1_genomic	Streptomyces bobili strain NRRL B-1338 NRRL_B-1338_contig_1, whole genome shotgun sequence
+425d2a9db54c35ad1766c631128137be	GCF_008704575.1_ASM870457v1_genomic	Streptomyces galilaeus strain ATCC 14969 chromosome, complete genome

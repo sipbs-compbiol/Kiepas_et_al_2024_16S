@@ -1,0 +1,20 @@
+ecf541838bcf9ff778db5ce0ab52ff58	GCF_000717925.1_ASM71792v1_genomic	Streptomyces sp. NRRL S-241 contig1.1, whole genome shotgun sequence
+982e198ca41a315d315a0c35a797bfb1	GCF_000718935.1_ASM71893v1_genomic	Streptomyces sp. NRRL S-237 contig1.1, whole genome shotgun sequence
+a1476254c631d5683be7978870a58110	GCF_000718955.1_ASM71895v1_genomic	Streptomyces sp. NRRL S-575 contig1.1, whole genome shotgun sequence
+359ad2eebf169bbec692bb1aee4a7c60	GCF_000720115.1_ASM72011v1_genomic	Streptomyces sp. NRRL F-2580 contig1.1, whole genome shotgun sequence
+9b34e2e127dfc94ef68a81593bb982ad	GCF_000720795.1_ASM72079v1_genomic	Streptomyces sp. NRRL S-515 contig1.1, whole genome shotgun sequence
+379a7f8e3e0b27252fd3ef4c06d640b1	GCF_000725725.1_Doro.v1.0_genomic	Streptomyces xanthophaeus strain NRRL B-3004 contig1.1, whole genome shotgun sequence
+71bf7646551b7bcc1487c034906ac0c4	GCF_000725805.1_Doro.v1.0_genomic	Streptomyces xanthophaeus strain NRRL B-5414 Doro1_scaffold1, whole genome shotgun sequence
+19906e08d5a5c038bced8185d285550f	GCF_001270565.1_ASM127056v1_genomic	Streptomyces virginiae strain NRRL B-1447 P046contig1.1, whole genome shotgun sequence
+1831ec2f07073e4b24cff1039027e520	GCF_001279625.1_ASM127962v1_genomic	Streptomyces sp. WM6368 P399contig1.1, whole genome shotgun sequence
+06100b9f6798cdc135d8b34f9ef44563	GCF_001746425.1_ASM174642v1_genomic	Streptomyces subrutilus strain 10-1-1 plasmid pACMP1, whole genome shotgun sequence
+e8c867fe1123e010ed033e72f2e4a53f	GCF_002028385.1_ASM202838v1_genomic	Streptomyces sp. 3211 isolate 3 chromosome, complete genome
+5f26969e437b7a5258554adb79d7829c	GCF_002080455.1_ASM208045v1_genomic	Streptomyces sp. Sge12 chromosome, complete genome
+fde5297e1b49fc8cc41c33f2987f6267	GCF_003148825.1_ASM314882v1_genomic	Streptomyces sp. CG 926 Ga0105840_101, whole genome shotgun sequence
+13c9f2bef252e92b6eb5c0c6edbc69c3	GCF_008642275.1_ASM864227v1_genomic	Streptomyces venezuelae strain ATCC 21018 chromosome, complete genome
+3184cf00c8c54716dd73e16c073cba6e	GCF_014648615.1_ASM1464861v1_genomic	Streptomyces nojiriensis strain JCM 3382 sequence001, whole genome shotgun sequence
+78c60eb0c92c8454e38427a6546f6104	GCF_016755855.1_ASM1675585v1_genomic	Streptomyces nojiriensis strain NBRC 13794 sequence1, whole genome shotgun sequence
+8a4d971964e7f48254116e3fc0ebb1f7	GCF_016755875.1_ASM1675587v1_genomic	Streptomyces spororaveus strain NBRC 15456 sequence01, whole genome shotgun sequence
+84bd5f4eb25279a995fb03abb9434e86	GCF_016755895.1_ASM1675589v1_genomic	Streptomyces xanthophaeus strain NBRC 12829 sequence01, whole genome shotgun sequence
+2ae3cce98e40481038b4227c73223399	GCF_017639205.1_ASM1763920v1_genomic	Streptomyces nojiriensis strain JCM 3382 chromosome, complete genome
+836bf7cbaca6129dae49f894c214c5bf	GCF_018614075.1_ASM1861407v1_genomic	Streptomyces sp. ISL-94 ISL94_10, whole genome shotgun sequence

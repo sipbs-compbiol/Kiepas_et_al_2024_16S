@@ -1,0 +1,2 @@
+ceafadcf54c8257b2a07dc640eedccbf	GCF_005860785.2_ASM586078v2_genomic	Streptomyces sp. So13.3 chromosome, complete genome
+44cc0b971d46f9d714f4996b186ece10	GCF_010548345.1_ASM1054834v1_genomic	Streptomyces sp. SID13588 NODE_100_length_14930_cov_76.4407_ID_199/0, whole genome shotgun sequence

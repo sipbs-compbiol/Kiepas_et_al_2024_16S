@@ -1,0 +1,6 @@
+85c294c95aa0bc06ba2d7bb17e7b0885	GCF_003950055.1_ASM395005v1_genomic	Streptomyces sp. KPB2 chromosome, complete genome
+3e78e3d84ff5a389db3070c2cdb5d83f	GCF_004522685.1_ASM452268v1_genomic	Streptomyces sp. H23 NODE_108_length_1746_cov_290.034751, whole genome shotgun sequence
+2055b8f83e654dbd590c7474aa5531a5	GCF_011007525.1_ASM1100752v1_genomic	Streptomyces coelicoflavus strain F13 contig1, whole genome shotgun sequence
+4894f7443cbbe9b8c7d8c3c7eb6df177	GCF_013364375.1_ASM1336437v1_genomic	Streptomyces sp. NA03103 chromosome, complete genome
+940cc3253750503a54a6472d9ed68a96	GCF_014280945.1_ASM1428094v1_genomic	Streptomyces sp. SS06011 1, whole genome shotgun sequence
+21ed1e530e3d37db828522c8cdd69619	GCF_018310575.1_ASM1831057v1_genomic	Streptomyces sp. V17-9 chromosome, complete genome

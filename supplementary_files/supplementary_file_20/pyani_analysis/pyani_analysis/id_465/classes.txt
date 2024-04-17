@@ -1,0 +1,2 @@
+4d75b8a59b62217e711acb61c9a86b2e	GCF_018070175.1_ASM1807017v1_genomic	Streptomyces sp. RK74B RK74B_contig_1, whole genome shotgun sequence
+35bae3eb276281dbb913237f0ab2c260	GCF_018070265.1_ASM1807026v1_genomic	Streptomyces sp. RK23 RK23_contig_1, whole genome shotgun sequence

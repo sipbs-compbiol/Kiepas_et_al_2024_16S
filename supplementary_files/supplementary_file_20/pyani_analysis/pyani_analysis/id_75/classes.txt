@@ -1,0 +1,5 @@
+d3fb930392e6f59c9c64188ba83fcedd	GCF_000280865.2_ASM28086v2_genomic	Streptomyces auratus AGR0001 chromosome, complete genome
+6574c29293c3dac1b67c5509420f87b2	GCF_002797835.1_ASM279783v1_genomic	Streptomyces sp. 2333.5 Ga0151173_11, whole genome shotgun sequence
+b4aa895ac46b19080baac8ced5b36fa8	GCF_900104865.1_IMG-taxon_2684623024_annotated_assembly_genomic	Streptomyces sp. 2112.2, whole genome shotgun sequence
+789a6208a01edd496037f9c750933a85	GCF_900105525.1_IMG-taxon_2687453781_annotated_assembly_genomic	Streptomyces sp. 2314.4, whole genome shotgun sequence
+5f8a254b14964c5a95c7c51f5aa9b3ce	GCF_900221035.1_IMG-taxon_2738543001_annotated_assembly_genomic	Streptomyces sp. 2323.1 chromosome I

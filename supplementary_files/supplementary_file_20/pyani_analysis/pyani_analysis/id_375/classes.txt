@@ -1,0 +1,2 @@
+8165b2261fcf785b6a3fc01aa5f1501d	GCF_016612625.1_ASM1661262v1_genomic	Streptomyces sp. MBT62 scaffold100_size45266_cov56.9154, whole genome shotgun sequence
+d85402e4cbe719a4bff4925b837019b4	GCF_016654115.1_ASM1665411v1_genomic	Streptomyces sp. MBT53 scaffold100_size31955_cov59.4328, whole genome shotgun sequence

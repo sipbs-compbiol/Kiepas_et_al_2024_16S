@@ -1,0 +1,2 @@
+fa4e02e06a8c54b42e09f9315eca0c81	GCF_014205255.1_ASM1420525v1_genomic	Streptomyces caelestis strain DSM 40084 Ga0415167_01, whole genome shotgun sequence
+a19a59323a3fd3456fe55b1a0b52757b	GCF_014650295.1_ASM1465029v1_genomic	Streptomyces caelestis strain JCM 4566 sequence001, whole genome shotgun sequence

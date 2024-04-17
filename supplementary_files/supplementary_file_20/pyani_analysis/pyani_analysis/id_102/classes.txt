@@ -1,0 +1,4 @@
+d43b9caf6b7aa23629d0e08d923da779	GCF_001746415.1_ASM174641v1_genomic	Streptomyces agglomeratus strain 6-3-2, whole genome shotgun sequence
+9b29fa4b43d8eabb98b3216ce95a29ea	GCF_001746455.1_ASM174645v1_genomic	Streptomyces agglomeratus strain 9-3-15 plasmid pAM9P, whole genome shotgun sequence
+82e3d2f35dc6ecc7737286886cc11c69	GCF_001746465.1_ASM174646v1_genomic	Streptomyces agglomeratus strain 5-1-3 plasmid pAMP1, whole genome shotgun sequence
+c6127fc50936f3d1c1c3f3dbb021c6cd	GCF_001746475.1_ASM174647v1_genomic	Streptomyces agglomeratus strain 5-2-6, whole genome shotgun sequence

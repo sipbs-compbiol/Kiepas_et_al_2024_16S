@@ -1,0 +1,2 @@
+5cb937f9484f3fdeea757707ce96af13	GCF_000373565.1_ASM37356v1_genomic	Streptomyces sp. HmicA12 B072DRAFT_scaffold_0.1, whole genome shotgun sequence
+21921f9a5fe75574157ae4d01cc966de	GCF_009864845.1_ASM986484v1_genomic	Streptomyces sp. SID8379 SID8379.c1, whole genome shotgun sequence

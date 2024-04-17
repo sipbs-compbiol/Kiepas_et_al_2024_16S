@@ -1,0 +1,15 @@
+c9d1d364199bd920542f57dc6e80df40	GCF_000403665.1_Streptomyces_lividans_1326_genomic	Streptomyces lividans 1326 chromosome, whole genome shotgun sequence
+3152e7e5e3e9ec806e849e2c71f98716	GCF_000717845.1_ASM71784v1_genomic	Streptomyces violaceoruber strain NRRL S-12 contig1.1, whole genome shotgun sequence
+8591c9af4dd1d2cd2d0a216f3be49fd1	GCF_000739105.1_ASM73910v1_genomic	Streptomyces lividans TK24 chromosome, complete genome
+8a4d6ee63fe44297138b6d0f4445d63e	GCF_000972395.1_ASM97239v1_genomic	Streptomyces sp. WM6391 contig1.1, whole genome shotgun sequence
+78e4f6c1a957e2c0f7c35f0ed81f4611	GCF_003013745.1_ASM301374v1_genomic	Streptomyces sp. 111WW2 B0E38_1, whole genome shotgun sequence
+2afa80f4c35cbc828d6a59df55349f21	GCF_003387455.1_ASM338745v1_genomic	Streptomyces sp. 2221.1 Ga0151177_11, whole genome shotgun sequence
+0e6bdda81254999522024b077a8d0754	GCF_003671755.1_ASM367175v1_genomic	Streptomyces sp. E5N91 s-91_contig_1, whole genome shotgun sequence
+687312ef718fc8b1d90eba81fbf0006e	GCF_004795155.1_ASM479515v1_genomic	Streptomyces sp. LRa12 NODE_100_length_28379_cov_153.035042, whole genome shotgun sequence
+b131b906ce40f41461bec8d155a55117	GCF_008124975.1_ASM812497v1_genomic	Streptomyces coelicolor strain A3(2) R4-mCherry-17 Ga0316153_101, whole genome shotgun sequence
+0fdba036f58f6ed09b70b27195b38d96	GCF_008125035.1_ASM812503v1_genomic	Streptomyces coelicolor strain A3(2) R4-mCherry-18 Ga0316154_101, whole genome shotgun sequence
+56fe28b6253454150881979b640c0986	GCF_008931305.1_ASM893130v1_genomic	Streptomyces coelicolor A3(2) strain CFB_NBC_0001 chromosome, complete genome
+5a428d25abeffff852ac1c1ee70d14ce	GCF_009862445.1_ASM986244v1_genomic	Streptomyces sp. SID7813 SID7813.c1, whole genome shotgun sequence
+6c9267a3cdecdf6bec9c61c97d12f24c	GCF_013317105.1_ASM1331710v1_genomic	Streptomyces coelicolor strain M1154/pAMX4/pGP1416 chromosome, complete genome
+e61bfdd78563f0ccccf094d163cabb76	GCF_018070145.1_ASM1807014v1_genomic	Streptomyces sp. RK76 RK76_contig_1, whole genome shotgun sequence
+cbe15694b70a7c94c5f56daca3c6e8e7	GCF_900104935.1_IMG-taxon_2690315611_annotated_assembly_genomic	Streptomyces sp. 2114.2 chromosome I

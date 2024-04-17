@@ -1,0 +1,2 @@
+6139b6d27a202d2de2bdfd5924142f0c	GCF_003568675.1_ASM356867v1_genomic	Streptomyces sporangiiformans strain NEAU-SSA 1 C1723, whole genome shotgun sequence
+e50adc45720bc55d705eb0c5c23f454f	GCF_005768555.2_ASM576855v2_genomic	Streptomyces sporangiiformans strain NEAU-SSA 1 C1723, whole genome shotgun sequence

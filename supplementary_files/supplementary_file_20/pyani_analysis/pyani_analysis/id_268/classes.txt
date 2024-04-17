@@ -1,0 +1,2 @@
+e7f16af8f720b5c62ab3074dd3efc141	GCF_003955715.1_ASM395571v1_genomic	Streptomyces aquilus strain GGCR-6 chromosome, complete genome
+12d97aee5dafe009fc3f74e68cbe20f3	GCF_900206255.1_IMG-taxon_2739368069_annotated_assembly_genomic	Streptomyces sp. TLI_55, whole genome shotgun sequence

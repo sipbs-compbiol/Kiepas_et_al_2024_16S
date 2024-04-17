@@ -1,0 +1,4 @@
+128e48049b145cbc3d3b36c7743ccd28	GCF_008704855.1_ASM870485v1_genomic	Streptomyces platensis strain ATCC 23948 chromosome, complete genome
+da96af9ac7edd6875755ccda1eabdbea	GCF_009811555.1_ASM981155v1_genomic	Streptomyces caniferus strain NBRC 15389 sequence01, whole genome shotgun sequence
+e836462f4dac6038561dc6ea86a82eaa	GCF_009811575.1_ASM981157v1_genomic	Streptomyces glebosus strain NBRC 13786 sequence1, whole genome shotgun sequence
+31ad8d4928f61f741e35a772161db157	GCF_012273495.1_ASM1227349v1_genomic	Streptomyces sp. RPA4-5 chromosome

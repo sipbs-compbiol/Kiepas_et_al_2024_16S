@@ -1,0 +1,6 @@
+b996d5354876145581f2fec80f57cd57	GCF_000009765.2_ASM976v2_genomic	Streptomyces avermitilis MA-4680 = NBRC 14893, complete sequence
+980c4141d0d8729f58f183015063836a	GCF_001514135.1_ASM151413v1_genomic	Streptomyces avermitilis strain DSM 46492 PRJNA299228_s001, whole genome shotgun sequence
+ffafb93c862f7400581dbca2665dcb04	GCF_002017835.1_ASM201783v1_genomic	Streptomyces avermitilis strain MJM 7007 contig01, whole genome shotgun sequence
+d9f48dd432abf1d1454cd8879b51458f	GCF_005405965.1_ASM540596v1_genomic	Streptomyces avermitilis strain NBRC 14893 contig1, whole genome shotgun sequence
+17531412c7d4236d731e95a17f3536ef	GCF_005406005.1_ASM540600v1_genomic	Streptomyces avermitilis strain cw2 contig1, whole genome shotgun sequence
+e15db2415b3911da335e31553f630425	GCF_009862865.1_ASM986286v1_genomic	Streptomyces sp. SID5469 SID5469.c1, whole genome shotgun sequence

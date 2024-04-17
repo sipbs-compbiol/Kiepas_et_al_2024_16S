@@ -1,0 +1,2 @@
+544a3c7c1d799381481c9910516f600b	GCF_003248335.1_ASM324833v1_genomic	Streptomyces sp. AC1-42T contig1, whole genome shotgun sequence
+93f3b7bace98488e2d28764111ca3d32	GCF_003248355.1_ASM324835v1_genomic	Streptomyces sp. AC1-42W contig1, whole genome shotgun sequence

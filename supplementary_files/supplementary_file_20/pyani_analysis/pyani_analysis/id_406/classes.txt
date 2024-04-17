@@ -1,0 +1,2 @@
+493db12659c1c6c7f1a250918c3e98d2	GCF_014203535.1_ASM1420353v1_genomic	Streptomyces griseostramineus strain CECT 3273 Ga0436948_01, whole genome shotgun sequence
+6840bca9fb2a19213147d4821e73ccf6	GCF_014649635.1_ASM1464963v1_genomic	Streptomyces griseostramineus strain JCM 4385 sequence001, whole genome shotgun sequence

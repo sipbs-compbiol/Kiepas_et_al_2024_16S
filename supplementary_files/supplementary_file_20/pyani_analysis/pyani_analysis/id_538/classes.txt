@@ -1,0 +1,2 @@
+9720f4d279a1384e54ced560f40ee9ba	GCF_000342125.1_S.mobaraensisn_1.0_genomic	Streptomyces mobaraensis NBRC 13819 = DSM 40847 contig001, whole genome shotgun sequence
+97117de519dfe140aab0e7d0686d4409	GCF_017916255.1_ASM1791625v1_genomic	Streptomyces mobaraensis NBRC 13819 = DSM 40847 chromosome, complete genome
