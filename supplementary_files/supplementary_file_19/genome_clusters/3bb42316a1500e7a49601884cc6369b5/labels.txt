@@ -1,0 +1,2 @@
+68043df941c2cc81e283d0ea381e4ef2	GCF_001865245.1_ASM186524v1_genomic	Streptomyces sp. CC53 NODE_102_length_12356_cov_129.049606, whole genome shotgun sequence
+5e81b3e841c026466675097df9b1de27	GCF_009025935.1_ASM902593v1_genomic	Streptomyces sp. C8S0 chromosome

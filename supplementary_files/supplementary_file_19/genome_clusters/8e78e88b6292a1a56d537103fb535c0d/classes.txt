@@ -1,0 +1,2 @@
+3de43bc9380a6e66a59826f4c2372b6d	GCF_000802245.2_ASM80224v2_genomic	Streptomyces pluripotens strain MUSC 135 chromosome, complete genome
+9cb02579a78dbfe3b9406f38bd47eaf7	GCF_000816465.3_ASM81646v4_genomic	Streptomyces pluripotens strain MUSC 137 chromosome, complete genome

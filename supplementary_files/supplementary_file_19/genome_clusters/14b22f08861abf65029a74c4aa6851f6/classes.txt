@@ -1,0 +1,2 @@
+5f705439697d4d8364ff4bf1815dabad	GCF_014252945.1_ASM1425294v1_genomic	Streptomyces mexicanus strain Marseille-Q0842 NODE_10_length_333031_cov_17.681, whole genome shotgun sequence
+4d79227665eff304bbd9f08e76c3ebb1	GCF_902506575.1_Q0842_genomic	Streptomyces mexicanus strain Marseille-Q0842, whole genome shotgun sequence

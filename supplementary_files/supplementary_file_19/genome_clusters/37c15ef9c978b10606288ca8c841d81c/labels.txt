@@ -1,0 +1,2 @@
+c6bab61ff90d9c710b2dcd4e67d3a38f	GCF_000245355.1_ASM24535v1_genomic	Streptomyces hygroscopicus subsp. jinggangensis 5008, complete sequence
+36872f03dfd2235500709abed19d10cb	GCF_000340845.1_ASM34084v1_genomic	Streptomyces hygroscopicus subsp. jinggangensis TL01, complete sequence

@@ -1,0 +1,2 @@
+a694dcc3e655ab8e267efc1f2a77853c	GCF_002804165.1_ASM280416v1_genomic	Streptomyces cavourensis strain 1AS2a chromosome, complete genome
+1ab019efa334a2c75751276e7e9c8fcb	GCF_003352445.1_ASM335244v1_genomic	Streptomyces cavourensis strain TJ430 chromosome, complete genome

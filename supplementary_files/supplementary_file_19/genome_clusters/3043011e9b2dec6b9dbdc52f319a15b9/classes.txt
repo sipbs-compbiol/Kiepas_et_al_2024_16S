@@ -1,0 +1,2 @@
+8474411553843c8dcad40f27fb64c1fd	GCF_000237305.1_ASM23730v1_genomic	Streptomyces cattleya NRRL 8057 = DSM 46488, complete sequence
+16d81292d75101354d17bb9556548280	GCF_009862885.1_ASM986288v1_genomic	Streptomyces sp. SID5468 SID5468.c1, whole genome shotgun sequence

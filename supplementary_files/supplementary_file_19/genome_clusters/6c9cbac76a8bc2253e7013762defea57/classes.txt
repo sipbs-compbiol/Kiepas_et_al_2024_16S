@@ -1,0 +1,2 @@
+54c10e4ace60ffb5410eade2d2214c90	GCF_003675955.1_ASM367595v1_genomic	Streptomyces rapamycinicus NRRL 5491 unitig_0_quiver_68, whole genome shotgun sequence
+75c8df4cdad948962be6f01181981489	GCF_014205315.1_ASM1420531v1_genomic	Streptomyces rapamycinicus strain DSM 41530 Ga0104621_01, whole genome shotgun sequence

@@ -1,0 +1,6 @@
+	Streptomyces sp. V17-9 chromosome, complete genome:410	Streptomyces sp. KPB2 chromosome, complete genome:600	Streptomyces sp. H23 NODE_108_length_1746_cov_290.034751, whole genome shotgun sequence:601	Streptomyces coelicoflavus strain F13 contig1, whole genome shotgun sequence:602	Streptomyces sp. NA03103 chromosome, complete genome:603
+Streptomyces sp. V17-9 chromosome, complete genome:410	1.0	0.9813688404	0.9816092917	0.9704461186000001	0.9809870225
+Streptomyces sp. KPB2 chromosome, complete genome:600	0.9813688404	1.0	0.9912536102	0.9704809639	0.9929450866
+Streptomyces sp. H23 NODE_108_length_1746_cov_290.034751, whole genome shotgun sequence:601	0.9816092917	0.9912536102	1.0	0.9702653109	0.9908485011
+Streptomyces coelicoflavus strain F13 contig1, whole genome shotgun sequence:602	0.9704461186000001	0.9704809639	0.9702653109	1.0	0.9702007186
+Streptomyces sp. NA03103 chromosome, complete genome:603	0.9809870225	0.9929450866	0.9908485011	0.9702007186	1.0

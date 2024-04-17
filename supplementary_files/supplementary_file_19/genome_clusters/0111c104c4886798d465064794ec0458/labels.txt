@@ -1,0 +1,2 @@
+8f27465c2273e05836f5509fcd9b9ac3	GCF_016906185.1_ASM1690618v1_genomic	Streptomyces californicus strain FDAARGOS_1209 chromosome
+f8406501dafadbdc831611ffd68899a3	GCF_016906225.1_ASM1690622v1_genomic	Streptomyces californicus strain FDAARGOS_1211 chromosome

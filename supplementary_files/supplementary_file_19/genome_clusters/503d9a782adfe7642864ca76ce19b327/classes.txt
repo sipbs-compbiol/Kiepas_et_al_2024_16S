@@ -1,0 +1,2 @@
+48767fde0c4e5a13ff59c8e42b4436ff	GCF_000696595.1_StrepLeeu1.0_genomic	Streptomyces leeuwenhoekii strain C34 c34_sequence_0001, whole genome shotgun sequence
+a57eec03a161fde633829c0ae7181aad	GCF_001013905.1_sleC34_genomic	Streptomyces leeuwenhoekii strain type strain (C34 = DSM 42122 = NRRL B-24963) chromosome 1

@@ -1,0 +1,2 @@
+34b4c319c431b8f751c9b886a8fb58b7	GCF_008039505.1_ASM803950v1_genomic	Streptomyces sp. IB2014 016-6 contig00001, whole genome shotgun sequence
+b726df301532eee66b429918cf2c2577	GCF_010384365.1_ASM1038436v1_genomic	Streptomyces sp. S4.7 chromosome, complete genome

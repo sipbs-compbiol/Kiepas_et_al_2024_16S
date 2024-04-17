@@ -1,0 +1,4 @@
+	Streptomyces scabiei strain NRRL B-2801 NRRL_B-2801_contig_1, whole genome shotgun sequence:226	Streptomyces sp. ID-03-3A NODE_104_length_556_cov_23.223195, whole genome shotgun sequence:227	Streptomyces sp. ID-01-6.2a NODE_10_length_339236_cov_29.759327, whole genome shotgun sequence:228
+Streptomyces scabiei strain NRRL B-2801 NRRL_B-2801_contig_1, whole genome shotgun sequence:226	1.0	0.9953643215	0.9953570679
+Streptomyces sp. ID-03-3A NODE_104_length_556_cov_23.223195, whole genome shotgun sequence:227	0.9953643215	1.0	0.9999640976
+Streptomyces sp. ID-01-6.2a NODE_10_length_339236_cov_29.759327, whole genome shotgun sequence:228	0.9953570679	0.9999640976	1.0

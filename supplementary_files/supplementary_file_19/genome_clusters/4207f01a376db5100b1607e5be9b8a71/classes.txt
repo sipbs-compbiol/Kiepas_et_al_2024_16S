@@ -1,0 +1,2 @@
+e7ff8099fd18b7af93d8bc503530279c	GCF_002910725.2_ASM291072v2_genomic	Streptomyces sp. SM17 chromosome, complete genome
+ad37b01aeeda83ed6114f0b57f47135d	GCF_013376795.1_ASM1337679v1_genomic	Streptomyces violascens strain YIM 100212 chromosome, complete genome

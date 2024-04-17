@@ -1,0 +1,6 @@
+	Streptomyces baarnensis strain NRRL B-2842 P144_Doro1_scaffold1, whole genome shotgun sequence:205	Streptomyces sp. st115 scaffold1.1.size182222, whole genome shotgun sequence:206	Streptomyces sp. B226SN101 1000_20763_1301636, whole genome shotgun sequence:207	Streptomyces sp. B188M101 1011_941_61361, whole genome shotgun sequence:208	Streptomyces griseus strain JCM 4516 sequence01, whole genome shotgun sequence:209
+Streptomyces baarnensis strain NRRL B-2842 P144_Doro1_scaffold1, whole genome shotgun sequence:205	1.0	0.9886271152	0.9912602433000001	0.9912132297	0.9907322049
+Streptomyces sp. st115 scaffold1.1.size182222, whole genome shotgun sequence:206	0.9886271152	1.0	0.9887546945000001	0.9887200739	0.9883341609
+Streptomyces sp. B226SN101 1000_20763_1301636, whole genome shotgun sequence:207	0.9912602433000001	0.9887546945000001	1.0	0.9998048197	0.9906327920000001
+Streptomyces sp. B188M101 1011_941_61361, whole genome shotgun sequence:208	0.9912132297	0.9887200739	0.9998048197	1.0	0.9906819194
+Streptomyces griseus strain JCM 4516 sequence01, whole genome shotgun sequence:209	0.9907322049	0.9883341609	0.9906327920000001	0.9906819194	1.0

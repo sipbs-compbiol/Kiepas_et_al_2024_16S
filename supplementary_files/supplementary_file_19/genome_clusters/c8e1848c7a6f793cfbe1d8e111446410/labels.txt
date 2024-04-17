@@ -1,0 +1,2 @@
+eb6be7873472ad6b970627595a98f15b	GCF_002019855.1_ASM201985v1_genomic	Streptomyces antibioticus strain DSM 41481 chromosome, whole genome shotgun sequence
+57ef5f9ce099697dec403036e0e3edd6	GCF_013363615.1_ASM1336361v1_genomic	Streptomyces sp. CAI-85 NODE_1044_length_4626_cov_422.592, whole genome shotgun sequence

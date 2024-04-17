@@ -1,0 +1,8 @@
+	Streptomyces sp. IBTA2 000000F_arrow, whole genome shotgun sequence:213	Streptomyces sp. COG21 ctg.s1.000000F_arrow, whole genome shotgun sequence:214	Streptomyces sp. CYG21 000000F_arrow, whole genome shotgun sequence:215	Streptomyces sp. CYG20 000000F_arrow, whole genome shotgun sequence:216	Streptomyces sp. COG19 ctg.s1.000000F_arrow, whole genome shotgun sequence:217	Streptomyces sp. COG20 ctg.s1.000000F_arrow, whole genome shotgun sequence:218	Streptomyces sp. CBG30 000000F_arrow, whole genome shotgun sequence:247
+Streptomyces sp. IBTA2 000000F_arrow, whole genome shotgun sequence:213	1.0	0.9998600572	0.9998364363000001	0.9998698924	0.9998398454	0.9998155002	0.9998331971000001
+Streptomyces sp. COG21 ctg.s1.000000F_arrow, whole genome shotgun sequence:214	0.9998600572	1.0	0.9998316181	0.9998673191	0.9997957117	0.9998206356	0.9998360833000001
+Streptomyces sp. CYG21 000000F_arrow, whole genome shotgun sequence:215	0.9998364363000001	0.9998316181	1.0	0.9998564052000001	0.9998123327	0.9998089066	0.9997906427000001
+Streptomyces sp. CYG20 000000F_arrow, whole genome shotgun sequence:216	0.9998698924	0.9998673191	0.9998564052000001	1.0	0.9998167063000001	0.9998399265000001	0.9998379967000001
+Streptomyces sp. COG19 ctg.s1.000000F_arrow, whole genome shotgun sequence:217	0.9998398454	0.9997957117	0.9998123327	0.9998167063000001	1.0	0.9997758695000001	0.9998273961
+Streptomyces sp. COG20 ctg.s1.000000F_arrow, whole genome shotgun sequence:218	0.9998155002	0.9998206356	0.9998089066	0.9998399265000001	0.9997758695000001	1.0	0.9997970162
+Streptomyces sp. CBG30 000000F_arrow, whole genome shotgun sequence:247	0.9998331971000001	0.9998360833000001	0.9997906427000001	0.9998379967000001	0.9998273961	0.9997970162	1.0

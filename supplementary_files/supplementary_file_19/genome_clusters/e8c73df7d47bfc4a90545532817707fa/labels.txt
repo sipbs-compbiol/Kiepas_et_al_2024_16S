@@ -1,0 +1,2 @@
+7379ed4951d87c89e0e2f219ba338388	GCF_016916835.1_ASM1691683v1_genomic	Streptomyces bryophytorum strain DSM 42138 1, whole genome shotgun sequence
+10abc84f8bf8027c23f7fed69b2ba774	GCF_017164735.1_ASM1716473v1_genomic	Streptomyces bryophytorum strain DSM 42138 1, whole genome shotgun sequence

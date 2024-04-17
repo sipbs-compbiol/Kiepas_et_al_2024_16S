@@ -1,0 +1,5 @@
+7504f64d2983bbd19f19640185e7f37c	GCF_001905505.1_ASM190550v1_genomic	Streptomyces sp. CB02058 scaffold1, whole genome shotgun sequence
+2e4beeb671c2cd8a4c9e8caf145844e7	GCF_002711365.1_ASM271136v1_genomic	Streptomyces sp. LamerLS-316 B046DRAFT_scaffold_0.1_C, whole genome shotgun sequence
+9517a402ab8a17f043ff2a0aed5def06	GCF_002941025.1_ASM294102v1_genomic	Streptomyces sp. QL37 scaffold1_size8772908, whole genome shotgun sequence
+59d3bcfa383d2ccf7d529f0339c47d4c	GCF_004125315.1_ASM412531v1_genomic	Streptomyces sp. M3 Endophyte_M3_0, whole genome shotgun sequence
+294c55101d210c210663c9f2bd1826ce	GCF_009863285.1_ASM986328v1_genomic	Streptomyces sp. SID4921 SID4921.c1, whole genome shotgun sequence

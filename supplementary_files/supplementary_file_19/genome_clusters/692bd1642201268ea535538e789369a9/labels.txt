@@ -1,0 +1,2 @@
+940cc3253750503a54a6472d9ed68a96	GCF_014280945.1_ASM1428094v1_genomic	Streptomyces sp. SS06011 1, whole genome shotgun sequence
+21ed1e530e3d37db828522c8cdd69619	GCF_018310575.1_ASM1831057v1_genomic	Streptomyces sp. V17-9 chromosome, complete genome

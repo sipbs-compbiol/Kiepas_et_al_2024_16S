@@ -1,0 +1,2 @@
+0a6dfb51db938cb7f65e44324e363af0	GCF_002192455.1_ASM219245v1_genomic	Streptomyces albireticuli strain MDJK11 chromosome, complete genome
+35f918a4ed59ecb0f267817cc3253fe8	GCF_002286695.1_ASM228669v1_genomic	Streptomyces albireticuli strain NRRL B-1670 B1670_0001, whole genome shotgun sequence

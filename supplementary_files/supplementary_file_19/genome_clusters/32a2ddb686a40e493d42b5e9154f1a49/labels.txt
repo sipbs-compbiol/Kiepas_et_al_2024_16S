@@ -1,0 +1,6 @@
+a1ad4b129cefc9fd0ef04dffe1e92876	GCF_004334925.1_ASM433492v1_genomic	Streptomyces sp. IBTA2 000000F_arrow, whole genome shotgun sequence
+c0aba6783e32eb5ddfe5678bdda925f4	GCF_018619495.1_ASM1861949v1_genomic	Streptomyces sp. COG21 ctg.s1.000000F_arrow, whole genome shotgun sequence
+4e135be669e10b8c13348e4259b48fcc	GCF_018619515.1_ASM1861951v1_genomic	Streptomyces sp. CYG21 000000F_arrow, whole genome shotgun sequence
+c195ada141568a512792a30c3827ef25	GCF_018619535.1_ASM1861953v1_genomic	Streptomyces sp. CYG20 000000F_arrow, whole genome shotgun sequence
+88ff9b0a1d9eef9350a1a9770de4c6db	GCF_018619555.1_ASM1861955v1_genomic	Streptomyces sp. COG19 ctg.s1.000000F_arrow, whole genome shotgun sequence
+216206475c33797244615b49c40984b3	GCF_018619585.1_ASM1861958v1_genomic	Streptomyces sp. COG20 ctg.s1.000000F_arrow, whole genome shotgun sequence

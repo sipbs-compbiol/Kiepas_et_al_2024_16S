@@ -1,0 +1,16 @@
+c8414d0808498ba171e77f23ca5bf725	GCF_000091305.1_ASM9130v1_genomic	Streptomyces scabiei 87.22, complete sequence
+b75d946ff8f1e58649091357259e4d50	GCF_001550215.1_ASM155021v1_genomic	Streptomyces scabiei strain 85-08 8508_1.1, whole genome shotgun sequence
+f29029e265c09090e0c6af34790000c3	GCF_001550225.1_ASM155022v1_genomic	Streptomyces scabiei strain 95-18 9518_1.1, whole genome shotgun sequence
+a5bee926233be90f0fee243032ddcc7c	GCF_001550235.1_ASM155023v1_genomic	Streptomyces scabiei strain 96-08 9608_1.1, whole genome shotgun sequence
+ce23eab0d08f513389b604b4dffe630d	GCF_001579685.1_ASM157968v1_genomic	Streptomyces scabiei strain 96-06 9606_1001.1.1, whole genome shotgun sequence
+06a61670508c9eb2ccf0f3769379596d	GCF_003584815.1_ASM358481v1_genomic	Streptomyces scabiei strain ST129 NODE_1000_length_1814_cov_35.8931_ID_2001, whole genome shotgun sequence
+1241fdbb11523d0e07ef679d5a067406	GCF_017933115.1_ASM1793311v1_genomic	Streptomyces sp. LBUM 1482 chromosome
+3bc558b748980ce35a75e297f41f293e	GCF_017933235.1_ASM1793323v1_genomic	Streptomyces sp. LBUM 1480 chromosome
+8e0ec88bf8c107285250cb59f81896ac	GCF_017933255.1_ASM1793325v1_genomic	Streptomyces sp. LBUM 1475 chromosome
+f6439fe9c7d09e71f36aad99b97e0433	GCF_017968905.1_ASM1796890v1_genomic	Streptomyces sp. LBUM 1487 LBUM1487seq1, whole genome shotgun sequence
+837faa86e99fd7b8c561e447ba7f0bd6	GCF_017968935.1_ASM1796893v1_genomic	Streptomyces sp. LBUM 1488 LBUM1488seq1, whole genome shotgun sequence
+f31ede50b39882fd6f4e10f933b62afd	GCF_017968965.1_ASM1796896v1_genomic	Streptomyces sp. LBUM 1486 LBUM1486seq1, whole genome shotgun sequence
+7e6e963cf15b9d329dc530317c9cd5cf	GCF_017969005.1_ASM1796900v1_genomic	Streptomyces sp. LBUM 1483 LBUM1483seq1, whole genome shotgun sequence
+f4b8a712f459157c9028eaf5cff03013	GCF_017969025.1_ASM1796902v1_genomic	Streptomyces sp. LBUM 1481 LBUM1481seq1, whole genome shotgun sequence
+7debe0225df52f270c1e39fd7db6fcc5	GCF_017969045.1_ASM1796904v1_genomic	Streptomyces sp. LBUM 1477 LBUM1477seq1, whole genome shotgun sequence
+a29046b70ef6d8f3dd0fdf03c05dc793	GCF_017969075.1_ASM1796907v1_genomic	Streptomyces sp. LBUM 1479 LBUM1479seq1, whole genome shotgun sequence

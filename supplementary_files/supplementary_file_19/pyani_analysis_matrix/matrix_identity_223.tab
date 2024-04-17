@@ -1,0 +1,6 @@
+	Streptomyces sp. SolWspMP-sol2th B083DRAFT_scaffold_0.1_C, whole genome shotgun sequence:678	Streptomyces sp. S8 chromosome, complete genome:679	Streptomyces sp. 1AS2c 1AS2c.1_100_DSM105299.00100_1AS2c.1, whole genome shotgun sequence:680	Streptomyces sp. SID8359 SID8359.c1, whole genome shotgun sequence:681	Streptomyces sp. 196(2019) strain 196 NODE_100_length_8259_cov_11.5219, whole genome shotgun sequence:682
+Streptomyces sp. SolWspMP-sol2th B083DRAFT_scaffold_0.1_C, whole genome shotgun sequence:678	1.0	0.9864905056000001	0.9865400591000001	1.0	0.9862638322
+Streptomyces sp. S8 chromosome, complete genome:679	0.9864905056000001	1.0	0.9928269105	0.9864880008	0.9939967564000001
+Streptomyces sp. 1AS2c 1AS2c.1_100_DSM105299.00100_1AS2c.1, whole genome shotgun sequence:680	0.9865400591000001	0.9928269105	1.0	0.9864748962000001	0.9929040016
+Streptomyces sp. SID8359 SID8359.c1, whole genome shotgun sequence:681	1.0	0.9864880008	0.9864748962000001	1.0	0.9862638322
+Streptomyces sp. 196(2019) strain 196 NODE_100_length_8259_cov_11.5219, whole genome shotgun sequence:682	0.9862638322	0.9939967564000001	0.9929040016	0.9862638322	1.0

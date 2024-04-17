@@ -1,0 +1,5 @@
+5378a437a95487253255b5e74340c548	GCF_001748165.1_ASM174816v1_genomic	Streptomyces sp. SPMA113 strain NBRC 110612, whole genome shotgun sequence
+3d5f85be54c0de661613439915242ec3	GCF_002591335.1_ASM259133v1_genomic	Streptomyces malaysiensis strain DSM 4137 chromosome, complete genome
+b29bc25615216300c135d2b907fd6db8	GCF_002812405.1_ASM281240v1_genomic	Streptomyces sp. M56 chromosome
+72b1ec2cdc0fd165cc83933374d01b5e	GCF_011800555.1_ASM1180055v1_genomic	Streptomyces malaysiensis strain DSM 14702 A843_AS5_SC1, whole genome shotgun sequence
+8d06d88b13e650c0fd8260101ca76c9c	GCF_015689475.1_ASM1568947v1_genomic	Streptomyces solisilvae strain HNM0141 chromosome, complete genome

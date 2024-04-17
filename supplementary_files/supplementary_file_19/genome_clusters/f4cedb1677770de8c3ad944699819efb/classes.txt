@@ -1,0 +1,2 @@
+b241cbd5eba77fa32ad465dfd303cc24	GCF_001267885.1_ASM126788v1_genomic	Streptomyces ambofaciens ATCC 23877 chromosome, complete genome
+673efe41d6c5307a42cbfb1558ff1f00	GCF_001632865.1_ASM163286v1_genomic	Streptomyces ambofaciens strain DSM 40697 chromosome, complete genome

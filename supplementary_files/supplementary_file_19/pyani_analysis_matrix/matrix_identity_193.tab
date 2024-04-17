@@ -1,0 +1,6 @@
+	Streptomyces scabiei strain NCPPB 4086 scf_65433_1.1, whole genome shotgun sequence:606	Streptomyces europaeiscabiei strain NRRL B-24443 B24443_contig_1, whole genome shotgun sequence:607	Streptomyces scabiei strain 96-08 9608_1.1, whole genome shotgun sequence:608	Streptomyces europaeiscabiei strain 89-04 8904_1.1, whole genome shotgun sequence:609	Streptomyces scabiei strain NRRL B-2796 NRRL_B-2796_contig_1, whole genome shotgun sequence:610
+Streptomyces scabiei strain NCPPB 4086 scf_65433_1.1, whole genome shotgun sequence:606	1.0	0.9663335079	0.9143539989	0.9657470496	0.9620827205
+Streptomyces europaeiscabiei strain NRRL B-24443 B24443_contig_1, whole genome shotgun sequence:607	0.9663335079	1.0	0.9175078839	0.9989677007000001	0.9622759202000001
+Streptomyces scabiei strain 96-08 9608_1.1, whole genome shotgun sequence:608	0.9143539989	0.9175078839	1.0	0.9165424136	0.9179468031
+Streptomyces europaeiscabiei strain 89-04 8904_1.1, whole genome shotgun sequence:609	0.9657470496	0.9989677007000001	0.9165424136	1.0	0.9616846156000001
+Streptomyces scabiei strain NRRL B-2796 NRRL_B-2796_contig_1, whole genome shotgun sequence:610	0.9620827205	0.9622759202000001	0.9179468031	0.9616846156000001	1.0

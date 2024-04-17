@@ -1,0 +1,6 @@
+5babe34956ee26036dd2611d7335df70	GCF_002154415.1_ASM215441v1_genomic	Streptomyces angustmyceticus strain NRRL B-2347 NRRL_B-2347_contig_1, whole genome shotgun sequence
+d24783bae68c1624b085da1d85b9226e	GCF_002300315.1_ASM230031v1_genomic	Streptomyces sp. 2321.6 Ga0151170_11, whole genome shotgun sequence
+3c6866c6d0c2cdb3156e1fbbfb7d8771	GCF_900102245.1_IMG-taxon_2671180083_annotated_assembly_genomic	Streptomyces sp. KS_16, whole genome shotgun sequence
+5f40fa0e810e58c348b35e935720907d	GCF_900105235.1_IMG-taxon_2687453697_annotated_assembly_genomic	Streptomyces sp. 2133.1, whole genome shotgun sequence
+236063f6f5e8ab134a35d25836a101b0	GCF_900105775.1_IMG-taxon_2684623030_annotated_assembly_genomic	Streptomyces sp. 2112.3, whole genome shotgun sequence
+02f1b59b5746c9147739d1de9816f938	GCF_900187385.1_IMG-taxon_2731639226_annotated_assembly_genomic	Streptomyces sp. 2114.4, whole genome shotgun sequence

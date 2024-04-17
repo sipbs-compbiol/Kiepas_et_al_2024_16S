@@ -1,0 +1,2 @@
+d6b99488155cf48b97e79831cf4dd566	GCF_013167895.1_ASM1316789v1_genomic	Streptomyces fulvorobeus strain NBRC 15897 sequence1, whole genome shotgun sequence
+a57dc809d3299e270e6720ef15946623	GCF_013409565.1_ASM1340956v1_genomic	Streptomyces fulvorobeus strain DSM 41455 Ga0265265_01, whole genome shotgun sequence

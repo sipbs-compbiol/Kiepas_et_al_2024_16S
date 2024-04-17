@@ -1,0 +1,2 @@
+8a002b621ea3d434a2266bfb4c4ca444	GCF_000092385.1_ASM9238v1_genomic	Streptomyces bingchenggensis BCW-1, complete sequence
+3e68fe3909b236d5a2004989982058b3	GCF_002154605.1_ASM215460v1_genomic	Streptomyces milbemycinicus strain NRRL 5739 NRRL_5739_contig_1, whole genome shotgun sequence

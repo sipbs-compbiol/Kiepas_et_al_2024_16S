@@ -1,0 +1,2 @@
+7d0229f38ab55519523b6e5ce427693a	GCF_003112515.1_ASM311251v1_genomic	Streptomyces fragilis strain NBRC 12862, whole genome shotgun sequence
+dae6c103d56da7cb4b07c9a715328052	GCF_013421635.1_ASM1342163v1_genomic	Streptomyces sp. UH6 UH6_Assembly_Unicycler_contig_1, whole genome shotgun sequence

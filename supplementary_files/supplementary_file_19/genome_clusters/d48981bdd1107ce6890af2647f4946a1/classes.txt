@@ -1,0 +1,2 @@
+4a988393e5e55b56ec7502647dd7db49	GCF_001278095.1_ASM127809v1_genomic	Streptomyces sp. CFMR 7 strain CFMR-7 chromosome, complete genome
+a694dcc3e655ab8e267efc1f2a77853c	GCF_002804165.1_ASM280416v1_genomic	Streptomyces cavourensis strain 1AS2a chromosome, complete genome

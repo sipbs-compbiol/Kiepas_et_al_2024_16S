@@ -1,0 +1,2 @@
+fa2b70aea14e814e54c10cfde2bd9d82	GCF_000177175.2_ASM17717v2_genomic	Streptomyces sp. ACT-1 strain XylebKG-1 scaffold_1, whole genome shotgun sequence
+6117dc84e57d655ab359a26f865a5ab4	GCF_009863155.1_ASM986315v1_genomic	Streptomyces sp. SID4928 SID4928.c1, whole genome shotgun sequence

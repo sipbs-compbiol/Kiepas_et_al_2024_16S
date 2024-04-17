@@ -1,0 +1,2 @@
+c5ac4e0be6dcd030b843ed1a74569127	GCF_000718675.1_ASM71867v1_genomic	Streptomyces rimosus subsp. rimosus strain NRRL WC-3930 contig1.1, whole genome shotgun sequence
+8631b2c1a106bdc0a3757e3573846456	GCF_000721665.1_ASM72166v1_genomic	Streptomyces rimosus subsp. rimosus strain NRRL WC-3929 contig1.1, whole genome shotgun sequence

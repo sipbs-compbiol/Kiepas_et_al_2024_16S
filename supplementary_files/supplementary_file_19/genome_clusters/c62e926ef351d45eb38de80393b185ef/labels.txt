@@ -1,0 +1,2 @@
+196be30319a21a91604b2cbbeb1c353c	GCF_011170145.1_ASM1117014v1_genomic	Streptomyces gougerotii strain NBRC 13043 sequence01, whole genome shotgun sequence
+e9e6d9fa3f841302061458c6a29ae6da	GCF_900460115.1_53878_B01_genomic	Streptomyces griseus strain NCTC7807, whole genome shotgun sequence

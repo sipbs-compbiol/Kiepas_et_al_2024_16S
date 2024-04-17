@@ -1,0 +1,2 @@
+7a11a3b17e9054d49a5339ef90ac980a	GCF_002573955.1_ASM257395v1_genomic	Streptomyces sp. Ru87 NODE_100_length_20187_cov_44.3261_ID_12849, whole genome shotgun sequence
+3b4d6fa13b7bfe514a6cbc530c8f9076	GCF_009735685.1_ASM973568v1_genomic	Streptomyces sp. TRM66187 strain TRM 66187 1000, whole genome shotgun sequence

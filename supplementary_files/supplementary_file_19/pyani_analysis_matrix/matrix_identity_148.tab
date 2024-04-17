@@ -1,0 +1,8 @@
+	Streptomyces sp. S1A1-3 chromosome:364	Streptomyces sp. WAC00263 unitig_0, whole genome shotgun sequence:489	Streptomyces sp. S1D4-14 chromosome, complete genome:490	Streptomyces sp. RLB1-33 chromosome, complete genome:491	Streptomyces sp. RLA2-12 RLA212_1, whole genome shotgun sequence:492	Streptomyces mirabilis strain P16B-1 chromosome, complete genome:493	Streptomyces sp. OK228, whole genome shotgun sequence:494
+Streptomyces sp. S1A1-3 chromosome:364	1.0	0.9827496563	0.9927084363	0.9531703472	0.9928684551	0.9549684888000001	0.9904397942000001
+Streptomyces sp. WAC00263 unitig_0, whole genome shotgun sequence:489	0.9827496563	1.0	0.9829102850000001	0.9522120561	0.9831255848	0.9538306532	0.9822868161
+Streptomyces sp. S1D4-14 chromosome, complete genome:490	0.9927084363	0.9829102850000001	1.0	0.9528819932	0.9996385927	0.9549661692	0.9906516585
+Streptomyces sp. RLB1-33 chromosome, complete genome:491	0.9531703472	0.9522120561	0.9528819932	1.0	0.9535510414	0.9973963736	0.952635399
+Streptomyces sp. RLA2-12 RLA212_1, whole genome shotgun sequence:492	0.9928684551	0.9831255848	0.9996385927	0.9535510414	1.0	0.9551052629000001	0.9907720427000001
+Streptomyces mirabilis strain P16B-1 chromosome, complete genome:493	0.9549684888000001	0.9538306532	0.9549661692	0.9973963736	0.9551052629000001	1.0	0.9549533813000001
+Streptomyces sp. OK228, whole genome shotgun sequence:494	0.9904397942000001	0.9822868161	0.9906516585	0.952635399	0.9907720427000001	0.9549533813000001	1.0

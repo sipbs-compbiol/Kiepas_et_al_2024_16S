@@ -1,0 +1,6 @@
+	Streptomyces sp. CB02058 scaffold1, whole genome shotgun sequence:163	Streptomyces sp. LamerLS-316 B046DRAFT_scaffold_0.1_C, whole genome shotgun sequence:164	Streptomyces sp. QL37 scaffold1_size8772908, whole genome shotgun sequence:165	Streptomyces sp. M3 Endophyte_M3_0, whole genome shotgun sequence:166	Streptomyces sp. SID4921 SID4921.c1, whole genome shotgun sequence:167
+Streptomyces sp. CB02058 scaffold1, whole genome shotgun sequence:163	1.0	0.8977638453000001	0.8975781685	0.8973389376	0.8977638453000001
+Streptomyces sp. LamerLS-316 B046DRAFT_scaffold_0.1_C, whole genome shotgun sequence:164	0.8977638453000001	1.0	0.9156052343000001	0.9660307646	1.0
+Streptomyces sp. QL37 scaffold1_size8772908, whole genome shotgun sequence:165	0.8975781685	0.9156052343000001	1.0	0.9152166030000001	0.9154952845000001
+Streptomyces sp. M3 Endophyte_M3_0, whole genome shotgun sequence:166	0.8973389376	0.9660307646	0.9152166030000001	1.0	0.9660861026
+Streptomyces sp. SID4921 SID4921.c1, whole genome shotgun sequence:167	0.8977638453000001	1.0	0.9154952845000001	0.9660861026	1.0

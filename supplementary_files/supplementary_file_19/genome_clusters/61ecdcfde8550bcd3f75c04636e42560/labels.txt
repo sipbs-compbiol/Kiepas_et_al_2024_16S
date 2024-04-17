@@ -1,0 +1,2 @@
+a0ad3129bd6df8a07458289afa4ed079	GCF_006088715.1_ASM608871v1_genomic	Streptomyces sp. YIM 121038 chromosome, complete genome
+db68e7f4e46b22b24a361eff616a68c7	GCF_013177615.1_ASM1317761v1_genomic	Streptomyces sp. MNP-20 scaffold100_size13065, whole genome shotgun sequence

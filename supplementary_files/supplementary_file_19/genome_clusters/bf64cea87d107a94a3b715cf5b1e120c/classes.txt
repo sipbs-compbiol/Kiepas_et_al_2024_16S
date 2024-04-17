@@ -1,0 +1,2 @@
+391eebee40c49528101fb0e80c963c8a	GCF_005981935.1_ASM598193v1_genomic	Streptomyces chryseus strain DSM 40420 NODE_1000_length_1254_cov_3.53061, whole genome shotgun sequence
+97e3b1348bc83e0977ac51d1228dc080	GCF_005981965.1_ASM598196v1_genomic	Streptomyces chryseus strain DSM 40431 NODE_100_length_20437_cov_24.6457, whole genome shotgun sequence

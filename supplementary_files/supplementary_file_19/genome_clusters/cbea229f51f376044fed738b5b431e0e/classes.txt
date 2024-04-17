@@ -1,0 +1,2 @@
+f404351f4b815fb7f0db691086c161aa	GCF_007280575.1_ASM728057v1_genomic	Streptomyces sp. MZ03-37 NODE_100_length_18088_cov_70.7796, whole genome shotgun sequence
+705ae910f068ea41364272c0cf8b9f66	GCF_007280585.1_ASM728058v1_genomic	Streptomyces sp. MZ03-48 NODE_1000_length_846_cov_5.1669, whole genome shotgun sequence

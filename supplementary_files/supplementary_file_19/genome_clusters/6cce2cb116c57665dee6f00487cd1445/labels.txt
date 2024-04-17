@@ -1,0 +1,2 @@
+ee9fc8f51343ab33294997d68f416c93	GCF_014205055.1_ASM1420505v1_genomic	Streptomyces luteogriseus strain DSM 40483 Ga0104618_01, whole genome shotgun sequence
+6f1ac1246a594ce45563dbaa131a91cf	GCF_900215615.1_IMG-taxon_2738541359_annotated_assembly_genomic	Streptomyces sp. Ag82_G6-1, whole genome shotgun sequence

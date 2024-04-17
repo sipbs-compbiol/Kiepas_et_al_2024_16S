@@ -1,0 +1,2 @@
+4406babae00c71523413df0809951cce	GCF_000498935.1_HCCB10043_genomic	Streptomyces sp. HCCB10043 Contig_4, whole genome shotgun sequence
+c66e83e1116d89b0546b36a32213ffd3	GCF_003116755.1_ASM311675v1_genomic	Streptomyces sp. CS131 scaffold00001, whole genome shotgun sequence

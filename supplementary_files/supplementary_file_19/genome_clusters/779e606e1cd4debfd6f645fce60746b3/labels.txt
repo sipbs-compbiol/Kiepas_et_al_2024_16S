@@ -1,0 +1,2 @@
+619bd80656514e427d7f34f940917d3f	GCF_000411495.1_Stre_sp_HPH0547_V1_genomic	Streptomyces sp. HPH0547 aczHZ-supercont1.1, whole genome shotgun sequence
+f2f739495e637f8a68271bd564595628	GCF_011006355.1_ASM1100635v1_genomic	Streptomyces albus strain CAS922 chromosome, complete genome

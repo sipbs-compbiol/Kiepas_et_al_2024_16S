@@ -1,0 +1,3 @@
+76ad4ca12edd99733a89c156ee1c1506	GCF_006547165.1_ASM654716v1_genomic	Streptomyces ipomoeae strain B12321 contig_1, whole genome shotgun sequence
+32b8063c2bae3752af36584255ae6b91	GCF_006547175.1_ASM654717v1_genomic	Streptomyces ipomoeae strain 78-51 Contig_001, whole genome shotgun sequence
+7d475992374af23451b3ff47899e6f3c	GCF_006547185.1_ASM654718v1_genomic	Streptomyces ipomoeae strain 88-35 Pai_8835_1, whole genome shotgun sequence

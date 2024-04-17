@@ -1,0 +1,2 @@
+53b1746a9448880e46292b5437c44b89	GCF_014649915.1_ASM1464991v1_genomic	Streptomyces toxytricini strain JCM 4421 sequence01, whole genome shotgun sequence
+0a16bd595aecf44a27bd794daf3cf17b	GCF_014748315.1_ASM1474831v1_genomic	Streptomyces sp. KD18 Contig_10_Streptomyces, whole genome shotgun sequence

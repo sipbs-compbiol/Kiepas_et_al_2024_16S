@@ -1,0 +1,2 @@
+dc71aca75842f413960494627787a264	GCF_003024195.1_ASM302419v1_genomic	Streptomyces dioscori strain A217 scaffold1, whole genome shotgun sequence
+c3f35d68d5f0c6d011a68f4cf8c11fd0	GCF_018070025.1_ASM1807002v1_genomic	Streptomyces sp. BH-SS-21 map unlocalized plasmid p1 Contig00003, whole genome shotgun sequence

@@ -1,0 +1,3 @@
+b97fda154928b0fda11631bbef6f562c	GCF_001905345.1_ASM190534v1_genomic	Streptomyces uncialis strain DCA2648 scaffold1, whole genome shotgun sequence
+40fc6601e4d34f61c936d6331e2c5253	GCF_002705975.1_ASM270597v1_genomic	Streptomyces sp. AmelKG-E11A YW7DRAFT_scaffold00060.60_C, whole genome shotgun sequence
+cd9a0ef892fe614afa41032f2826b77a	GCF_009865305.1_ASM986530v1_genomic	Streptomyces sp. SID4919 SID4919.c1, whole genome shotgun sequence

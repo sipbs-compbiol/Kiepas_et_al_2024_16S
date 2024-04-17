@@ -1,0 +1,3 @@
+589cdd3bd842b37d1bbddc2c05142d9e	GCF_002910755.1_ASM291075v1_genomic	Streptomyces sp. SM14 1017_4518_745761, whole genome shotgun sequence
+4a54f2d5fcd384080853974cddaa3e96	GCF_002910855.1_ASM291085v1_genomic	Streptomyces sp. SM12 1013_442_4961, whole genome shotgun sequence
+7f7e85d33ad43483f24a4a728e55f364	GCF_004305975.1_ASM430597v1_genomic	Streptomyces otsuchiensis strain OTB305 NODE1, whole genome shotgun sequence

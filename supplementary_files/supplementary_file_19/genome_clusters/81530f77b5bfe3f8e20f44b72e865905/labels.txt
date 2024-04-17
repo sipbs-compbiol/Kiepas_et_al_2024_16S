@@ -1,0 +1,7 @@
+f396488616652874a6ee78dd85eff6a8	GCF_001974775.1_ASM197477v2_genomic	Streptomyces sp. WAC00263 unitig_0, whole genome shotgun sequence
+88898875add7446b8989ca843831b3b7	GCF_007113465.1_ASM711346v1_genomic	Streptomyces sp. S1A1-3 chromosome
+799780f25cc72871317af62fab407247	GCF_007113665.2_ASM711366v2_genomic	Streptomyces sp. S1D4-14 chromosome, complete genome
+65fe26962a75594f147ee832259fc4ce	GCF_012273535.1_ASM1227353v1_genomic	Streptomyces sp. RLB1-33 chromosome, complete genome
+b1770a92dc1e9dfe98d94b795f7755eb	GCF_012922115.1_ASM1292211v1_genomic	Streptomyces sp. RLA2-12 RLA212_1, whole genome shotgun sequence
+52204dfb12b5cdf125e05bf1901aecd4	GCF_018310535.1_ASM1831053v1_genomic	Streptomyces mirabilis strain P16B-1 chromosome, complete genome
+68ff9bc1716f00de4328750d73e70b6a	GCF_900215305.1_IMG-taxon_2721755846_annotated_assembly_genomic	Streptomyces sp. OK228, whole genome shotgun sequence

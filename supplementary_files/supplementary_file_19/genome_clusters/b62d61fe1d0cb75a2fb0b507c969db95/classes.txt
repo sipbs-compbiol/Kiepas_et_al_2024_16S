@@ -1,0 +1,2 @@
+16769ab7e84f1d64f128677bf8762079	GCF_000213055.1_ASM21305v1_genomic	Streptomyces sp. Tu6071 chromosome, whole genome shotgun sequence
+3f4dbc366449775d3b32aa9182bcf4c8	GCF_002288075.1_ASM228807v1_genomic	Streptomyces sp. CLI2509 strain CLI2905 chromosome, complete genome

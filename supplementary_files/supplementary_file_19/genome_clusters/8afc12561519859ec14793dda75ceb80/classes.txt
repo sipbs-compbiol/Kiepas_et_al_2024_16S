@@ -1,0 +1,2 @@
+c02498fa24e9e7965adeafa709135666	GCF_001282115.1_ASM128211v1_genomic	Streptomyces sp. NRRL B-24085 contig_1, whole genome shotgun sequence
+3d47869e0c38364d70c20d76f27b0e03	GCF_002156095.1_ASM215609v1_genomic	Streptomyces sp. NRRL B-24085 NRRL_B-24085_contig_1, whole genome shotgun sequence

@@ -1,0 +1,7 @@
+	Streptomyces lavendulae subsp. lavendulae strain CCM 3239 chromosome, complete genome:339	Streptomyces lavendulae subsp. lavendulae strain Del-LP chromosome, complete genome:340	Streptomyces sp. Mg1 chromosome 1, complete sequence:475	Streptomyces sp. MJM1172 scaffold1, whole genome shotgun sequence:476	Streptomyces sp. CB02120-2 scaffold1, whole genome shotgun sequence:477	Streptomyces sp. KCTC 0041BP map unlocalized plasmid unnamed Streptomyces-sp_3_1, whole genome shotgun sequence:478
+Streptomyces lavendulae subsp. lavendulae strain CCM 3239 chromosome, complete genome:339	1.0	0.9999908604000001	0.880186965	0.8793073514	0.8793873528	0.8799764028
+Streptomyces lavendulae subsp. lavendulae strain Del-LP chromosome, complete genome:340	0.9999908604000001	1.0	0.8802045342	0.8792435096000001	0.8794152984	0.8799876116
+Streptomyces sp. Mg1 chromosome 1, complete sequence:475	0.880186965	0.8802045342	1.0	0.9775044999	0.9857389238	0.987140659
+Streptomyces sp. MJM1172 scaffold1, whole genome shotgun sequence:476	0.8793073514	0.8792435096000001	0.9775044999	1.0	0.9775857537	0.9787859474
+Streptomyces sp. CB02120-2 scaffold1, whole genome shotgun sequence:477	0.8793873528	0.8794152984	0.9857389238	0.9775857537	1.0	0.9912813469
+Streptomyces sp. KCTC 0041BP map unlocalized plasmid unnamed Streptomyces-sp_3_1, whole genome shotgun sequence:478	0.8799764028	0.8799876116	0.987140659	0.9787859474	0.9912813469	1.0

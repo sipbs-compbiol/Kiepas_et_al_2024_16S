@@ -1,0 +1,2 @@
+954e30637ede9092aac022a045b24348	GCF_018138705.1_ASM1813870v1_genomic	Streptomyces indonesiensis strain DSM 41759 DSM41759-1_1_1, whole genome shotgun sequence
+235b29d75d477d905f65066d68d41595	GCF_018138715.1_ASM1813871v1_genomic	Streptomyces asiaticus strain DSM 41761 DSM_41761_DNA2_1_1, whole genome shotgun sequence

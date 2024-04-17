@@ -1,0 +1,4 @@
+e787abd495bd31844c9e5197810e4f5d	GCF_000819545.1_ASM81954v1_genomic	Streptomyces nodosus strain ATCC 14899 chromosome
+f8b29328a69df0941d1f2fb7c36e17b8	GCF_008704995.1_ASM870499v1_genomic	Streptomyces nodosus strain ATCC 14899 chromosome, complete genome
+c08358b4179bd0fe22291bbc804192a5	GCF_014205035.1_ASM1420503v1_genomic	Streptomyces nodosus strain DSM 40109 Ga0111588_01, whole genome shotgun sequence
+5db88b647d35a141c0705a4efb96abda	GCF_017352335.1_ASM1735233v1_genomic	Streptomyces nodosus strain ZJB2016050 chromosome, complete genome

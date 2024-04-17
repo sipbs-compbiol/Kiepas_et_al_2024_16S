@@ -1,0 +1,2 @@
+4a988393e5e55b56ec7502647dd7db49	GCF_001278095.1_ASM127809v1_genomic	Streptomyces sp. CFMR 7 strain CFMR-7 chromosome, complete genome
+414e20e87276f10a827344bfeb005fce	GCF_900091865.1_IMG-taxon_2657245711_annotated_assembly_genomic	Streptomyces sp. DvalAA-19, whole genome shotgun sequence

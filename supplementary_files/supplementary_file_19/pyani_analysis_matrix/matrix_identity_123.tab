@@ -1,0 +1,7 @@
+	Streptomyces sp. 2321.6 Ga0151170_11, whole genome shotgun sequence:261	Streptomyces sp. 2133.1, whole genome shotgun sequence:262	Streptomyces sp. 2114.4, whole genome shotgun sequence:263	Streptomyces angustmyceticus strain NRRL B-2347 NRRL_B-2347_contig_1, whole genome shotgun sequence:413	Streptomyces sp. KS_16, whole genome shotgun sequence:414	Streptomyces sp. 2112.3, whole genome shotgun sequence:415
+Streptomyces sp. 2321.6 Ga0151170_11, whole genome shotgun sequence:261	1.0	0.9999263485000001	0.9999312631	0.9162685706	0.9999224524	0.9949567204
+Streptomyces sp. 2133.1, whole genome shotgun sequence:262	0.9999263485000001	1.0	0.9999381488	0.9162674659000001	0.9999305287	0.9949576169000001
+Streptomyces sp. 2114.4, whole genome shotgun sequence:263	0.9999312631	0.9999381488	1.0	0.9162726398000001	0.9999631342	0.9949239022
+Streptomyces angustmyceticus strain NRRL B-2347 NRRL_B-2347_contig_1, whole genome shotgun sequence:413	0.9162685706	0.9162674659000001	0.9162726398000001	1.0	0.9161748922	0.9161004076
+Streptomyces sp. KS_16, whole genome shotgun sequence:414	0.9999224524	0.9999305287	0.9999631342	0.9161748922	1.0	0.9949720722000001
+Streptomyces sp. 2112.3, whole genome shotgun sequence:415	0.9949567204	0.9949576169000001	0.9949239022	0.9161004076	0.9949720722000001	1.0

@@ -1,0 +1,2 @@
+72430a758d8c79efb3b01787dde5c5e5	GCF_001419705.1_ASM141970v1_genomic	Streptomyces prasinus strain NRRL B-2712 B2712_contig_1, whole genome shotgun sequence
+79cda05f3ba3474d60772ac50e18623f	GCF_001672315.1_ASM167231v1_genomic	Streptomyces sp. H-KF8 tig00000000, whole genome shotgun sequence

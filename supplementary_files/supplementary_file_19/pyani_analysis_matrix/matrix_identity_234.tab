@@ -1,0 +1,7 @@
+	Streptomyces californicus strain FDAARGOS_1209 chromosome:27	Streptomyces californicus strain FDAARGOS_1211 chromosome:28	Streptomyces californicus strain FDAARGOS_1212 chromosome:548	Streptomyces californicus strain FDAARGOS_1213 chromosome:549	Streptomyces californicus strain FDAARGOS_1210 chromosome:550	Streptomyces sp. M54 chromosome:743
+Streptomyces californicus strain FDAARGOS_1209 chromosome:27	1.0	0.9999174285	0.9994650265	0.9994712815000001	0.9861562066	0.9823772528
+Streptomyces californicus strain FDAARGOS_1211 chromosome:28	0.9999174285	1.0	0.9994579702	0.9994631942000001	0.986112721	0.9823509383000001
+Streptomyces californicus strain FDAARGOS_1212 chromosome:548	0.9994650265	0.9994579702	1.0	0.9999887472000001	0.9860850097	0.9823721561000001
+Streptomyces californicus strain FDAARGOS_1213 chromosome:549	0.9994712815000001	0.9994631942000001	0.9999887472000001	1.0	0.9861053934	0.9823220295
+Streptomyces californicus strain FDAARGOS_1210 chromosome:550	0.9861562066	0.986112721	0.9860850097	0.9861053934	1.0	0.9820623842
+Streptomyces sp. M54 chromosome:743	0.9823772528	0.9823509383000001	0.9823721561000001	0.9823220295	0.9820623842	1.0

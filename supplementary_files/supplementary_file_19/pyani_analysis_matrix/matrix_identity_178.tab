@@ -1,0 +1,6 @@
+	Streptomyces malaysiensis strain DSM 4137 chromosome, complete genome:2	Streptomyces sp. M56 chromosome:3	Streptomyces solisilvae strain HNM0141 chromosome, complete genome:5	Streptomyces malaysiensis strain DSM 14702 A843_AS5_SC1, whole genome shotgun sequence:335	Streptomyces sp. SPMA113 strain NBRC 110612, whole genome shotgun sequence:574
+Streptomyces malaysiensis strain DSM 4137 chromosome, complete genome:2	1.0	0.9863490857	0.9854909118	0.9792848654	0.9856080065
+Streptomyces sp. M56 chromosome:3	0.9863490857	1.0	0.9858004764	0.9795231282	0.9857891658000001
+Streptomyces solisilvae strain HNM0141 chromosome, complete genome:5	0.9854909118	0.9858004764	1.0	0.9793519005	0.9873381567
+Streptomyces malaysiensis strain DSM 14702 A843_AS5_SC1, whole genome shotgun sequence:335	0.9792848654	0.9795231282	0.9793519005	1.0	0.9794815473
+Streptomyces sp. SPMA113 strain NBRC 110612, whole genome shotgun sequence:574	0.9856080065	0.9857891658000001	0.9873381567	0.9794815473	1.0

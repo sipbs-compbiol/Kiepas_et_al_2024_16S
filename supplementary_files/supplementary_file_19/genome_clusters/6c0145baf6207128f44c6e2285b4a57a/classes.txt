@@ -1,0 +1,3 @@
+bed98be46833b5352cd94111a2226fed	GCF_000177195.2_ASM17719v2_genomic	Streptomyces sp. SirexAA-E, complete sequence
+7bb5d167622fdb4cc40c98f1635bcb0d	GCF_009865425.1_ASM986542v1_genomic	Streptomyces sp. SID3915 SID3915.c1, whole genome shotgun sequence
+def74d52d80d04ce9dde10a0ba2173f7	GCF_009865465.1_ASM986546v1_genomic	Streptomyces sp. SID1 SID1.c1, whole genome shotgun sequence

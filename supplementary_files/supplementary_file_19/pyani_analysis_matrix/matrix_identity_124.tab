@@ -1,0 +1,5 @@
+	Streptomyces sp. PCS3-D2 isolate P1 scaffold00001, whole genome shotgun sequence:416	Streptomyces sp. NRRL F-2664 contig1.1, whole genome shotgun sequence:417	Streptomyces sp. NRRL F-4428 contig1.1, whole genome shotgun sequence:418	Streptomyces sp. TN58 chromosome, complete genome:419
+Streptomyces sp. PCS3-D2 isolate P1 scaffold00001, whole genome shotgun sequence:416	1.0	0.9078091425	0.910371578	0.9099099253
+Streptomyces sp. NRRL F-2664 contig1.1, whole genome shotgun sequence:417	0.9078091425	1.0	0.9153546083	0.9150204379
+Streptomyces sp. NRRL F-4428 contig1.1, whole genome shotgun sequence:418	0.910371578	0.9153546083	1.0	0.9949140270000001
+Streptomyces sp. TN58 chromosome, complete genome:419	0.9099099253	0.9150204379	0.9949140270000001	1.0

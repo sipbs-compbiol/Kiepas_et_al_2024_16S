@@ -1,0 +1,7 @@
+ba2bd3da6fddda20a11d3df524be80a0	GCF_000720145.1_ASM72014v1_genomic	Streptomyces sp. NRRL F-2747 contig1.1, whole genome shotgun sequence
+816f8417b3cbaaf1ab5f97e244bde7ac	GCF_001279655.1_ASM127965v1_genomic	Streptomyces sp. WM6372 P400contig1.1, whole genome shotgun sequence
+9cfe031fc26fada88ecdf225973a5e52	GCF_001280885.1_ASM128088v1_genomic	Streptomyces sp. XY332 P409contig1.1, whole genome shotgun sequence
+1ba047ae084af9edda8cc0a57bf53e12	GCF_003751425.1_ASM375142v1_genomic	Streptomyces sp. 2132.2 Ga0299904_11, whole genome shotgun sequence
+6e8d98f5d457e2ab1d8488301e4a340a	GCF_004364395.1_ASM436439v1_genomic	Streptomyces sp. KS 21 Ga0299886_11, whole genome shotgun sequence
+474238b2ebf038df4f4f735aaed0958a	GCF_004794975.1_ASM479497v1_genomic	Streptomyces sp. A1547 NODE_104_length_2286_cov_207.901806, whole genome shotgun sequence
+ba2839e99cf99568a06d473a7ed69b9d	GCF_008704935.1_ASM870493v1_genomic	Streptomyces vinaceus strain ATCC 27476 chromosome, complete genome

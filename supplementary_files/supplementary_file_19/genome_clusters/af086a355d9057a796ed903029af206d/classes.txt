@@ -1,0 +1,2 @@
+942e630326e99120a8ea582d699eb0c7	GCF_000931445.1_ASM93144v1_genomic	Streptomyces cyaneogriseus subsp. noncyanogenus strain NMWT 1 chromosome, complete genome
+a57eec03a161fde633829c0ae7181aad	GCF_001013905.1_sleC34_genomic	Streptomyces leeuwenhoekii strain type strain (C34 = DSM 42122 = NRRL B-24963) chromosome 1

@@ -1,0 +1,3 @@
+da935209a42a4ab3dcc495384c2a771b	GCF_003046555.1_ASM304655v1_genomic	Streptomyces sp. VMFN-G11Ma Ga0213531_101, whole genome shotgun sequence
+92a608369ce630309b8bf3e734be99b1	GCF_004104505.1_ASM410450v1_genomic	Streptomyces sp. M2 chromosome, complete genome
+c45d0c535a344ef9c7e55818db4cda5d	GCF_004115015.1_ASM411501v1_genomic	Streptomyces sp. MG Endophyte_MG_0, whole genome shotgun sequence

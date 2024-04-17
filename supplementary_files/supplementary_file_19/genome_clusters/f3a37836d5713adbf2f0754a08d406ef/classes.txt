@@ -1,0 +1,6 @@
+2343a0c653362fd1ad8ec9e2c9a45d47	GCF_008704715.1_ASM870471v1_genomic	Streptomyces chartreusis strain ATCC 14922 chromosome, complete genome
+7780898d46e3a50d2cce53c6f5ec513e	GCF_013375055.1_ASM1337505v1_genomic	Streptomyces chartreusis strain NA02069 chromosome, complete genome
+a6875e07fbda470788b5ba17182637fe	GCF_014650315.1_ASM1465031v1_genomic	Streptomyces chartreusis strain JCM 4570 sequence01, whole genome shotgun sequence
+6abda1f9765c822d8e3016cdcfaaba5a	GCF_018530775.1_ASM1853077v1_genomic	Streptomyces sp. Tu102 contig00001, whole genome shotgun sequence
+bdcc2865d929022420ccc8f70ad509b3	GCF_900105275.1_IMG-taxon_2690315621_annotated_assembly_genomic	Streptomyces sp. KS_5, whole genome shotgun sequence
+2c14c7e68121a01868b8cc51653cd48a	GCF_900105465.1_IMG-taxon_2671180174_annotated_assembly_genomic	Streptomyces sp. PAN_FS17, whole genome shotgun sequence

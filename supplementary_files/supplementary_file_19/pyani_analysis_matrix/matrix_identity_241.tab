@@ -1,0 +1,6 @@
+	Streptomyces auratus AGR0001 chromosome, complete genome:755	Streptomyces sp. 2333.5 Ga0151173_11, whole genome shotgun sequence:756	Streptomyces sp. 2112.2, whole genome shotgun sequence:757	Streptomyces sp. 2314.4, whole genome shotgun sequence:758	Streptomyces sp. 2323.1 chromosome I:759
+Streptomyces auratus AGR0001 chromosome, complete genome:755	1.0	0.9645002623000001	0.9644871322	0.9644074602	0.9644736564
+Streptomyces sp. 2333.5 Ga0151173_11, whole genome shotgun sequence:756	0.9645002623000001	1.0	0.9999668310000001	0.9987033941000001	0.989848586
+Streptomyces sp. 2112.2, whole genome shotgun sequence:757	0.9644871322	0.9999668310000001	1.0	0.99869262	0.9898384444
+Streptomyces sp. 2314.4, whole genome shotgun sequence:758	0.9644074602	0.9987033941000001	0.99869262	1.0	0.9897939064000001
+Streptomyces sp. 2323.1 chromosome I:759	0.9644736564	0.989848586	0.9898384444	0.9897939064000001	1.0

@@ -1,0 +1,6 @@
+672223d9a7c9c79976c43f5d8a7beba2	GCF_000721535.1_ASM72153v1_genomic	Streptomyces hygroscopicus subsp. hygroscopicus strain NRRL B-1477 contig1.1, whole genome shotgun sequence
+d502b47c0b4a9e1f5e2689e6b5676eb8	GCF_001553435.1_ASM155343v1_genomic	Streptomyces hygroscopicus subsp. hygroscopicus strain NBRC 16556, whole genome shotgun sequence
+819771a2954de0623eaa472d3e30ae2e	GCF_001553455.1_ASM155345v1_genomic	Streptomyces hygroscopicus subsp. hygroscopicus strain NBRC 13472, whole genome shotgun sequence
+6805d0de3c1a00d821fe9d76a7fe64fe	GCF_001553475.1_ASM155347v1_genomic	Streptomyces hygroscopicus subsp. hygroscopicus strain NBRC 12859, whole genome shotgun sequence
+a11e60e05ac48707b35e0fc6eef6203d	GCF_001570645.1_ASM157064v1_genomic	Streptomyces hygroscopicus subsp. hygroscopicus strain NBRC 100766, whole genome shotgun sequence
+112ed81bcf411eb622f2bf2e53db4615	GCF_001652895.1_ASM165289v1_genomic	Streptomyces sp. NBRC 109436, whole genome shotgun sequence

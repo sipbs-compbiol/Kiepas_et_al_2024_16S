@@ -1,0 +1,7 @@
+	Streptomyces sp. LBUM 1482 chromosome:75	Streptomyces sp. LBUM 1475 chromosome:76	Streptomyces sp. LBUM 1487 LBUM1487seq1, whole genome shotgun sequence:77	Streptomyces sp. LBUM 1488 LBUM1488seq1, whole genome shotgun sequence:78	Streptomyces sp. LBUM 1483 LBUM1483seq1, whole genome shotgun sequence:79	Streptomyces sp. LBUM 1481 LBUM1481seq1, whole genome shotgun sequence:80
+Streptomyces sp. LBUM 1482 chromosome:75	1.0	0.9996498467	0.9994920241	0.9992770062	0.9957887714	0.9953662184000001
+Streptomyces sp. LBUM 1475 chromosome:76	0.9996498467	1.0	0.9992466130000001	0.9988544918000001	0.9952849832	0.9950758717
+Streptomyces sp. LBUM 1487 LBUM1487seq1, whole genome shotgun sequence:77	0.9994920241	0.9992466130000001	1.0	0.9993321661000001	0.9955310279	0.994986012
+Streptomyces sp. LBUM 1488 LBUM1488seq1, whole genome shotgun sequence:78	0.9992770062	0.9988544918000001	0.9993321661000001	1.0	0.9955283539	0.9949873248000001
+Streptomyces sp. LBUM 1483 LBUM1483seq1, whole genome shotgun sequence:79	0.9957887714	0.9952849832	0.9955310279	0.9955283539	1.0	0.9994148136000001
+Streptomyces sp. LBUM 1481 LBUM1481seq1, whole genome shotgun sequence:80	0.9953662184000001	0.9950758717	0.994986012	0.9949873248000001	0.9994148136000001	1.0

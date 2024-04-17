@@ -1,0 +1,2 @@
+83581c0dde69da62e4f36904005aabbb	GCF_019029485.1_ASM1902948v1_genomic	Streptomyces sp. Babs14 contig_1, whole genome shotgun sequence
+20219c2cf3ea5cdee2070dce0cb2d81d	GCF_019029505.1_ASM1902950v1_genomic	Streptomyces sp. Osf17 contig_4, whole genome shotgun sequence

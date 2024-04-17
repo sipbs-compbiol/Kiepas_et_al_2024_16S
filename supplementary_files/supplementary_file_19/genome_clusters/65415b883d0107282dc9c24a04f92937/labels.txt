@@ -1,0 +1,2 @@
+70e48ad1cc4d6e9dc790ec21d08cf600	GCF_002879675.3_ASM287967v3_genomic	Streptomyces sp. SMS_SU21 1, whole genome shotgun sequence
+caf6a44ad2b1f174e7f4c4ca5c5a1b87	GCF_016432665.1_ASM1643266v1_genomic	Streptomyces sp. BSE7-9 BSE7-9_1_1, whole genome shotgun sequence

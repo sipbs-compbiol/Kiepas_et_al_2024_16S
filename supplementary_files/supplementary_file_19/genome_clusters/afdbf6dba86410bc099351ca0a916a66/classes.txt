@@ -1,0 +1,9 @@
+bed98be46833b5352cd94111a2226fed	GCF_000177195.2_ASM17719v2_genomic	Streptomyces sp. SirexAA-E, complete sequence
+8d7ac63c1045c7f947821226a2670d7e	GCF_000721935.1_ASM72193v1_genomic	Streptomyces sp. NRRL WC-3549 P265_Doro1_scaffold1, whole genome shotgun sequence
+c814ea2f043f39efb323ae3adbe37176	GCF_009862475.1_ASM986247v1_genomic	Streptomyces sp. SID4940 SID4940.c1, whole genome shotgun sequence
+07e8237def52ee2100c9ee6d6715ffc2	GCF_009863165.1_ASM986316v1_genomic	Streptomyces sp. SID4939 SID4939.c1, whole genome shotgun sequence
+def74d52d80d04ce9dde10a0ba2173f7	GCF_009865465.1_ASM986546v1_genomic	Streptomyces sp. SID1 SID1.c1, whole genome shotgun sequence
+8cc2e89a1e7348c6fb63f0ef1fec9bb9	GCF_016612755.1_ASM1661275v1_genomic	Streptomyces sp. MBT51 scaffold100_size19836_cov84.8942, whole genome shotgun sequence
+7642061f3fc8dcaf71dbd9031ec3c560	GCF_900091715.1_IMG-taxon_2657245702_annotated_assembly_genomic	Streptomyces sp. DpondAA-F4a, whole genome shotgun sequence
+c3a988134c3eb4ccc98d714cb83f7f8b	GCF_900091875.1_IMG-taxon_2657245706_annotated_assembly_genomic	Streptomyces sp. BpilaLS-43, whole genome shotgun sequence
+2649c4d4291644c68be2820148c80c06	GCF_900095575.1_IMG-taxon_2657245715_annotated_assembly_genomic	Streptomyces sp. DpondAA-F4, whole genome shotgun sequence

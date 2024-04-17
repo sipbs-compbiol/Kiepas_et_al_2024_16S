@@ -1,0 +1,5 @@
+e8a09a0f9ebca777d24d22386ffb66a1	GCF_000647875.1_ASM64787v1_genomic	Streptomyces sp. SolWspMP-sol2th B083DRAFT_scaffold_0.1_C, whole genome shotgun sequence
+30a80302579e5ec945052cf134e109b4	GCF_002094995.1_ASM209499v1_genomic	Streptomyces sp. S8 chromosome, complete genome
+03f8364e09c8664844f86280229950e7	GCF_004794175.1_ASM479417v1_genomic	Streptomyces sp. 1AS2c 1AS2c.1_100_DSM105299.00100_1AS2c.1, whole genome shotgun sequence
+440e52b95ccaff6b2ea671c3a4685502	GCF_009862115.1_ASM986211v1_genomic	Streptomyces sp. SID8359 SID8359.c1, whole genome shotgun sequence
+1c12472910d93c7de8530f87eeccaaaa	GCF_011055525.1_ASM1105552v1_genomic	Streptomyces sp. 196(2019) strain 196 NODE_100_length_8259_cov_11.5219, whole genome shotgun sequence

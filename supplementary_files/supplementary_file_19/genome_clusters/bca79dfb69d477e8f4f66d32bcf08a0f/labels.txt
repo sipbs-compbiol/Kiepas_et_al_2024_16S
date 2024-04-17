@@ -1,0 +1,2 @@
+4eb0fb3cf0fc402b85682e4454e70102	GCF_015767815.1_ASM1576781v1_genomic	Streptomyces clavuligerus strain F1D14 chromosome, complete genome
+30ec315b6525e01331351efaddad297e	GCF_015767895.1_ASM1576789v1_genomic	Streptomyces clavuligerus strain F1D31 chromosome, complete genome

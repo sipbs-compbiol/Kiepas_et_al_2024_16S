@@ -1,0 +1,6 @@
+	Streptomyces autolyticus strain CGMCC0516 chromosome, complete genome:1	Streptomyces malaysiensis strain DSM 4137 chromosome, complete genome:2	Streptomyces sp. M56 chromosome:3	Streptomyces samsunensis strain SA31 1, whole genome shotgun sequence:4	Streptomyces solisilvae strain HNM0141 chromosome, complete genome:5
+Streptomyces autolyticus strain CGMCC0516 chromosome, complete genome:1	1.0	0.9851674006000001	0.9855338261000001	0.9870365311	0.9866228636000001
+Streptomyces malaysiensis strain DSM 4137 chromosome, complete genome:2	0.9851674006000001	1.0	0.9863490857	0.9857072513	0.9854909118
+Streptomyces sp. M56 chromosome:3	0.9855338261000001	0.9863490857	1.0	0.9858143054	0.9858004764
+Streptomyces samsunensis strain SA31 1, whole genome shotgun sequence:4	0.9870365311	0.9857072513	0.9858143054	1.0	0.9871987053000001
+Streptomyces solisilvae strain HNM0141 chromosome, complete genome:5	0.9866228636000001	0.9854909118	0.9858004764	0.9871987053000001	1.0

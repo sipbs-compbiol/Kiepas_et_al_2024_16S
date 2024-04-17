@@ -1,0 +1,5 @@
+	Streptomyces sp. HPH0547 aczHZ-supercont1.1, whole genome shotgun sequence:248	Streptomyces albus strain NBRC 13014, whole genome shotgun sequence:249	Streptomyces albus strain NRRL B-1685 B1685_contig_1, whole genome shotgun sequence:250	Streptomyces albus strain NRRL B-1335 B1335_contig_1, whole genome shotgun sequence:251
+Streptomyces sp. HPH0547 aczHZ-supercont1.1, whole genome shotgun sequence:248	1.0	0.9952336106	0.9951989938	0.9952289558
+Streptomyces albus strain NBRC 13014, whole genome shotgun sequence:249	0.9952336106	1.0	0.9995697215	0.9995279135
+Streptomyces albus strain NRRL B-1685 B1685_contig_1, whole genome shotgun sequence:250	0.9951989938	0.9995697215	1.0	0.9994033982
+Streptomyces albus strain NRRL B-1335 B1335_contig_1, whole genome shotgun sequence:251	0.9952289558	0.9995279135	0.9994033982	1.0

@@ -1,0 +1,4 @@
+77da3c91582a4ba1f308d4894087bf19	GCF_002155885.1_ASM215588v1_genomic	Streptomyces rhizosphaericus strain NRRL B-24304 NRRL_B-24304_contig_1, whole genome shotgun sequence
+a87f7128f435492761dff4e5f0093dca	GCF_017942185.1_ASM1794218v1_genomic	Streptomyces rhizosphaericus strain DSM 41760 DSM41760-2_1_1, whole genome shotgun sequence
+954e30637ede9092aac022a045b24348	GCF_018138705.1_ASM1813870v1_genomic	Streptomyces indonesiensis strain DSM 41759 DSM41759-1_1_1, whole genome shotgun sequence
+235b29d75d477d905f65066d68d41595	GCF_018138715.1_ASM1813871v1_genomic	Streptomyces asiaticus strain DSM 41761 DSM_41761_DNA2_1_1, whole genome shotgun sequence

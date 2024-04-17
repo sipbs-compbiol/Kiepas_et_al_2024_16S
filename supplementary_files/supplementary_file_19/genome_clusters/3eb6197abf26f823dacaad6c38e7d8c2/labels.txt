@@ -1,0 +1,6 @@
+4c9b87d70ff27d49d23ba69243db7128	GCF_001592685.1_ASM159268v1_genomic	Streptomyces sp. WAC04657 WAC04657_unitig_0, whole genome shotgun sequence
+261dcd8d601e1af2e44bebcbe54cfd52	GCF_002943895.1_ASM294389v1_genomic	Streptomyces sp. WAC00288 chromosome, complete genome
+76c37250e91ad2ab7e733656dd3db0a3	GCF_003116715.1_ASM311671v1_genomic	Streptomyces sp. CS081A scaffold00001, whole genome shotgun sequence
+4b021f548d925947195ae89aeb6ece90	GCF_009299385.1_ASM929938v1_genomic	Streptomyces cinereoruber strain ATCC 19740 chromosome, complete genome
+9a6f322ecdbdc2ee98fdbbe3817e15e6	GCF_011758705.1_ASM1175870v1_genomic	Streptomyces cinereoruber strain DSM 41512 Ga0310428_01, whole genome shotgun sequence
+914ffb96dbb44e89eb37c8a59eb46b24	GCF_014197485.1_ASM1419748v1_genomic	Streptomyces cinereoruber strain NRRL ISP-5012 Ga0394266_01, whole genome shotgun sequence

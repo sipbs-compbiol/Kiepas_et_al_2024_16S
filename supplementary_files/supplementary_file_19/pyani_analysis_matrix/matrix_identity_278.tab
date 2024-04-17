@@ -1,0 +1,5 @@
+	Streptomyces sp. CS159 scaffold00001, whole genome shotgun sequence:838	Streptomyces coelicoflavus strain NBRC 15399, whole genome shotgun sequence:839	Streptomyces sp. SYP-A7193 chromosome, complete genome:840	Streptomyces sp. KO7888 A913_AS4_SC08, whole genome shotgun sequence:841
+Streptomyces sp. CS159 scaffold00001, whole genome shotgun sequence:838	1.0	0.9903214749	0.9701080907	0.9700655446
+Streptomyces coelicoflavus strain NBRC 15399, whole genome shotgun sequence:839	0.9903214749	1.0	0.9690665945	0.9691118573
+Streptomyces sp. SYP-A7193 chromosome, complete genome:840	0.9701080907	0.9690665945	1.0	0.9860115183
+Streptomyces sp. KO7888 A913_AS4_SC08, whole genome shotgun sequence:841	0.9700655446	0.9691118573	0.9860115183	1.0

@@ -1,0 +1,3 @@
+37a6f86d93454bea2d267dfa14d82c7a	GCF_002844215.1_ASM284421v1_genomic	Streptomyces sp. EAG2 Scaffold_1, whole genome shotgun sequence
+70775f4803eb9ad6d275cdfe9decf830	GCF_003428925.1_ASM342892v1_genomic	Streptomyces koyangensis strain VK-A60T chromosome, complete genome
+57ed505fbe4ab524a9766968e3a650ca	GCF_016803985.1_ASM1680398v1_genomic	Streptomyces koyangensis strain SCSIO 5802 chromosome, complete genome

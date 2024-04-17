@@ -1,0 +1,7 @@
+	Streptomyces lydicus strain A02 chromosome, complete genome:403	Streptomyces chattanoogensis strain NRRL ISP-5002 ISP5002contig1.1, whole genome shotgun sequence:404	Streptomyces lydicus strain 103 chromosome, complete genome:405	Streptomyces lydicus strain GS93 isolate 23 chromosome, complete genome:406	Streptomyces sp. MOE7 chromosome, complete genome:407	Streptomyces lydicus strain ATCC 25470 S.lydicus_25470_0, whole genome shotgun sequence:408
+Streptomyces lydicus strain A02 chromosome, complete genome:403	1.0	0.9742351796000001	0.8761518047	0.8768417138	0.8769962883	0.8768684738
+Streptomyces chattanoogensis strain NRRL ISP-5002 ISP5002contig1.1, whole genome shotgun sequence:404	0.9742351796000001	1.0	0.8757191126	0.8762759035000001	0.8762971176000001	0.8764525897000001
+Streptomyces lydicus strain 103 chromosome, complete genome:405	0.8761518047	0.8757191126	1.0	0.9515972222	0.95038603	0.9521382449
+Streptomyces lydicus strain GS93 isolate 23 chromosome, complete genome:406	0.8768417138	0.8762759035000001	0.9515972222	1.0	0.9779576977000001	0.9932320029
+Streptomyces sp. MOE7 chromosome, complete genome:407	0.8769962883	0.8762971176000001	0.95038603	0.9779576977000001	1.0	0.9783962982000001
+Streptomyces lydicus strain ATCC 25470 S.lydicus_25470_0, whole genome shotgun sequence:408	0.8768684738	0.8764525897000001	0.9521382449	0.9932320029	0.9783962982000001	1.0

@@ -1,0 +1,3 @@
+ce2457687e2dc8280158cb8edad9e919	GCF_001685355.1_ASM168535v1_genomic	Streptomyces lincolnensis strain NRRL 2936 chromosome
+b9251484b74456418995689b617f71f2	GCF_003344445.1_ASM334444v1_genomic	Streptomyces lincolnensis strain LC-G chromosome, complete genome
+f3a25e5975f6c87f7ee86b5e6abc1c1b	GCF_014083905.1_ASM1408390v1_genomic	Streptomyces lincolnensis strain B48 chromosome, complete genome

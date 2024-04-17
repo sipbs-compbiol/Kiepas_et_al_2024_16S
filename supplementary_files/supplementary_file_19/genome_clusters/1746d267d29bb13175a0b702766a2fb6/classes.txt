@@ -1,0 +1,2 @@
+e66d9d96aa0e9d4ca79c95b1f032adab	GCF_000384175.1_ASM38417v1_genomic	Streptomyces purpureus KA281 StrpuDRAFT_scaffold1.1, whole genome shotgun sequence
+8bf429f2b1f3c1f1c4716c1715f0ed63	GCF_014648195.1_ASM1464819v1_genomic	Streptomyces purpureus strain JCM 3172 sequence01, whole genome shotgun sequence

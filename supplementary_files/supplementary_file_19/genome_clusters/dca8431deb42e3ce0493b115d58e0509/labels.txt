@@ -1,0 +1,3 @@
+b500c2bbb8414180ba40a29df9f4d330	GCF_000331185.2_ASM33118v2_genomic	Streptomyces rimosus subsp. rimosus ATCC 10970 chromosome, complete genome
+fe3401f9859aa9197aa628cd39bb3d08	GCF_000707925.2_ASM70792v2_genomic	Streptomyces rimosus R6-500 chromosome
+0b8ddc5563ccc57589330666f0eb2c3c	GCF_008704655.1_ASM870465v1_genomic	Streptomyces rimosus strain ATCC 10970 chromosome, complete genome

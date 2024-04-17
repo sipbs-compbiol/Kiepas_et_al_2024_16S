@@ -1,0 +1,2 @@
+5c798e8eef00a49cf00d2e0701981bab	GCF_004122735.1_ASM412273v1_genomic	Streptomyces sioyaensis strain DSM 40032 Scaffold_1, whole genome shotgun sequence
+0aa032deb0901d43659487952a07eb8e	GCF_016876065.1_ASM1687606v1_genomic	Streptomyces sioyaensis strain B-5408 scf7180000000050-quiver, whole genome shotgun sequence

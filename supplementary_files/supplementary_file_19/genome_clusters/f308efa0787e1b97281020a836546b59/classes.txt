@@ -1,0 +1,2 @@
+7658761d9c00db92b30bcb96c6cc1b07	GCF_001886595.1_ASM188659v1_genomic	Streptomyces venezuelae strain NRRL B-65442 chromosome
+c72ef11d4e5787d57e3dbfdf2d000444	GCF_008639165.1_ASM863916v1_genomic	Streptomyces venezuelae ATCC 10712 chromosome, complete genome

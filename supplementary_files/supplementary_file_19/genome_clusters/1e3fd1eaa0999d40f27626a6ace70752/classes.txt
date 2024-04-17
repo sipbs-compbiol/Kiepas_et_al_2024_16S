@@ -1,0 +1,2 @@
+523be2cbe324087a3afdc129b58e8e70	GCF_000993785.3_ASM99378v3_genomic	Streptomyces xiamenensis strain MCCC 1A01550 chromosome, complete genome
+d18008b2ee629854bf4d68abc7f8d0c0	GCF_016605905.1_ASM1660590v1_genomic	Streptomyces sp. XC 2026 chromosome, complete genome

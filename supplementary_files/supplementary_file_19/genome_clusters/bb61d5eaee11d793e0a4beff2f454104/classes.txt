@@ -1,0 +1,2 @@
+79829b43420be7227949239d19601fe0	GCF_014596505.1_ASM1459650v1_genomic	Streptomyces sp. CBMA370 CBMA370_1, whole genome shotgun sequence
+5c1aa448e958e8667d97e3ee8e759668	GCF_014596525.1_ASM1459652v1_genomic	Streptomyces sp. CBMA291 CBMA291_1, whole genome shotgun sequence

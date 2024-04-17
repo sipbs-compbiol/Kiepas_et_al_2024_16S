@@ -1,0 +1,3 @@
+59f81493060d541ef7d1450c3463c10c	GCF_001750785.1_ASM175078v1_genomic	Streptomyces rubrolavendulae strain MJM4426 chromosome, complete genome
+3bc448b2fd788ea101c9bf7741704c12	GCF_002119225.1_ASM211922v1_genomic	Streptomyces fradiae ATCC 10745 = DSM 40063 contig00001, whole genome shotgun sequence
+883b57bbf239228aa609eaa91e69be2d	GCF_008704425.1_ASM870442v1_genomic	Streptomyces fradiae ATCC 10745 = DSM 40063 strain ATCC 10745 chromosome, complete genome

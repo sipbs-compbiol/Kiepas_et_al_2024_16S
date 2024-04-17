@@ -1,0 +1,2 @@
+d43b9caf6b7aa23629d0e08d923da779	GCF_001746415.1_ASM174641v1_genomic	Streptomyces agglomeratus strain 6-3-2, whole genome shotgun sequence
+c6127fc50936f3d1c1c3f3dbb021c6cd	GCF_001746475.1_ASM174647v1_genomic	Streptomyces agglomeratus strain 5-2-6, whole genome shotgun sequence

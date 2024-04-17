@@ -1,0 +1,2 @@
+ec322f8af7758fd256108208ea6aa053	GCF_002920635.1_ASM292063v1_genomic	Streptomyces sp. Ru72 contig00001, whole genome shotgun sequence
+79e625a6426baf1e40e87de7e0d4dc76	GCF_014905555.1_ASM1490555v1_genomic	Streptomyces sp. Y2F8-2 strain Y2F8_2 sequence01, whole genome shotgun sequence

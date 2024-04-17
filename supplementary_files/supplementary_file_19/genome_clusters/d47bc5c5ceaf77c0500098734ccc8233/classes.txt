@@ -1,0 +1,2 @@
+4c9b87d70ff27d49d23ba69243db7128	GCF_001592685.1_ASM159268v1_genomic	Streptomyces sp. WAC04657 WAC04657_unitig_0, whole genome shotgun sequence
+261dcd8d601e1af2e44bebcbe54cfd52	GCF_002943895.1_ASM294389v1_genomic	Streptomyces sp. WAC00288 chromosome, complete genome

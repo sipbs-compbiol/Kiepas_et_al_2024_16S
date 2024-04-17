@@ -1,0 +1,2 @@
+9b43bfeca1342e3b4b8c205241b3e792	GCF_001543915.1_ASM154391v1_genomic	Streptomyces thermoautotrophicus strain UBT1 contig00001, whole genome shotgun sequence
+91c0d960cf92aaec2f0f4028cf20b142	GCF_001543925.1_ASM154392v1_genomic	Streptomyces thermoautotrophicus strain H1 map unlocalized plasmid unnamed H1_plasmid_48403bp, whole genome shotgun sequence

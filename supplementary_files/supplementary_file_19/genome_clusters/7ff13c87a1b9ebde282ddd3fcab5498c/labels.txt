@@ -1,0 +1,3 @@
+6b77b1db84668c2586bca835b23d6e9f	GCF_005405925.1_ASM540592v1_genomic	Streptomyces antimycoticus strain NBRC 12839 contig1, whole genome shotgun sequence
+d4d86ab5d2792c167c5ba6d1c7caa6f4	GCF_009936315.1_ASM993631v1_genomic	Streptomyces antimycoticus strain NBRC 100767 chromosome
+a75cc41ee00b7ea91dc52f12156162e6	GCF_900105695.1_IMG-taxon_2634166371_annotated_assembly_genomic	Streptomyces melanosporofaciens strain DSM 40318, whole genome shotgun sequence

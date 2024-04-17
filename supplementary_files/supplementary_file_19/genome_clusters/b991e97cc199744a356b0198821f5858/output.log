@@ -1,0 +1,70 @@
+[INFO] [pyani.scripts.pyani_script]: Processed arguments: Namespace(version=False, citation=False, logfile=PosixPath('genome_clusters/b991e97cc199744a356b0198821f5858/output.log'), verbose=True, debug=False, disable_tqdm=False, scheduler='multiprocessing', workers=None, sgegroupsize=10000, sgeargs=None, jobprefix='PYANI', name='b991e97cc199744a356b0198821f5858', classes=PosixPath('genome_clusters/b991e97cc199744a356b0198821f5858/classes.txt'), labels=PosixPath('genome_clusters/b991e97cc199744a356b0198821f5858/labels.txt'), recovery=False, indir=PosixPath('genome_clusters/b991e97cc199744a356b0198821f5858'), outdir=PosixPath('genome_clusters/b991e97cc199744a356b0198821f5858/output'), dbpath=PosixPath('.pyani/pyanidb'), nucmer_exe=PosixPath('nucmer'), filter_exe=PosixPath('delta-filter'), maxmatch=False, nofilter=False, func=<function subcmd_anim at 0x117738670>)
+[INFO] [pyani.scripts.pyani_script]: command-line: /opt/anaconda3/envs/pyani_v3/bin/pyani anim -i=genome_clusters/b991e97cc199744a356b0198821f5858 -o genome_clusters/b991e97cc199744a356b0198821f5858/output -v -l genome_clusters/b991e97cc199744a356b0198821f5858/output.log --name b991e97cc199744a356b0198821f5858 --labels genome_clusters/b991e97cc199744a356b0198821f5858/labels.txt --classes genome_clusters/b991e97cc199744a356b0198821f5858/classes.txt
+[INFO] [pyani.scripts.pyani_script]: pyani version: 0.3.0-alpha
+[INFO] [pyani.scripts.pyani_script]: CITATION INFO
+[INFO] [pyani.scripts.pyani_script]: If you use pyani in your work, please cite the following publication:
+[INFO] [pyani.scripts.pyani_script]: 	Pritchard, L., Glover, R. H., Humphris, S., Elphinstone, J. G.,
+[INFO] [pyani.scripts.pyani_script]: 	& Toth, I.K. (2016) 'Genomics and taxonomy in diagnostics for
+[INFO] [pyani.scripts.pyani_script]: 	food security: soft-rotting enterobacterial plant pathogens.'
+[INFO] [pyani.scripts.pyani_script]: 	Analytical Methods, 8(1), 12–24. http://doi.org/10.1039/C5AY02550H
+[INFO] [pyani.scripts.pyani_script]: DEPENDENCIES
+[INFO] [pyani.scripts.pyani_script]: The authors of pyani gratefully acknowledge its dependence on
+[INFO] [pyani.scripts.pyani_script]: the following bioinformatics software:
+[INFO] [pyani.scripts.pyani_script]: 	MUMmer3: S. Kurtz, A. Phillippy, A.L. Delcher, M. Smoot, M. Shumway,
+[INFO] [pyani.scripts.pyani_script]: 	C. Antonescu, and S.L. Salzberg (2004), 'Versatile and open software
+[INFO] [pyani.scripts.pyani_script]: 	for comparing large genomes' Genome Biology 5:R12
+[INFO] [pyani.scripts.pyani_script]: 	BLAST+: Camacho C., Coulouris G., Avagyan V., Ma N., Papadopoulos J.,
+[INFO] [pyani.scripts.pyani_script]: 	Bealer K., & Madden T.L. (2008) 'BLAST+: architecture and applications.'
+[INFO] [pyani.scripts.pyani_script]: 	BMC Bioinformatics 10:421.
+[INFO] [pyani.scripts.pyani_script]: 	BLAST: Altschul, S.F., Madden, T.L., Schäffer, A.A., Zhang, J.,
+[INFO] [pyani.scripts.pyani_script]: 	Zhang, Z., Miller, W. & Lipman, D.J. (1997) 'Gapped BLAST and PSI-BLAST:
+[INFO] [pyani.scripts.pyani_script]: 	a new generation of protein database search programs.' Nucleic Acids Res.
+[INFO] [pyani.scripts.pyani_script]: 	25:3389-3402
+[INFO] [pyani.scripts.pyani_script]: 	Biopython: Cock PA, Antao T, Chang JT, Chapman BA, Cox CJ, Dalke A,
+[INFO] [pyani.scripts.pyani_script]: 	Friedberg I, Hamelryck T, Kauff F, Wilczynski B and de Hoon MJL
+[INFO] [pyani.scripts.pyani_script]: 	(2009) Biopython: freely available Python tools for computational
+[INFO] [pyani.scripts.pyani_script]: 	molecular biology and bioinformatics. Bioinformatics, 25, 1422-1423
+[INFO] [pyani.scripts.subcommands.subcmd_anim]: Running ANIm analysis
+[INFO] [pyani.scripts.subcommands.subcmd_anim]: MUMMer nucmer version: Darwin_3.1 (/opt/anaconda3/envs/pyani_v3/bin/nucmer)
+[INFO] [pyani.scripts.subcommands.subcmd_anim]: Analysis name: b991e97cc199744a356b0198821f5858
+[INFO] [pyani.pyani_files]: Checking for hashfile: genome_clusters/b991e97cc199744a356b0198821f5858/GCF_000148465.1_Scla_1.0_genomic.fna.md5.
+[INFO] [pyani.pyani_files]: Checking for hashfile: genome_clusters/b991e97cc199744a356b0198821f5858/GCF_000163875.1_Strep_clav_ATCC27064_genomic.fna.md5.
+[INFO] [pyani.pyani_files]: Checking for hashfile: genome_clusters/b991e97cc199744a356b0198821f5858/GCF_001693675.1_ASM169367v1_genomic.fna.md5.
+[INFO] [pyani.pyani_files]: Checking for hashfile: genome_clusters/b991e97cc199744a356b0198821f5858/GCF_003454755.1_ASM345475v1_genomic.fna.md5.
+[INFO] [pyani.pyani_files]: Checking for hashfile: genome_clusters/b991e97cc199744a356b0198821f5858/GCF_005519465.1_ASM551946v1_genomic.fna.md5.
+[INFO] [pyani.pyani_files]: Checking for hashfile: genome_clusters/b991e97cc199744a356b0198821f5858/GCF_015708605.1_ASM1570860v1_genomic.fna.md5.
+[INFO] [pyani.pyani_files]: Checking for hashfile: genome_clusters/b991e97cc199744a356b0198821f5858/GCF_015767735.1_ASM1576773v1_genomic.fna.md5.
+[INFO] [pyani.pyani_files]: Checking for hashfile: genome_clusters/b991e97cc199744a356b0198821f5858/GCF_015767755.1_ASM1576775v1_genomic.fna.md5.
+[INFO] [pyani.pyani_files]: Checking for hashfile: genome_clusters/b991e97cc199744a356b0198821f5858/GCF_015767775.1_ASM1576777v1_genomic.fna.md5.
+[INFO] [pyani.pyani_files]: Checking for hashfile: genome_clusters/b991e97cc199744a356b0198821f5858/GCF_015767795.1_ASM1576779v1_genomic.fna.md5.
+[INFO] [pyani.pyani_files]: Checking for hashfile: genome_clusters/b991e97cc199744a356b0198821f5858/GCF_015767815.1_ASM1576781v1_genomic.fna.md5.
+[INFO] [pyani.pyani_files]: Checking for hashfile: genome_clusters/b991e97cc199744a356b0198821f5858/GCF_015767855.1_ASM1576785v1_genomic.fna.md5.
+[INFO] [pyani.pyani_files]: Checking for hashfile: genome_clusters/b991e97cc199744a356b0198821f5858/GCF_015767875.1_ASM1576787v1_genomic.fna.md5.
+[INFO] [pyani.pyani_files]: Checking for hashfile: genome_clusters/b991e97cc199744a356b0198821f5858/GCF_015767895.1_ASM1576789v1_genomic.fna.md5.
+[INFO] [pyani.pyani_files]: Checking for hashfile: genome_clusters/b991e97cc199744a356b0198821f5858/GCF_015767915.1_ASM1576791v1_genomic.fna.md5.
+[INFO] [pyani.pyani_files]: Checking for hashfile: genome_clusters/b991e97cc199744a356b0198821f5858/GCF_015767935.1_ASM1576793v1_genomic.fna.md5.
+[INFO] [pyani.pyani_files]: Checking for hashfile: genome_clusters/b991e97cc199744a356b0198821f5858/GCF_015912395.1_ASM1591239v1_genomic.fna.md5.
+[INFO] [pyani.pyani_files]: Checking for hashfile: genome_clusters/b991e97cc199744a356b0198821f5858/GCF_015912435.1_ASM1591243v1_genomic.fna.md5.
+[INFO] [pyani.pyani_files]: Checking for hashfile: genome_clusters/b991e97cc199744a356b0198821f5858/GCF_015912455.1_ASM1591245v1_genomic.fna.md5.
+[INFO] [pyani.pyani_files]: Checking for hashfile: genome_clusters/b991e97cc199744a356b0198821f5858/GCF_015912465.1_ASM1591246v1_genomic.fna.md5.
+[INFO] [pyani.pyani_files]: Checking for hashfile: genome_clusters/b991e97cc199744a356b0198821f5858/GCF_015912875.1_ASM1591287v1_genomic.fna.md5.
+[INFO] [pyani.pyani_files]: Checking for hashfile: genome_clusters/b991e97cc199744a356b0198821f5858/GCF_015912895.1_ASM1591289v1_genomic.fna.md5.
+[INFO] [pyani.pyani_files]: Checking for hashfile: genome_clusters/b991e97cc199744a356b0198821f5858/GCF_015912925.1_ASM1591292v1_genomic.fna.md5.
+[INFO] [pyani.pyani_files]: Checking for hashfile: genome_clusters/b991e97cc199744a356b0198821f5858/GCF_015912945.1_ASM1591294v1_genomic.fna.md5.
+[INFO] [pyani.pyani_files]: Checking for hashfile: genome_clusters/b991e97cc199744a356b0198821f5858/GCF_015912975.1_ASM1591297v1_genomic.fna.md5.
+[INFO] [pyani.pyani_files]: Checking for hashfile: genome_clusters/b991e97cc199744a356b0198821f5858/GCF_015912985.1_ASM1591298v1_genomic.fna.md5.
+[INFO] [pyani.pyani_files]: Checking for hashfile: genome_clusters/b991e97cc199744a356b0198821f5858/GCF_015912995.1_ASM1591299v1_genomic.fna.md5.
+[INFO] [pyani.scripts.subcommands.subcmd_anim]: Generating ANIm command-lines
+[INFO] [pyani.scripts.subcommands.subcmd_anim]: Compiling genomes for comparison
+[INFO] [pyani.scripts.subcommands.subcmd_anim]: Compiling pairwise comparisons (this can take time for large datasets)...
+[INFO] [pyani.scripts.subcommands.subcmd_anim]: 	...total pairwise comparisons to be performed: 351
+[INFO] [pyani.scripts.subcommands.subcmd_anim]: Checking database for existing comparison data...
+[INFO] [pyani.scripts.subcommands.subcmd_anim]: 	...after check, still need to run 285 comparisons
+[INFO] [pyani.scripts.subcommands.subcmd_anim]: Creating NUCmer jobs for ANIm
+[INFO] [pyani.scripts.subcommands.subcmd_anim]: Results not found for 285 comparisons; 285 new jobs built.
+[INFO] [pyani.scripts.subcommands.subcmd_anim]: Running jobs with multiprocessing
+[INFO] [pyani.scripts.subcommands.subcmd_anim]: Multiprocessing run completed without error
+[INFO] [pyani.scripts.subcommands.subcmd_anim]: ...jobs complete
+[INFO] [pyani.scripts.subcommands.subcmd_anim]: Adding comparison results to database...
+[INFO] [pyani.scripts.subcommands.subcmd_anim]: ...database updated.
+[INFO] [pyani.scripts.pyani_script]: Completed. Time taken: 1355.719

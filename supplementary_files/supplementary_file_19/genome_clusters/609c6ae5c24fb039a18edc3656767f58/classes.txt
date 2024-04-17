@@ -1,0 +1,10 @@
+31145d3ebad6ca61417e258f1381c5dd	GCF_000385945.1_ASM38594v1_genomic	Streptomyces fulvissimus DSM 40593, complete sequence
+89ce62c5e12bbec961ad8821d3a76593	GCF_000935135.2_ASM93513v2_genomic	Streptomyces sp. MNU77 contig1_MNU77, whole genome shotgun sequence
+08bb8a8b8a9ba3e2f663777ceee9ef7c	GCF_001418625.1_ASM141862v1_genomic	Streptomyces luridiscabiei strain NRRL B-24455 B24455_contig_1, whole genome shotgun sequence
+cfbe7fec63819e71216008d46f6fc99f	GCF_002242735.1_ASM224273v1_genomic	Streptomyces sp. 2R contig1, whole genome shotgun sequence
+a9aac31daab25c12b14ee15c70cba737	GCF_003610995.1_ASM361099v1_genomic	Streptomyces griseus subsp. griseus strain ATCC 13273 chromosome, complete genome
+d6b99488155cf48b97e79831cf4dd566	GCF_013167895.1_ASM1316789v1_genomic	Streptomyces fulvorobeus strain NBRC 15897 sequence1, whole genome shotgun sequence
+9bf5d6c9f3d3eafc5f1707b34da7fd53	GCF_013364315.1_ASM1336431v1_genomic	Streptomyces fulvissimus strain NA06532 chromosome, complete genome
+a57dc809d3299e270e6720ef15946623	GCF_013409565.1_ASM1340956v1_genomic	Streptomyces fulvorobeus strain DSM 41455 Ga0265265_01, whole genome shotgun sequence
+893bccd0c82c54e21cf6c747f47d5552	GCF_016653995.1_ASM1665399v1_genomic	Streptomyces sp. MBT58 scaffold100_size33420_cov117.2158, whole genome shotgun sequence
+234bbb7f6374d80f7fa7108b85e2391a	GCF_017358145.1_ASM1735814v1_genomic	Streptomyces sp. CA-256286 chromosome, complete genome

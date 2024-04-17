@@ -1,0 +1,19 @@
+18759213712b596ede88bd69af2165fc	GCF_000364805.1_ASM36480v1_genomic	Streptomyces sp. PAMC 26508, complete sequence
+503474f9e10416346118a9268bb3b826	GCF_000720395.1_ASM72039v1_genomic	Streptomyces flavovirens strain NRRL B-2182 contig1.1, whole genome shotgun sequence
+0f7ace2cf460ee2af424857f28079655	GCF_000721595.1_ASM72159v1_genomic	Streptomyces sp. NRRL S-325 contig1.1, whole genome shotgun sequence
+89ce62c5e12bbec961ad8821d3a76593	GCF_000935135.2_ASM93513v2_genomic	Streptomyces sp. MNU77 contig1_MNU77, whole genome shotgun sequence
+2dbc064e89d6d39740b2af67bda415c0	GCF_001189025.1_ASM118902v1_genomic	Streptomyces europaeiscabiei strain NCPPB 4064 scf_63908_1.1, whole genome shotgun sequence
+e333de69aef63308a4544c548e9d6157	GCF_001426325.1_Root1295_genomic	Streptomyces sp. Root1295 contig_1, whole genome shotgun sequence
+b7376749adbc63fd84ae50555116ed47	GCF_001427565.1_Root63_genomic	Streptomyces sp. Root63 contig_1, whole genome shotgun sequence
+fde897c1915cbd4188b1b877183aac9b	GCF_001434355.1_ASM143435v1_genomic	Streptomyces anulatus strain ATCC 11523 chromosome, whole genome shotgun sequence
+d024583daa40423b52b8b9ae4f629894	GCF_001905595.1_ASM190559v1_genomic	Streptomyces sp. CB00316 scaffold1, whole genome shotgun sequence
+830239e8d34467dff23db5a9439239cc	GCF_002188345.1_ASM218834v1_genomic	Streptomyces sp. CS057 scaffold00001, whole genome shotgun sequence
+4414aa27266a06547f2ee75a14642449	GCF_003268965.1_ASM326896v1_genomic	Streptomyces avidinii strain CG 885 Ga0105838_101, whole genome shotgun sequence
+29b92702827e56043413f078883e4c86	GCF_004524875.1_ASM452487v1_genomic	Streptomyces sp. S501 chromosome, complete genome
+927d2b18fe09cfa3d9f145f7bb78890c	GCF_009862355.1_ASM986235v1_genomic	Streptomyces sp. SID7834 SID7834.c1, whole genome shotgun sequence
+20d8a6cbfb2cf266e0b483ca1f7bfe9e	GCF_009862365.1_ASM986236v1_genomic	Streptomyces sp. SID7815 SID7815.c1, whole genome shotgun sequence
+0ab6ab35dcb9340fa255a3c9068b2e26	GCF_009865135.1_ASM986513v1_genomic	Streptomyces sp. SID8374 SID8374.c1, whole genome shotgun sequence
+d0f18c6ee9646effddc818d8b17ef17b	GCF_018530825.1_ASM1853082v1_genomic	Streptomyces sp. Tu10 contig00001, whole genome shotgun sequence
+b633301fafa0bf28da1267465ec0bcfc	GCF_018614445.1_ASM1861444v1_genomic	Streptomyces sp. ISL-112 Streptomyces_sp_ALS6-contig1, whole genome shotgun sequence
+4ae8284deaf15e8e7281d1dfd17e031d	GCF_018614515.1_ASM1861451v1_genomic	Streptomyces sp. ISL-111 Streptomyces_sp_ALS2-contig1, whole genome shotgun sequence
+e0388713295ad54f9776f8424b370251	GCF_900207595.1_IMG-taxon_2671180027_annotated_assembly_genomic	Streptomyces microflavus strain CG 893, whole genome shotgun sequence

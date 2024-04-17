@@ -1,0 +1,5 @@
+	Streptomyces olivaceus strain NRRL B-3009 contig1.1, whole genome shotgun sequence:264	Streptomyces olivaceus strain KLBMP 5084 chromosome, complete genome:265	Streptomyces sp. VN1 chromosome, complete genome:266	Streptomyces olivaceus strain SCSIO T05 chromosome, complete genome:267
+Streptomyces olivaceus strain NRRL B-3009 contig1.1, whole genome shotgun sequence:264	1.0	0.9875790211000001	0.9874357856	0.9786589143000001
+Streptomyces olivaceus strain KLBMP 5084 chromosome, complete genome:265	0.9875790211000001	1.0	0.9930485886	0.9786835235
+Streptomyces sp. VN1 chromosome, complete genome:266	0.9874357856	0.9930485886	1.0	0.9787539321000001
+Streptomyces olivaceus strain SCSIO T05 chromosome, complete genome:267	0.9786589143000001	0.9786835235	0.9787539321000001	1.0

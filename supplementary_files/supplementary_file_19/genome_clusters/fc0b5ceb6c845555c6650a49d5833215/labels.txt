@@ -1,0 +1,2 @@
+552fb5ae5a909b68fd4ea85d750dacff	GCF_004795715.1_ASM479571v1_genomic	Streptomyces sp. SS52 chromosome, complete genome
+02c1ddccf8f4fa2b2437d76b17c1da39	GCF_005490965.1_ASM549096v1_genomic	Streptomyces sp. SGAir0924 chromosome, complete genome

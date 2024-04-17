@@ -1,0 +1,7 @@
+	Streptomyces alfalfae strain ACCC40021 chromosome, complete genome:145	Streptomyces fradiae strain NKZ-259 chromosome, complete genome:146	Streptomyces alfalfae strain XY25 1, whole genome shotgun sequence:147	Streptomyces alfalfae strain XY25 contig1, whole genome shotgun sequence:148	Streptomyces alfalfae strain Men-myco-93-63 chromosome, complete genome:149	Streptomyces alfalfae strain XN-04 chromosome, complete genome:150
+Streptomyces alfalfae strain ACCC40021 chromosome, complete genome:145	1.0	0.9999236016	0.9998856354000001	0.9999512732	0.9931664513	0.9973872763
+Streptomyces fradiae strain NKZ-259 chromosome, complete genome:146	0.9999236016	1.0	0.9999049518	0.9999641679000001	0.993324096	0.9974138984
+Streptomyces alfalfae strain XY25 1, whole genome shotgun sequence:147	0.9998856354000001	0.9999049518	1.0	1.0	0.9933617206	0.9974021104
+Streptomyces alfalfae strain XY25 contig1, whole genome shotgun sequence:148	0.9999512732	0.9999641679000001	1.0	1.0	0.9934866878	0.9974658365000001
+Streptomyces alfalfae strain Men-myco-93-63 chromosome, complete genome:149	0.9931664513	0.993324096	0.9933617206	0.9934866878	1.0	0.9934464392000001
+Streptomyces alfalfae strain XN-04 chromosome, complete genome:150	0.9973872763	0.9974138984	0.9974021104	0.9974658365000001	0.9934464392000001	1.0

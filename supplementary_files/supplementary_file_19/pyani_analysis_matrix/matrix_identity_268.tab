@@ -1,0 +1,7 @@
+	Streptomyces chartreusis strain ATCC 14922 chromosome, complete genome:801	Streptomyces chartreusis strain NA02069 chromosome, complete genome:802	Streptomyces chartreusis strain JCM 4570 sequence01, whole genome shotgun sequence:803	Streptomyces sp. Tu102 contig00001, whole genome shotgun sequence:804	Streptomyces sp. KS_5, whole genome shotgun sequence:805	Streptomyces sp. PAN_FS17, whole genome shotgun sequence:806
+Streptomyces chartreusis strain ATCC 14922 chromosome, complete genome:801	1.0	0.9846428296	0.999929618	0.9851830307	0.9631831512000001	0.9630392711
+Streptomyces chartreusis strain NA02069 chromosome, complete genome:802	0.9846428296	1.0	0.9845816366000001	0.9830319655	0.9632221205	0.9629300393
+Streptomyces chartreusis strain JCM 4570 sequence01, whole genome shotgun sequence:803	0.999929618	0.9845816366000001	1.0	0.9847955131	0.9631609772	0.9626920167
+Streptomyces sp. Tu102 contig00001, whole genome shotgun sequence:804	0.9851830307	0.9830319655	0.9847955131	1.0	0.9638676056000001	0.9634665406
+Streptomyces sp. KS_5, whole genome shotgun sequence:805	0.9631831512000001	0.9632221205	0.9631609772	0.9638676056000001	1.0	0.9957418657
+Streptomyces sp. PAN_FS17, whole genome shotgun sequence:806	0.9630392711	0.9629300393	0.9626920167	0.9634665406	0.9957418657	1.0

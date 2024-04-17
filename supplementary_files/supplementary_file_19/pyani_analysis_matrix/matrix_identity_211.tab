@@ -1,0 +1,6 @@
+	Streptomyces lividans TK24 chromosome, complete genome:311	Streptomyces sp. 2221.1 Ga0151177_11, whole genome shotgun sequence:314	Streptomyces sp. 2114.2 chromosome I:321	Streptomyces sp. LRa12 NODE_100_length_28379_cov_153.035042, whole genome shotgun sequence:651	Streptomyces sp. RK76 RK76_contig_1, whole genome shotgun sequence:652
+Streptomyces lividans TK24 chromosome, complete genome:311	1.0	0.9940710999000001	0.9940905418	0.9932699202	0.9941676396
+Streptomyces sp. 2221.1 Ga0151177_11, whole genome shotgun sequence:314	0.9940710999000001	1.0	0.9999660667	0.9931375840000001	0.9937388548
+Streptomyces sp. 2114.2 chromosome I:321	0.9940905418	0.9999660667	1.0	0.9931445654000001	0.9937524835
+Streptomyces sp. LRa12 NODE_100_length_28379_cov_153.035042, whole genome shotgun sequence:651	0.9932699202	0.9931375840000001	0.9931445654000001	1.0	0.9928740836000001
+Streptomyces sp. RK76 RK76_contig_1, whole genome shotgun sequence:652	0.9941676396	0.9937388548	0.9937524835	0.9928740836000001	1.0

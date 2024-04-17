@@ -1,0 +1,6 @@
+d77d18bee2c96cbded40e1001b0d46f3	GCF_001975025.1_ASM197502v1_genomic	Streptomyces alfalfae strain ACCC40021 chromosome, complete genome
+efcb6e0baf4b261b8e3e39e2d32bc2b9	GCF_003573485.1_ASM357348v1_genomic	Streptomyces fradiae strain NKZ-259 chromosome, complete genome
+8dfe5083b912d97e8f46586e24f91b13	GCF_004127445.1_ASM412744v1_genomic	Streptomyces alfalfae strain XY25 1, whole genome shotgun sequence
+ec4ed971445c81de6d04c3149fcb3796	GCF_004212445.1_ASM421244v1_genomic	Streptomyces alfalfae strain XY25 contig1, whole genome shotgun sequence
+836660f287397244bacb7abe334a6b94	GCF_016128295.1_ASM1612829v1_genomic	Streptomyces alfalfae strain Men-myco-93-63 chromosome, complete genome
+a835e970f06f0237aee97eafb1158073	GCF_018141485.1_ASM1814148v1_genomic	Streptomyces alfalfae strain XN-04 chromosome, complete genome

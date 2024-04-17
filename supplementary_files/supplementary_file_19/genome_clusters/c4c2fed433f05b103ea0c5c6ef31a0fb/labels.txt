@@ -1,0 +1,5 @@
+8591c9af4dd1d2cd2d0a216f3be49fd1	GCF_000739105.1_ASM73910v1_genomic	Streptomyces lividans TK24 chromosome, complete genome
+2afa80f4c35cbc828d6a59df55349f21	GCF_003387455.1_ASM338745v1_genomic	Streptomyces sp. 2221.1 Ga0151177_11, whole genome shotgun sequence
+687312ef718fc8b1d90eba81fbf0006e	GCF_004795155.1_ASM479515v1_genomic	Streptomyces sp. LRa12 NODE_100_length_28379_cov_153.035042, whole genome shotgun sequence
+e61bfdd78563f0ccccf094d163cabb76	GCF_018070145.1_ASM1807014v1_genomic	Streptomyces sp. RK76 RK76_contig_1, whole genome shotgun sequence
+cbe15694b70a7c94c5f56daca3c6e8e7	GCF_900104935.1_IMG-taxon_2690315611_annotated_assembly_genomic	Streptomyces sp. 2114.2 chromosome I

@@ -1,0 +1,2 @@
+670020d9c5c1dfac96c7f4e7fcc73ccc	GCF_002300485.1_ASM230048v1_genomic	Streptomyces sp. Ag82_O1-15 Ga0151190_11, whole genome shotgun sequence
+87349365525ba579f98518c2cda5c915	GCF_900230275.1_IMG-taxon_2718217699_annotated_assembly_genomic	Streptomyces sp. OV198, whole genome shotgun sequence

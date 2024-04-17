@@ -1,0 +1,2 @@
+24adc9268eb6a7d50434900c4de8f88d	GCF_000332625.1_STVIR_1.0_genomic	Streptomyces viridochromogenes Tue57 Seq1, whole genome shotgun sequence
+94d82357f2c19fcfd5402a9b13bf4202	GCF_001513975.1_ASM151397v1_genomic	Streptomyces curacoi strain DSM 40107 PRJNA299217_s001, whole genome shotgun sequence

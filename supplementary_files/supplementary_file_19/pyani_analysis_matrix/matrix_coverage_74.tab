@@ -1,0 +1,7 @@
+	Streptomyces sp. WAC04657 WAC04657_unitig_0, whole genome shotgun sequence:135	Streptomyces sp. WAC00288 chromosome, complete genome:136	Streptomyces sp. CS081A scaffold00001, whole genome shotgun sequence:243	Streptomyces cinereoruber strain ATCC 19740 chromosome, complete genome:244	Streptomyces cinereoruber strain DSM 41512 Ga0310428_01, whole genome shotgun sequence:245	Streptomyces cinereoruber strain NRRL ISP-5012 Ga0394266_01, whole genome shotgun sequence:246
+Streptomyces sp. WAC04657 WAC04657_unitig_0, whole genome shotgun sequence:135	1.0	1.0066128263	0.8874373952	0.9086051132	0.9052941906	0.9036352507000001
+Streptomyces sp. WAC00288 chromosome, complete genome:136	0.9949126808000001	1.0	0.8787538398	0.8976795585	0.8946684259000001	0.8928773584
+Streptomyces sp. CS081A scaffold00001, whole genome shotgun sequence:243	0.9548988007	0.9566748391000001	1.0	0.9486203505	0.9450537172000001	0.9476266230000001
+Streptomyces cinereoruber strain ATCC 19740 chromosome, complete genome:244	0.9382121189	0.9378312312	0.9103296255000001	1.0	0.9968793287000001	0.9995963628000001
+Streptomyces cinereoruber strain DSM 41512 Ga0310428_01, whole genome shotgun sequence:245	0.9402332051000001	0.9401246835	0.9121845730000001	1.002680525	1.0	0.9971289265000001
+Streptomyces cinereoruber strain NRRL ISP-5012 Ga0394266_01, whole genome shotgun sequence:246	0.9396732063000001	0.9394052504	0.9158014146000001	1.0066592407	0.9983645310000001	1.0

@@ -1,0 +1,2 @@
+407aad6af41e88b7d0d5f40455a6b4cf	GCF_001418585.1_ASM141858v1_genomic	Streptomyces griseoruber strain NRRL B-1818 B-1818_contig_1, whole genome shotgun sequence
+326092902c340cc40c1830324cc1e417	GCF_001514205.1_ASM151420v1_genomic	Streptomyces griseoruber strain DSM 40281 PRJNA299232_s001, whole genome shotgun sequence

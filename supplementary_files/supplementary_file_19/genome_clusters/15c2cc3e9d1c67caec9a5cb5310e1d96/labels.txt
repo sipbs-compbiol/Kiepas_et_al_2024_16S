@@ -1,0 +1,2 @@
+f383bfe14fafe5b3cdec3ecd533b739f	GCF_018614095.1_ASM1861409v1_genomic	Streptomyces sp. ISL-87 ISL87_10, whole genome shotgun sequence
+108ee7d74254171d166ff142b7ba53ec	GCF_018614475.1_ASM1861447v1_genomic	Streptomyces sp. ISL-21 ISL21_10, whole genome shotgun sequence

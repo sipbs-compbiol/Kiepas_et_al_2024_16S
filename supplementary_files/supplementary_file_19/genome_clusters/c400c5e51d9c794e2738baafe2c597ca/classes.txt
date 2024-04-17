@@ -1,0 +1,3 @@
+918ad5ed5f5a38c924d27f22d5382caf	GCF_000220705.2_ASM22070v2_genomic	Streptomyces xinghaiensis S187 chromosome, complete genome
+1100882f05161dbf4ece4582007cd7b3	GCF_001190165.1_ASM119016v1_genomic	Streptomyces fradiae strain olg1-1 contig00001, whole genome shotgun sequence
+99f3ea51158c6998c487c2722dcc4b66	GCF_001756925.1_ASM175692v1_genomic	Streptomyces fradiae strain Olg4R contig00001, whole genome shotgun sequence

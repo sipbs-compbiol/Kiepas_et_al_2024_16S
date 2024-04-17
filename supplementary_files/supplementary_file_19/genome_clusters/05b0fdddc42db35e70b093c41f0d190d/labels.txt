@@ -1,0 +1,2 @@
+e37ada1f89058555e4b4dd234756432e	GCF_003994375.1_ASM399437v1_genomic	Streptomyces lydicus strain WYEC 108 chromosome, complete genome
+fe1232353bcac0479d698b26cfdbd6dd	GCF_004125275.1_ASM412527v1_genomic	Streptomyces lydicus strain SW_ACT1 S.lydicus_actinovate_0, whole genome shotgun sequence

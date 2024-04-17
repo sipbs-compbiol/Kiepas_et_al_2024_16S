@@ -1,0 +1,10 @@
+b500c2bbb8414180ba40a29df9f4d330	GCF_000331185.2_ASM33118v2_genomic	Streptomyces rimosus subsp. rimosus ATCC 10970 chromosome, complete genome
+fe3401f9859aa9197aa628cd39bb3d08	GCF_000707925.2_ASM70792v2_genomic	Streptomyces rimosus R6-500 chromosome
+ada094798ce3fc43b5712a1c750c2f37	GCF_000717285.1_ASM71728v1_genomic	Streptomyces rimosus subsp. rimosus strain NRRL ISP-5260 contig1.1, whole genome shotgun sequence
+c94a2305e394ba486f1319c852506c62	GCF_000718295.1_ASM71829v1_genomic	Streptomyces capuensis strain NRRL B-3501 contig1.1, whole genome shotgun sequence
+415c515d81ed7f136161a0d9caa5cd18	GCF_000718715.1_ASM71871v1_genomic	Streptomyces rimosus subsp. rimosus strain NRRL WC-3874 contig1.1, whole genome shotgun sequence
+5f64fa4a518ff6118417e477e85a130f	GCF_000718815.1_ASM71881v1_genomic	Streptomyces sp. NRRL WC-3703 contig1.1, whole genome shotgun sequence
+d3ce493ffb78d2602d613c453c1adc66	GCF_000721045.1_ASM72104v1_genomic	Streptomyces rimosus subsp. rimosus strain NRRL B-2626 contig1.1, whole genome shotgun sequence
+ec6db33caf8026e7a4ff5a85ae0b8967	GCF_006229535.1_ASM622953v1_genomic	Streptomyces rimosus strain WT5260 chromosome, complete genome
+0b8ddc5563ccc57589330666f0eb2c3c	GCF_008704655.1_ASM870465v1_genomic	Streptomyces rimosus strain ATCC 10970 chromosome, complete genome
+7a9e829a6736d0953c66c99a4936eba0	GCF_009862935.1_ASM986293v1_genomic	Streptomyces sp. SID5471 SID5471.c1, whole genome shotgun sequence

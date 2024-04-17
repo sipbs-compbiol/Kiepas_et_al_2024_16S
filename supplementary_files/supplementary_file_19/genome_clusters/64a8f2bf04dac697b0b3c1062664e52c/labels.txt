@@ -1,0 +1,2 @@
+d40a078ca68ff78f3622be62a55564ff	GCF_010548275.1_ASM1054827v1_genomic	Streptomyces sp. SID12488 NODE_100_length_683_cov_1.2536_ID_199/0, whole genome shotgun sequence
+357686cd2a4c6318ab7a263aa17509a7	GCF_010550245.1_ASM1055024v1_genomic	Streptomyces sp. SID12501 NODE_1000_length_394_cov_47.9139_ID_1999/0, whole genome shotgun sequence

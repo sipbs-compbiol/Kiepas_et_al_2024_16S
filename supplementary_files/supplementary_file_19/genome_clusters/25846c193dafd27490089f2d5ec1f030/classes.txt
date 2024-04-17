@@ -1,0 +1,2 @@
+819eded37e36fc1228195df993f91b5b	GCF_017876625.1_ASM1787662v1_genomic	Streptomyces syringium strain DSM 41480 Ga0451142_01, whole genome shotgun sequence
+c87b398efeb797af78e9a8c7af7da313	GCF_900290435.1_S2_genomic	Streptomyces netropsis isolate S2, whole genome shotgun sequence

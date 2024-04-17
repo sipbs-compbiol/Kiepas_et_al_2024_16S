@@ -1,0 +1,2 @@
+661290302f7104fd3c64cbe06cb37c51	GCF_001983975.1_ASM198397v1_genomic	Streptomyces autolyticus strain CGMCC0516 chromosome, complete genome
+72b1ec2cdc0fd165cc83933374d01b5e	GCF_011800555.1_ASM1180055v1_genomic	Streptomyces malaysiensis strain DSM 14702 A843_AS5_SC1, whole genome shotgun sequence

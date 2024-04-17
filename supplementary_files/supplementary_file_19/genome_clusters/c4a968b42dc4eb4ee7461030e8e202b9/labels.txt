@@ -1,0 +1,2 @@
+7947568ad4bfa71d057844cb2500d51b	GCF_000721945.1_ASM72194v1_genomic	Streptomyces sp. NRRL WC-3774 P230_Doro1_scaffold1, whole genome shotgun sequence
+1fcfd6cf817f68c90546a25bafc8e84e	GCF_001513955.1_ASM151395v1_genomic	Streptomyces pseudovenezuelae strain DSM 40212 PRJNA299220_s001, whole genome shotgun sequence

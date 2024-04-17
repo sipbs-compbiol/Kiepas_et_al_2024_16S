@@ -1,0 +1,2 @@
+c891ecaab31874fa9b98f998dd29d71f	GCF_014191845.1_ASM1419184v1_genomic	Streptomyces violarus strain CECT 3237 Ga0372373_01, whole genome shotgun sequence
+327afc774541b00b6dba73dfabb3d9c6	GCF_014650255.1_ASM1465025v1_genomic	Streptomyces violarus strain JCM 4534 sequence01, whole genome shotgun sequence

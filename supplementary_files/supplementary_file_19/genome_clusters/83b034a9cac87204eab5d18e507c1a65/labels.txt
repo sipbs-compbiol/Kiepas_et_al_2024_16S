@@ -1,0 +1,2 @@
+0120424f72c1832c0ea129e29e1e954e	GCF_003173275.1_ASM317327v1_genomic	Streptomyces sp. NEAU-S7GS2 chromosome, complete genome
+9687c748550d5462cad897641a83612f	GCF_009811595.1_ASM981159v1_genomic	Streptomyces libani subsp. libani strain NBRC 13452 sequence1, whole genome shotgun sequence

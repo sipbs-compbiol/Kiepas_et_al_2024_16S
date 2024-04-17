@@ -1,0 +1,5 @@
+509d7b3a362f8444a278809987f41c6c	GCF_000716025.1_ASM71602v1_genomic	Streptomyces baarnensis strain NRRL B-2842 P144_Doro1_scaffold1, whole genome shotgun sequence
+b2fddd14bf213d7d1a3720fac4765339	GCF_002551145.1_ASM255114v1_genomic	Streptomyces sp. st115 scaffold1.1.size182222, whole genome shotgun sequence
+ddb5da564b788a1d6966a9d6ecd09204	GCF_002910935.1_ASM291093v1_genomic	Streptomyces sp. B226SN101 1000_20763_1301636, whole genome shotgun sequence
+6bb39e04eb1c027b0e9340bfbd57e209	GCF_002910985.1_ASM291098v1_genomic	Streptomyces sp. B188M101 1011_941_61361, whole genome shotgun sequence
+c8f218223407d5eee9f89bd26768867a	GCF_014655335.1_ASM1465533v1_genomic	Streptomyces griseus strain JCM 4516 sequence01, whole genome shotgun sequence

@@ -1,0 +1,5 @@
+	Streptomyces sp. NRRL S-15 P310_Doro1_scaffold1, whole genome shotgun sequence:121	Streptomyces sp. Root55 contig_1, whole genome shotgun sequence:122	Streptomyces mutomycini strain NRRL B-65393 NRRL_B-65393_contig_1, whole genome shotgun sequence:123	Streptomyces clavifer strain DSM 40843 Ga0451096_01, whole genome shotgun sequence:124
+Streptomyces sp. NRRL S-15 P310_Doro1_scaffold1, whole genome shotgun sequence:121	1.0	0.8858287727	0.9929050855	0.8855993711
+Streptomyces sp. Root55 contig_1, whole genome shotgun sequence:122	0.8858287727	1.0	0.8851133543	0.9939002901
+Streptomyces mutomycini strain NRRL B-65393 NRRL_B-65393_contig_1, whole genome shotgun sequence:123	0.9929050855	0.8851133543	1.0	0.8849670304
+Streptomyces clavifer strain DSM 40843 Ga0451096_01, whole genome shotgun sequence:124	0.8855993711	0.9939002901	0.8849670304	1.0

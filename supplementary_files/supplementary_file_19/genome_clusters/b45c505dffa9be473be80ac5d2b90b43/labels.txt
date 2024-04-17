@@ -1,0 +1,2 @@
+e16b830e52b4bafa67dff10ec8708c32	GCF_016432685.1_ASM1643268v1_genomic	Streptomyces sp. I4(2020) I4_1_1, whole genome shotgun sequence
+31c76652cd0a33e6ac916c536f9d7bf9	GCF_018638305.1_ASM1863830v1_genomic	Streptomyces sp. Vc74B-19 1, whole genome shotgun sequence
