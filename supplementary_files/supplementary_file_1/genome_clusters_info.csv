@@ -1,0 +1,1308 @@
+cluster_hash,Total_genomes,Cluster_members,NCBI_names,Unique_names_per_cluster
+8d97d1635eeb17d23592bf5f9744f6b3,6,"GCF_001514135.1,GCF_002017835.1,GCF_005406005.1,GCF_009862865.1,GCF_000009765.2,GCF_005405965.1","['Streptomyces avermitilis', 'Streptomyces avermitilis', 'Streptomyces avermitilis', 'Streptomyces avermitilis', 'Streptomyces avermitilis', 'Streptomyces avermitilis', 'Streptomyces avermitilis', 'Streptomyces avermitilis', 'Streptomyces avermitilis', 'Streptomyces avermitilis', 'Streptomyces avermitilis', 'Streptomyces avermitilis', 'Streptomyces avermitilis', 'Streptomyces avermitilis', 'Streptomyces avermitilis', 'Streptomyces avermitilis', 'Streptomyces avermitilis', 'Streptomyces avermitilis', 'Streptomyces avermitilis', 'Streptomyces avermitilis', 'Streptomyces avermitilis', 'Streptomyces avermitilis', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",2
+9ecfc743f48accca13c0bcd3d9747f1f,8,"GCF_001723115.1,GCF_009866455.1,GCF_900105705.1,GCF_009862245.1,GCF_000010605.1,GCF_009863155.1,GCF_000177175.2,GCF_900091905.1","['Streptomyces griseus', 'Streptomyces griseus', 'Streptomyces griseus', 'Streptomyces griseus', 'Streptomyces griseus', 'Streptomyces griseus', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces griseus', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces griseus', 'Streptomyces sp.', 'Streptomyces griseus', 'Streptomyces griseus', 'Streptomyces griseus', 'Streptomyces griseus', 'Streptomyces griseus', 'Streptomyces griseus']",2
+561eb131904e59d01e026208814d5bae,1,GCF_000091305.1,['Streptomyces scabiei'],1
+c939196e7fa9df5bed85fda8170ed74e,16,"GCF_000091305.1,GCF_017969005.1,GCF_017968965.1,GCF_017969045.1,GCF_001550215.1,GCF_017933115.1,GCF_017933255.1,GCF_017968935.1,GCF_001579685.1,GCF_001550225.1,GCF_017969075.1,GCF_001550235.1,GCF_017969025.1,GCF_003584815.1,GCF_017933235.1,GCF_017968905.1","['Streptomyces scabiei', 'Streptomyces scabiei', 'Streptomyces scabiei', 'Streptomyces scabiei', 'Streptomyces scabiei', 'Streptomyces scabiei', 'Streptomyces scabiei', 'Streptomyces scabiei', 'Streptomyces scabiei', 'Streptomyces scabiei', 'Streptomyces scabiei', 'Streptomyces scabiei', 'Streptomyces scabiei', 'Streptomyces scabiei', 'Streptomyces scabiei', 'Streptomyces scabiei', 'Streptomyces scabiei', 'Streptomyces scabiei', 'Streptomyces scabiei', 'Streptomyces scabiei', 'Streptomyces scabiei', 'Streptomyces scabiei', 'Streptomyces scabiei', 'Streptomyces scabiei', 'Streptomyces scabiei', 'Streptomyces scabiei', 'Streptomyces scabiei', 'Streptomyces scabiei', 'Streptomyces scabiei', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",2
+0b2832da3913074f23487a5ea51849c6,2,"GCF_002154605.1,GCF_000092385.1","['Streptomyces bingchenggensis', 'Streptomyces bingchenggensis', 'Streptomyces bingchenggensis', 'Streptomyces bingchenggensis', 'Streptomyces bingchenggensis', 'Streptomyces bingchenggensis', 'Streptomyces milbemycinicus']",2
+70e86322f6b75586ea2e7a10e2183d0b,1,GCF_000147815.2,['Streptomyces violaceusniger'],1
+8c6c78c41b172b1bf51b0b753d156613,1,GCF_000147815.2,"['Streptomyces violaceusniger', 'Streptomyces violaceusniger', 'Streptomyces violaceusniger']",1
+2979bc08b37daad7575268c001be5999,1,GCF_000147815.2,['Streptomyces violaceusniger'],1
+1dddaa4933732989e54674d6145253fa,1,GCF_000147815.2,['Streptomyces violaceusniger'],1
+b991e97cc199744a356b0198821f5858,27,"GCF_015912875.1,GCF_015912975.1,GCF_015912395.1,GCF_015767895.1,GCF_015767735.1,GCF_015767875.1,GCF_000148465.1,GCF_000163875.1,GCF_015767815.1,GCF_015912925.1,GCF_015767795.1,GCF_015912435.1,GCF_015912945.1,GCF_015767935.1,GCF_015912995.1,GCF_015912895.1,GCF_015912455.1,GCF_015912465.1,GCF_015912985.1,GCF_001693675.1,GCF_015767755.1,GCF_015767915.1,GCF_005519465.1,GCF_015767855.1,GCF_015708605.1,GCF_015767775.1,GCF_003454755.1","['Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus']",1
+a09f763abbc93d60cc825ed274817d3d,2,"GCF_000177175.2,GCF_009863155.1","['Streptomyces sp.', 'Streptomyces sp.']",1
+485817df3afd784789e8c1090d43c412,2,"GCF_000177175.2,GCF_009863155.1","['Streptomyces sp.', 'Streptomyces sp.']",1
+83ba89c46f5a0c6c52700cd38b7af8b4,2,"GCF_000177175.2,GCF_009863155.1","['Streptomyces sp.', 'Streptomyces sp.']",1
+afdbf6dba86410bc099351ca0a916a66,9,"GCF_000177195.2,GCF_900091715.1,GCF_000721935.1,GCF_009865465.1,GCF_900091875.1,GCF_009862475.1,GCF_900095575.1,GCF_009863165.1,GCF_016612755.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+6c0145baf6207128f44c6e2285b4a57a,3,"GCF_009865425.1,GCF_009865465.1,GCF_000177195.2","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+29c9fb97bf6995ac159748444ef63666,2,"GCF_009863225.1,GCF_000179195.1","['Streptomyces sp.', 'Streptomyces sp.']",1
+bc21c3c275ce9ce750c9159f4b85267d,4,"GCF_900091825.1,GCF_900091755.1,GCF_002288075.1,GCF_000213055.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+b62d61fe1d0cb75a2fb0b507c969db95,2,"GCF_002288075.1,GCF_000213055.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+80bf907ddbcd5ef4fc502c024e0fe1ca,1,GCF_000213055.1,['Streptomyces sp.'],1
+fb1072dfddd63351c28381319cbf7f1b,1,GCF_000220705.2,"['Streptomyces xinghaiensis', 'Streptomyces xinghaiensis', 'Streptomyces xinghaiensis', 'Streptomyces xinghaiensis']",1
+c400c5e51d9c794e2738baafe2c597ca,3,"GCF_001756925.1,GCF_001190165.1,GCF_000220705.2","['Streptomyces xinghaiensis', 'Streptomyces xinghaiensis', 'Streptomyces fradiae', 'Streptomyces fradiae']",2
+a865d4cd712c2b6639989424b5caecaa,1,GCF_000225525.1,['Streptomyces zinciresistens'],1
+1a46ffa7eb680a0d3dda48d9aa6369ae,4,"GCF_000226455.1,GCF_900236475.1,GCF_900236505.1,GCF_009862985.1","['Streptomyces chartreusis', 'Streptomyces sp.', 'Streptomyces chartreusis', 'Streptomyces chartreusis', 'Streptomyces chartreusis', 'Streptomyces chartreusis', 'Streptomyces chartreusis', 'Streptomyces chartreusis', 'Streptomyces chartreusis', 'Streptomyces chartreusis', 'Streptomyces chartreusis', 'Streptomyces chartreusis', 'Streptomyces chartreusis', 'Streptomyces chartreusis']",2
+45fb8cb782f7859dcea77910d5edd90c,3,"GCF_009862885.1,GCF_000240165.1,GCF_000237305.1","['Streptomyces cattleya', 'Streptomyces cattleya', 'Streptomyces cattleya', 'Streptomyces cattleya', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",2
+ec05a3cf43b610670fa7e304c7f5f063,3,"GCF_009862885.1,GCF_000240165.1,GCF_000237305.1","['Streptomyces cattleya', 'Streptomyces cattleya', 'Streptomyces cattleya', 'Streptomyces sp.']",2
+3043011e9b2dec6b9dbdc52f319a15b9,2,"GCF_009862885.1,GCF_000237305.1","['Streptomyces cattleya', 'Streptomyces sp.']",2
+7d3172a826acb729b40b16fd81b316c7,3,"GCF_009862885.1,GCF_000240165.1,GCF_000237305.1","['Streptomyces cattleya', 'Streptomyces cattleya', 'Streptomyces sp.']",2
+d1b8dcbffc5637e44f7041043bc58bea,21,"GCF_001983595.1,GCF_000239075.1,GCF_001905575.1,GCF_008932075.1,GCF_009872615.1,GCF_001905485.1,GCF_002910875.1,GCF_904440645.1,GCF_003116675.1,GCF_019049185.1,GCF_001434355.1,GCF_009865505.1,GCF_000373405.1,GCF_001905645.1,GCF_009865135.1,GCF_003367645.1,GCF_005234185.1,GCF_002158965.1,GCF_014495705.1,GCF_018070745.1,GCF_904440635.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces anulatus', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces lavendulae', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces anulatus', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",3
+d3c8e9f99912db8a8e794294bd1e7630,1,GCF_000240165.1,"['Streptomyces cattleya', 'Streptomyces cattleya']",1
+62cce204e644b11a75071f9b48002636,4,"GCF_000340845.1,GCF_001514055.1,GCF_000245355.1,GCF_001447075.1","['Streptomyces hygroscopicus', 'Streptomyces hygroscopicus', 'Streptomyces hygroscopicus', 'Streptomyces hygroscopicus', 'Streptomyces corchorusii']",2
+e9fa69a2c88c5e2912d69bb70f7c06f0,2,"GCF_000340845.1,GCF_000245355.1","['Streptomyces hygroscopicus', 'Streptomyces hygroscopicus']",1
+37c15ef9c978b10606288ca8c841d81c,2,"GCF_000340845.1,GCF_000245355.1","['Streptomyces hygroscopicus', 'Streptomyces hygroscopicus', 'Streptomyces hygroscopicus', 'Streptomyces hygroscopicus', 'Streptomyces hygroscopicus', 'Streptomyces hygroscopicus', 'Streptomyces hygroscopicus', 'Streptomyces hygroscopicus']",1
+53466105261926502eca5d73e75d26b0,9,"GCF_014649875.1,GCF_000932225.2,GCF_003263925.1,GCF_003263885.1,GCF_003989035.1,GCF_003353555.1,GCF_003147545.1,GCF_002154385.1,GCF_000261345.2","['Streptomyces globisporus', 'Streptomyces globisporus', 'Streptomyces globisporus', 'Streptomyces globisporus', 'Streptomyces globisporus', 'Streptomyces globisporus', 'Streptomyces griseus', 'Streptomyces griseus', 'Streptomyces griseus', 'Streptomyces griseus', 'Streptomyces albovinaceus', 'Streptomyces globisporus', 'Streptomyces globisporus', 'Streptomyces globisporus', 'Streptomyces globisporus', 'Streptomyces badius', 'Streptomyces badius', 'Streptomyces badius', 'Streptomyces badius', 'Streptomyces badius', 'Streptomyces badius', 'Streptomyces badius', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces rubiginosohelvolus']",6
+1a92e6ec388357c75bc655c3be115057,1,GCF_000262345.1,['Streptomyces xiaopingdaonensis'],1
+e241462c06fdb3a488a621bc0186d552,5,"GCF_900105525.1,GCF_002797835.1,GCF_000280865.2,GCF_900221035.1,GCF_900104865.1","['Streptomyces auratus', 'Streptomyces auratus', 'Streptomyces auratus', 'Streptomyces auratus', 'Streptomyces auratus', 'Streptomyces auratus', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",2
+b2dccb10abea78141b489460e443c68e,2,"GCF_001751375.1,GCF_000280905.1","['Streptomyces sp.', 'Streptomyces qinglanensis', 'Streptomyces qinglanensis', 'Streptomyces qinglanensis', 'Streptomyces qinglanensis']",2
+6c033d9cf0dba8d4dfdd49dce1406c12,4,"GCF_009862825.1,GCF_016919685.1,GCF_003932715.1,GCF_000297155.3","['Streptomyces tsukubensis', 'Streptomyces tsukubensis', 'Streptomyces tsukubensis', 'Streptomyces tsukubensis', 'Streptomyces tsukubensis', 'Streptomyces tsukubensis', 'Streptomyces tsukubensis', 'Streptomyces tsukubensis', 'Streptomyces tsukubensis', 'Streptomyces tsukubensis', 'Streptomyces tsukubensis', 'Streptomyces tsukubensis', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces tsukubensis', 'Streptomyces tsukubensis', 'Streptomyces tsukubensis', 'Streptomyces tsukubensis', 'Streptomyces tsukubensis', 'Streptomyces tsukubensis']",2
+4a2141ae4d6099c5f7a5ddf1e856581f,1,GCF_000297635.1,['Streptomyces sp.'],1
+4a5e503e9e6d1e4eb2150f313e1f6c96,33,"GCF_000299175.2,GCF_004195965.1,GCF_004195945.1,GCF_009865275.1,GCF_013693715.1,GCF_004196035.1,GCF_002910795.1,GCF_004195995.1,GCF_900091885.1,GCF_009834105.1,GCF_009862345.1,GCF_003687515.1,GCF_900091785.1,GCF_001577385.1,GCF_013371965.1,GCF_004195955.1,GCF_013376795.1,GCF_014281095.1,GCF_013363715.1,GCF_009863175.1,GCF_004195895.1,GCF_004195845.1,GCF_012184365.2,GCF_001704195.1,GCF_000359525.1,GCF_001431765.1,GCF_009846825.1,GCF_019067045.1,GCF_004124335.1,GCF_004195935.1,GCF_002910725.2,GCF_004195755.1,GCF_004195855.1","['Streptomyces sp.', 'Streptomyces albidoflavus', 'Streptomyces albidoflavus', 'Streptomyces albidoflavus', 'Streptomyces albidoflavus', 'Streptomyces albidoflavus', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces albidoflavus', 'Streptomyces albidoflavus', 'Streptomyces albidoflavus', 'Streptomyces albidoflavus', 'Streptomyces sampsonii', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces albidoflavus', 'Streptomyces albidoflavus', 'Streptomyces albidoflavus', 'Streptomyces albidoflavus', 'Streptomyces albidoflavus', 'Streptomyces albidoflavus', 'Streptomyces albidoflavus', 'Streptomyces albidoflavus', 'Streptomyces albidoflavus', 'Streptomyces albidoflavus', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces violascens', 'Streptomyces violascens', 'Streptomyces violascens', 'Streptomyces violascens', 'Streptomyces albidoflavus', 'Streptomyces albidoflavus', 'Streptomyces albidoflavus', 'Streptomyces albidoflavus', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",4
+cfc7125ca61355032dc208af40515362,1,GCF_000316095.1,['Streptomyces viridosporus'],1
+092957ff78556eb65503e2f4a23282bd,10,"GCF_006229535.1,GCF_008704655.1,GCF_000718715.1,GCF_000717285.1,GCF_000721045.1,GCF_009862935.1,GCF_000331185.2,GCF_000718815.1,GCF_000718295.1,GCF_000707925.2","['Streptomyces rimosus', 'Streptomyces rimosus', 'Streptomyces rimosus', 'Streptomyces rimosus', 'Streptomyces rimosus', 'Streptomyces rimosus', 'Streptomyces rimosus', 'Streptomyces rimosus', 'Streptomyces rimosus', 'Streptomyces capuensis', 'Streptomyces rimosus', 'Streptomyces sp.', 'Streptomyces rimosus', 'Streptomyces rimosus', 'Streptomyces rimosus', 'Streptomyces rimosus', 'Streptomyces rimosus', 'Streptomyces rimosus', 'Streptomyces rimosus', 'Streptomyces rimosus', 'Streptomyces rimosus', 'Streptomyces rimosus', 'Streptomyces rimosus', 'Streptomyces rimosus', 'Streptomyces sp.']",3
+84909a31f252be1a6b298bc07824d1d7,2,"GCF_000331185.2,GCF_008704655.1","['Streptomyces rimosus', 'Streptomyces rimosus']",1
+dca8431deb42e3ce0493b115d58e0509,3,"GCF_000331185.2,GCF_000707925.2,GCF_008704655.1","['Streptomyces rimosus', 'Streptomyces rimosus', 'Streptomyces rimosus']",1
+341585998fa34e81df9fe858dd4a8b57,2,"GCF_000332625.1,GCF_001513975.1","['Streptomyces viridochromogenes', 'Streptomyces curacoi']",2
+29a8ea3a0efe428b9c0bd27b75b4e764,2,"GCF_000342125.1,GCF_017916255.1","['Streptomyces mobaraensis', 'Streptomyces mobaraensis', 'Streptomyces mobaraensis', 'Streptomyces mobaraensis', 'Streptomyces mobaraensis', 'Streptomyces mobaraensis', 'Streptomyces mobaraensis', 'Streptomyces mobaraensis']",1
+bea6c393b71c4f3f3652ed96c9bcf4f7,1,GCF_000349325.1,"['Streptomyces davaonensis', 'Streptomyces davaonensis', 'Streptomyces davaonensis', 'Streptomyces davaonensis', 'Streptomyces davaonensis', 'Streptomyces davaonensis']",1
+edd9643847968dde4d0dadfbb3b62bed,3,"GCF_013693715.1,GCF_000359525.1,GCF_009862345.1","['Streptomyces albidoflavus', 'Streptomyces albidoflavus', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces albidoflavus', 'Streptomyces albidoflavus']",2
+fc549cfa18c8eaa91c83c471c80a0cbd,19,"GCF_900207595.1,GCF_001189025.1,GCF_004524875.1,GCF_001427565.1,GCF_000935135.2,GCF_009862365.1,GCF_018530825.1,GCF_001434355.1,GCF_001426325.1,GCF_000721595.1,GCF_000364805.1,GCF_018614445.1,GCF_009865135.1,GCF_000720395.1,GCF_002188345.1,GCF_001905595.1,GCF_009862355.1,GCF_018614515.1,GCF_003268965.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces flavovirens', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces europaeiscabiei', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces anulatus', 'Streptomyces anulatus', 'Streptomyces anulatus', 'Streptomyces anulatus', 'Streptomyces anulatus', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces avidinii', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces microflavus']",6
+a82840b639b3ff61d1ca25b316cb0164,1,GCF_000367365.1,['Streptomyces prunicolor'],1
+e076f476bffe63080b8e4e2d8fd7e118,2,"GCF_000373565.1,GCF_009864845.1","['Streptomyces sp.', 'Streptomyces sp.']",1
+28dbd81fc17e8ca1198e86a20b0cd5dc,1,GCF_000373625.1,['Streptomyces sp.'],1
+97ff431ce6106d3a8e7c8d437ab63d1a,1,GCF_000376565.1,['Streptomyces hokutonensis'],1
+f7f6bc4738272ded9121499528fe2286,1,GCF_000380165.1,['Streptomyces vitaminophilus'],1
+63df1fb4fc7c160ce71facaef8ea2e15,2,"GCF_000382745.1,GCF_009862105.1","['Streptomyces sp.', 'Streptomyces sp.']",1
+6f25843eabe9ceaf13be9d94e418cf45,6,"GCF_014930365.1,GCF_002155765.1,GCF_000383595.1,GCF_014930405.1,GCF_014930395.1,GCF_014930355.1","['Streptomyces bottropensis', 'Streptomyces bottropensis', 'Streptomyces bottropensis', 'Streptomyces bottropensis', 'Streptomyces bottropensis', 'Streptomyces bottropensis', 'Streptomyces scabiei', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",3
+1746d267d29bb13175a0b702766a2fb6,2,"GCF_000384175.1,GCF_014648195.1","['Streptomyces purpureus', 'Streptomyces purpureus', 'Streptomyces purpureus', 'Streptomyces purpureus', 'Streptomyces purpureus', 'Streptomyces purpureus']",1
+e47aab3690810cc777f18156830e8b67,1,GCF_000384175.1,['Streptomyces purpureus'],1
+609c6ae5c24fb039a18edc3656767f58,10,"GCF_013364315.1,GCF_013167895.1,GCF_003610995.1,GCF_001418625.1,GCF_000935135.2,GCF_016653995.1,GCF_017358145.1,GCF_002242735.1,GCF_013409565.1,GCF_000385945.1","['Streptomyces fulvissimus', 'Streptomyces fulvissimus', 'Streptomyces fulvissimus', 'Streptomyces fulvissimus', 'Streptomyces fulvissimus', 'Streptomyces fulvissimus', 'Streptomyces sp.', 'Streptomyces luridiscabiei', 'Streptomyces sp.', 'Streptomyces griseus', 'Streptomyces griseus', 'Streptomyces griseus', 'Streptomyces griseus', 'Streptomyces griseus', 'Streptomyces fulvorobeus', 'Streptomyces fulvorobeus', 'Streptomyces fulvorobeus', 'Streptomyces fulvissimus', 'Streptomyces fulvissimus', 'Streptomyces fulvissimus', 'Streptomyces fulvissimus', 'Streptomyces fulvissimus', 'Streptomyces fulvissimus', 'Streptomyces fulvorobeus', 'Streptomyces fulvorobeus', 'Streptomyces fulvorobeus', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",5
+d8d1576f37d4afc51f2ad16514f66871,1,GCF_000403665.1,['Streptomyces lividans'],1
+4c93fa85cd14cc39840ec4b1f42e7b49,13,"GCF_000739105.1,GCF_008124975.1,GCF_013317105.1,GCF_900104935.1,GCF_000972395.1,GCF_000403665.1,GCF_000717845.1,GCF_009862445.1,GCF_008125035.1,GCF_003671755.1,GCF_008931305.1,GCF_003387455.1,GCF_003013745.1","['Streptomyces lividans', 'Streptomyces violaceoruber', 'Streptomyces lividans', 'Streptomyces lividans', 'Streptomyces lividans', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces coelicolor', 'Streptomyces coelicolor', 'Streptomyces coelicolor', 'Streptomyces coelicolor', 'Streptomyces coelicolor', 'Streptomyces coelicolor', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces coelicolor', 'Streptomyces coelicolor', 'Streptomyces coelicolor', 'Streptomyces coelicolor', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",4
+c0d5a80ff309fb0b9a0730b3cc0d5832,1,GCF_000403665.1,['Streptomyces lividans'],1
+831419bc56ae2cd819cf95de2bac7937,4,"GCF_000935185.3,GCF_003851665.1,GCF_000403765.2,GCF_000695235.1","['Streptomyces albulus', 'Streptomyces albulus', 'Streptomyces albulus', 'Streptomyces albulus', 'Streptomyces albulus', 'Streptomyces albulus', 'Streptomyces albulus', 'Streptomyces albulus', 'Streptomyces albulus', 'Streptomyces albulus', 'Streptomyces albulus', 'Streptomyces albulus', 'Streptomyces albulus', 'Streptomyces albulus', 'Streptomyces albulus', 'Streptomyces albulus']",1
+861fdd97b8ce682b9e879eb5908a3307,1,GCF_000404005.1,['Streptomyces sp.'],1
+248f9c984cd142f477dc412efe8bd080,1,GCF_000411315.1,['Streptomyces sp.'],1
+efaa8db6e257624f01bc40ab4ff62fb6,1,GCF_000411315.1,"['Streptomyces sp.', 'Streptomyces sp.']",1
+b2cd072a4c711c614dc3e7e78ead44c4,1,GCF_000411315.1,['Streptomyces sp.'],1
+5a5fcd32455a7ecab58cdd40553e91bf,1,GCF_000411315.1,['Streptomyces sp.'],1
+41000050a587904530f8a24b415611d2,4,"GCF_001418125.1,GCF_000411495.1,GCF_000813365.1,GCF_001418545.1","['Streptomyces sp.', 'Streptomyces albus', 'Streptomyces albus', 'Streptomyces albus']",2
+e7c627d8a23243e9c38566396036b35b,1,GCF_000411495.1,"['Streptomyces sp.', 'Streptomyces sp.']",1
+779e606e1cd4debfd6f645fce60746b3,2,"GCF_000411495.1,GCF_011006355.1","['Streptomyces sp.', 'Streptomyces albus']",2
+f65a78ffad7cff0fcff43da4330d29a8,1,GCF_000411495.1,['Streptomyces sp.'],1
+77fcdd514c65058cb4898d826315427d,6,"GCF_018255875.1,GCF_000412265.2,GCF_002803845.1,GCF_001905425.1,GCF_017825375.1,GCF_002803195.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces lavendulae', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces lavendulae']",2
+a229d44323494047f4e45593c0844fa5,1,GCF_000414115.1,['Streptomyces aurantiacus'],1
+d301c005767b4f9de3feaf4a7841a195,1,GCF_000424945.1,['Streptomyces sp.'],1
+795911f6835c9879aa6618098c6910fe,1,GCF_000444875.1,"['Streptomyces collinus', 'Streptomyces collinus', 'Streptomyces collinus', 'Streptomyces collinus', 'Streptomyces collinus', 'Streptomyces collinus']",1
+4205b32dc227e75df03de8dc1469ef10,1,GCF_000478605.2,"['Streptomyces thermolilacinus', 'Streptomyces thermolilacinus', 'Streptomyces thermolilacinus', 'Streptomyces thermolilacinus', 'Streptomyces thermolilacinus', 'Streptomyces thermolilacinus']",1
+d9577fbd59d98482e847bbb915924d60,9,"GCF_000495755.1,GCF_015601545.1,GCF_018638335.1,GCF_013363465.1,GCF_013363485.1,GCF_000797385.1,GCF_000800535.1,GCF_013363585.1,GCF_010523235.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces odorifer', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces albidoflavus', 'Streptomyces albidoflavus', 'Streptomyces albidoflavus', 'Streptomyces albidoflavus', 'Streptomyces albidoflavus', 'Streptomyces albidoflavus', 'Streptomyces albidoflavus', 'Streptomyces sp.']",3
+d1902780a7af09599d0bc1b77cbf48c3,1,GCF_000495755.1,['Streptomyces sp.'],1
+7285714285b0e737bfbcac7ac7fcf80c,1,GCF_000497445.1,"['Streptomyces roseochromogenus', 'Streptomyces roseochromogenus', 'Streptomyces roseochromogenus', 'Streptomyces roseochromogenus', 'Streptomyces roseochromogenus', 'Streptomyces roseochromogenus']",1
+eec9f291d703f83f773df39cda549322,2,"GCF_003116755.1,GCF_000498935.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+747eb6bb15f451ff06144c8ec88d1bd6,1,GCF_000590515.1,['Streptomyces sp.'],1
+6be26c32a7a7e6a8c41592c6b4f2e396,4,"GCF_000719345.1,GCF_000612545.1,GCF_000956015.1,GCF_001941845.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+d0d9db7f28e1faae4488d272e8558a87,5,"GCF_009862115.1,GCF_004794175.1,GCF_011055525.1,GCF_002094995.1,GCF_000647875.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+b3443b6b36ad1a508eaf061ad3134c2a,2,"GCF_003851665.1,GCF_000695235.1","['Streptomyces albulus', 'Streptomyces albulus', 'Streptomyces albulus']",1
+bef5de175314a4c027eab7622d3c9015,1,GCF_000695235.1,['Streptomyces albulus'],1
+4c1abd25da5d97826704342183bd6c8e,1,GCF_000695235.1,['Streptomyces albulus'],1
+503d9a782adfe7642864ca76ce19b327,2,"GCF_001013905.1,GCF_000696595.1","['Streptomyces leeuwenhoekii', 'Streptomyces leeuwenhoekii', 'Streptomyces leeuwenhoekii', 'Streptomyces leeuwenhoekii']",1
+13e080dc5982db6fcf2b0885802f5762,10,"GCF_002910775.2,GCF_000721185.1,GCF_000698495.1,GCF_009862465.1,GCF_900091765.1,GCF_009863235.1,GCF_900090065.1,GCF_009865365.1,GCF_002705695.1,GCF_900091745.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces griseolus', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",2
+f26cd7d5ba8bc0da5ec0e04775a2f3bb,2,"GCF_008704655.1,GCF_000707925.2","['Streptomyces rimosus', 'Streptomyces rimosus']",1
+0fe0b849c0869f69b034aa9279c462ee,1,GCF_000709915.1,"['Streptomyces griseorubens', 'Streptomyces griseorubens']",1
+0daca24406bbcdb99ff39738e93c4193,1,GCF_000709915.1,['Streptomyces griseorubens'],1
+287f912e02ef83a09f12c791ad05412e,1,GCF_000709915.1,['Streptomyces griseorubens'],1
+ee5f953633c7a05e969734d98056bf44,1,GCF_000709915.1,"['Streptomyces griseorubens', 'Streptomyces griseorubens']",1
+9482322e7afe6dbb013b98f5d189ac4e,14,"GCF_014748265.1,GCF_016624005.1,GCF_016906225.1,GCF_002082175.1,GCF_001270675.1,GCF_013401535.1,GCF_016906205.1,GCF_016521585.1,GCF_000717965.1,GCF_016906245.1,GCF_000715745.1,GCF_016906265.1,GCF_000718915.1,GCF_016906185.1","['Streptomyces californicus', 'Streptomyces purpeochromogenes', 'Streptomyces sp.', 'Streptomyces griseus', 'Streptomyces violaceoruber', 'Streptomyces violaceoruber', 'Streptomyces violaceoruber', 'Streptomyces violaceoruber', 'Streptomyces violaceoruber', 'Streptomyces violaceoruber', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces californicus', 'Streptomyces californicus', 'Streptomyces californicus', 'Streptomyces californicus', 'Streptomyces californicus', 'Streptomyces californicus', 'Streptomyces californicus', 'Streptomyces californicus', 'Streptomyces californicus', 'Streptomyces californicus', 'Streptomyces californicus', 'Streptomyces californicus', 'Streptomyces californicus', 'Streptomyces californicus', 'Streptomyces californicus', 'Streptomyces californicus', 'Streptomyces californicus', 'Streptomyces californicus']",5
+4bf873579d09583d40e06483072c0c92,1,GCF_000715845.1,['Streptomyces monomycini'],1
+30db05e6854e444cd57c4651b4a6173d,5,"GCF_002910935.1,GCF_002551145.1,GCF_000716025.1,GCF_014655335.1,GCF_002910985.1","['Streptomyces baarnensis', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces griseus']",3
+4517cd05fb4514da0bffb9f444973d78,2,"GCF_000716215.1,GCF_001514265.1","['Streptomyces resistomycificus', 'Streptomyces resistomycificus']",1
+3fb505af209b97bb3ef7bbadf4f49ae0,1,GCF_000716335.1,['Streptomyces sp.'],1
+1d62371a47eea25c2b66f374a5172fd6,1,GCF_000716685.1,['Streptomyces virginiae'],1
+680f2f86a2855c5682170f359afac5d1,1,GCF_000716945.1,['Streptomyces albus'],1
+784b2762023fd78c3d21ed720cef19d1,1,GCF_000717015.1,['Streptomyces brasiliensis'],1
+d97b1a577e8ae773412ae9484120ee13,1,GCF_000717025.1,['Streptomyces atroolivaceus'],1
+30a8bec5ca59d6ad3dd76362a0e19469,1,GCF_000717215.1,['Streptomyces vinaceus'],1
+5b9ddf2a8248672ff72e2bff38068679,1,GCF_000717345.1,['Streptomyces lydicus'],1
+82a3a9e92e66b2df7dbe68eb5311a671,1,GCF_000717595.1,['Streptomyces flavochromogenes'],1
+1ade56514ec572358897563eee4bae53,1,GCF_000717665.1,['Streptomyces californicus'],1
+10ff6fad647d621a993aa7143f2c5235,1,GCF_000717805.1,['Streptomyces sp.'],1
+765d84f35f3703b241edb4ee29664b31,1,GCF_000717815.1,['Streptomyces rimosus'],1
+0d01595cd75d231e51f7e0fc6070a1d7,3,"GCF_000717875.1,GCF_000721955.1,GCF_000722015.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+51eb68ceeea42b39d71930be011a8c3c,1,GCF_000717895.1,['Streptomyces sp.'],1
+9cdb2e014703f02c68a18a2ef46266fd,1,GCF_000717915.1,['Streptomyces sp.'],1
+8d8dcfe4441151c9e84c8db87f5eaeb5,13,"GCF_000717925.1,GCF_014648615.1,GCF_002080455.1,GCF_017639205.1,GCF_000725805.1,GCF_002028385.1,GCF_016755855.1,GCF_000718935.1,GCF_001270565.1,GCF_016755895.1,GCF_016755875.1,GCF_008642275.1,GCF_001279625.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces xanthophaeus', 'Streptomyces virginiae', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces venezuelae', 'Streptomyces venezuelae', 'Streptomyces venezuelae', 'Streptomyces venezuelae', 'Streptomyces venezuelae', 'Streptomyces venezuelae', 'Streptomyces nojiriensis', 'Streptomyces nojiriensis', 'Streptomyces nojiriensis', 'Streptomyces nojiriensis', 'Streptomyces nojiriensis', 'Streptomyces nojiriensis', 'Streptomyces nojiriensis', 'Streptomyces nojiriensis', 'Streptomyces spororaveus', 'Streptomyces spororaveus', 'Streptomyces spororaveus', 'Streptomyces spororaveus', 'Streptomyces spororaveus', 'Streptomyces spororaveus', 'Streptomyces spororaveus', 'Streptomyces xanthophaeus', 'Streptomyces xanthophaeus', 'Streptomyces xanthophaeus', 'Streptomyces xanthophaeus', 'Streptomyces nojiriensis', 'Streptomyces nojiriensis', 'Streptomyces nojiriensis', 'Streptomyces nojiriensis', 'Streptomyces nojiriensis', 'Streptomyces nojiriensis', 'Streptomyces nojiriensis']",6
+f85ad24322e49736a47587d39974059e,1,GCF_000717945.1,['Streptomyces sp.'],1
+64cf1f77904d5a346591827f468d80b5,1,GCF_000717995.1,['Streptomyces violaceorubidus'],1
+556490987dd18934ff6487e910253300,3,"GCF_002803845.1,GCF_018255875.1,GCF_000718155.1","['Streptomyces lavendulae', 'Streptomyces lavendulae', 'Streptomyces lavendulae', 'Streptomyces lavendulae', 'Streptomyces lavendulae', 'Streptomyces lavendulae', 'Streptomyces lavendulae', 'Streptomyces lavendulae', 'Streptomyces lavendulae']",1
+c1d59a3b65a62e0aea22d4842a517538,1,GCF_000718165.1,['Streptomyces fulvoviolaceus'],1
+2130b5b47c995a3220dbb4eb53c3db34,1,GCF_000718315.1,['Streptomyces griseofuscus'],1
+b7cf980d4e8f7bf06a3be0fcc4d2895b,2,"GCF_000718375.1,GCF_001279005.1","['Streptomyces sp.', 'Streptomyces caelestis']",2
+a38a4c89864a4dda346e21c91e0b57d4,1,GCF_000718595.1,['Streptomyces bikiniensis'],1
+2dc43ef32a4bf0dbd1550901d28fc85a,2,"GCF_000721665.1,GCF_000718675.1","['Streptomyces rimosus', 'Streptomyces rimosus']",1
+94f8411b5699b3428590d0fbba290109,1,GCF_000718695.1,['Streptomyces californicus'],1
+d3127244e1365b0bb2f0c724af82d417,23,"GCF_001279845.1,GCF_001279485.1,GCF_001279935.1,GCF_000718705.1,GCF_001279445.1,GCF_014648795.1,GCF_001279815.1,GCF_001279495.1,GCF_016755835.1,GCF_001279925.1,GCF_017876235.1,GCF_008086975.1,GCF_001279765.1,GCF_001279905.1,GCF_001279685.1,GCF_014217585.1,GCF_000720235.1,GCF_000966965.1,GCF_000719625.1,GCF_001279855.1,GCF_001279965.1,GCF_000720455.1,GCF_001279885.1","['Streptomyces lavendulae', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces virginiae', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces cinnamonensis', 'Streptomyces cinnamonensis', 'Streptomyces cinnamonensis', 'Streptomyces cinnamonensis', 'Streptomyces cinnamonensis', 'Streptomyces cinnamonensis', 'Streptomyces cinnamonensis', 'Streptomyces cinnamonensis', 'Streptomyces cinnamonensis', 'Streptomyces cinnamonensis', 'Streptomyces cinnamonensis', 'Streptomyces cinnamonensis', 'Streptomyces cinnamonensis', 'Streptomyces cinnamonensis']",4
+c6a21acb45743cf83c7d97e000ac67c7,1,GCF_000718775.1,['Streptomyces sp.'],1
+f3d79c4390db3bf429f05eb27a3c6d83,1,GCF_000718945.1,['Streptomyces sp.'],1
+5a3408d0ec639aed92b44230cd47bc6d,8,"GCF_001746425.1,GCF_000720795.1,GCF_000720115.1,GCF_018614075.1,GCF_016755895.1,GCF_000718955.1,GCF_000725725.1,GCF_003148825.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces xanthophaeus', 'Streptomyces subrutilus', 'Streptomyces subrutilus', 'Streptomyces subrutilus', 'Streptomyces sp.', 'Streptomyces xanthophaeus', 'Streptomyces xanthophaeus', 'Streptomyces sp.']",3
+8635c50c36d0ee26755ae618c2e40897,1,GCF_000719195.1,['Streptomyces californicus'],1
+6ae3bfea0e7ae96d8b15fbe240b47e57,1,GCF_000719265.1,['Streptomyces roseoverticillatus'],1
+b3f4a84fa90bc50566c9b92712916e2c,1,GCF_000719335.1,['Streptomyces sp.'],1
+89695942edb395023689b838fa988267,1,GCF_000719475.1,['Streptomyces sp.'],1
+4e14ba6803dc1b65dcf8038110377a42,1,GCF_000719495.1,['Streptomyces albidoflavus'],1
+9de8d2040cf32162abc487a1a749e2f8,1,GCF_000719575.1,['Streptomyces sp.'],1
+6743edb9fb8276017a861c559b46a11f,1,GCF_000719605.1,['Streptomyces sp.'],1
+89b52a0a32890994737fb10da0f5964f,1,GCF_000719705.1,['Streptomyces sp.'],1
+27bc5a7d6f28b512ae9c0a07c64c07d8,1,GCF_000719745.1,['Streptomyces sp.'],1
+ce4e104465ee66e37843b86dc9d42cdf,2,"GCF_000719785.1,GCF_016834575.1","['Streptomyces sp.', 'Streptomyces sp.']",1
+03454d5fe1026ec36404f1bcbb6049ef,1,GCF_000719855.1,['Streptomyces sp.'],1
+452741273ca413d161ef0c53cec1787b,1,GCF_000719865.1,['Streptomyces albus'],1
+5067c8d578640e2e499895970c0f0d0d,1,GCF_000719895.1,['Streptomyces sp.'],1
+04f1734c2c086ce12a577a5dd4b1bfad,1,GCF_000719915.1,['Streptomyces sp.'],1
+c8e6ffcd4156de62e280f8d6e23e9ba4,1,GCF_000719955.1,['Streptomyces albidoflavus'],1
+e0c2a75779d23e04d214e7fe4ed6ad27,1,GCF_000720135.1,['Streptomyces sp.'],1
+ee45b437b549639a809b5b6b68944575,7,"GCF_008704935.1,GCF_004364395.1,GCF_000720145.1,GCF_001280885.1,GCF_003751425.1,GCF_004794975.1,GCF_001279655.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces vinaceus', 'Streptomyces vinaceus', 'Streptomyces vinaceus', 'Streptomyces vinaceus', 'Streptomyces vinaceus', 'Streptomyces vinaceus']",2
+8dfa484c0ed25656b7f56821bd1daee3,1,GCF_000720325.1,['Streptomyces sp.'],1
+8f1bf6155f5f8fa9f1ac63f935eb24ec,1,GCF_000720505.1,['Streptomyces sp.'],1
+d56b5b9dacba4af4b30957016cae91a1,1,GCF_000720635.1,['Streptomyces sp.'],1
+aaede31577f5290f7ecbacd196f1f5ca,1,GCF_000720725.1,['Streptomyces rimosus'],1
+590e08e73b5eaadfe49512ef65bc5c7b,1,GCF_000720765.1,['Streptomyces sp.'],1
+83f12ece4a94022da1895f3e5c7be627,1,GCF_000720875.1,['Streptomyces globisporus'],1
+5c6d984a30fa51b331191a319c843135,1,GCF_000721035.1,['Streptomyces griseus'],1
+45cbd2d6aa908ec97d7f4cc7006dda06,4,"GCF_001767375.1,GCF_011650445.1,GCF_000721235.1,GCF_015244315.1","['Streptomyces olivaceus', 'Streptomyces olivaceus', 'Streptomyces olivaceus', 'Streptomyces olivaceus', 'Streptomyces olivaceus', 'Streptomyces olivaceus', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces olivaceus', 'Streptomyces olivaceus', 'Streptomyces olivaceus']",2
+db8d5bcaf161f96e9b58a468857632d5,1,GCF_000721255.1,['Streptomyces avellaneus'],1
+176cd812b6fbf401938f07374a4ff244,3,"GCF_001279355.1,GCF_000725645.1,GCF_000721335.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+a173ccc7dc45315f3f002e714c7ea560,1,GCF_000721365.1,['Streptomyces sp.'],1
+06b951732f02d155fc6a28f50e8b4f66,1,GCF_000721455.1,['Streptomyces sp.'],1
+db07087de070723d14fc46fc842dd0e0,1,GCF_000721495.1,['Streptomyces sp.'],1
+7027f4cd93cbf3526e48df6272a3f126,6,"GCF_001652895.1,GCF_001553475.1,GCF_000721535.1,GCF_001553435.1,GCF_001570645.1,GCF_001553455.1","['Streptomyces hygroscopicus', 'Streptomyces hygroscopicus', 'Streptomyces hygroscopicus', 'Streptomyces hygroscopicus', 'Streptomyces hygroscopicus', 'Streptomyces sp.']",2
+c4a968b42dc4eb4ee7461030e8e202b9,2,"GCF_000721945.1,GCF_001513955.1","['Streptomyces sp.', 'Streptomyces pseudovenezuelae']",2
+1930794ec91963e381fbc33ee0228e14,4,"GCF_000722185.1,GCF_017876255.1,GCF_001427245.1,GCF_001700505.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces mutomycini', 'Streptomyces clavifer', 'Streptomyces clavifer', 'Streptomyces clavifer', 'Streptomyces clavifer']",3
+ce3ce781e73f1285b9e551dfa90538fd,1,GCF_000725125.1,['Streptomyces toyocaensis'],1
+a86184498a18238120fe8279889977ae,3,"GCF_001953875.1,GCF_000725555.1,GCF_002007685.1","['Streptomyces erythrochromogenes', 'Streptomyces amritsarensis', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",3
+baf66e493549a917d4d94d79405e93dc,1,GCF_000725745.1,['Streptomyces aureocirculatus'],1
+b38cc3348058f1c2df68aa86e7b17dd4,5,"GCF_000988945.1,GCF_001550325.1,GCF_002155735.1,GCF_000738695.1,GCF_001550235.1","['Streptomyces scabiei', 'Streptomyces europaeiscabiei', 'Streptomyces scabiei', 'Streptomyces europaeiscabiei', 'Streptomyces europaeiscabiei', 'Streptomyces europaeiscabiei', 'Streptomyces europaeiscabiei', 'Streptomyces europaeiscabiei', 'Streptomyces europaeiscabiei', 'Streptomyces europaeiscabiei', 'Streptomyces scabiei']",2
+1e811742c60f95312b2539be41ab2552,1,GCF_000738715.1,['Streptomyces scabiei'],1
+78a3e162e07d30b2faa2e55cdcb8027c,1,GCF_000739105.1,['Streptomyces lividans'],1
+2a3b7767d03cd0374b30886895696d95,1,GCF_000739105.1,['Streptomyces lividans'],1
+c4c2fed433f05b103ea0c5c6ef31a0fb,5,"GCF_000739105.1,GCF_018070145.1,GCF_900104935.1,GCF_004795155.1,GCF_003387455.1","['Streptomyces lividans', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",2
+8b1180359dd7c6c4a8c8d8e1a7a7f33c,1,GCF_000761215.1,"['Streptomyces glaucescens', 'Streptomyces glaucescens', 'Streptomyces glaucescens', 'Streptomyces glaucescens', 'Streptomyces glaucescens', 'Streptomyces glaucescens']",1
+b4b5642cbff8a6eeaeb8714fd458ab62,1,GCF_000772045.1,['Streptomyces sp.'],1
+fa501596b5b5827c8cee57af3b095fcb,1,GCF_000772045.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+ba29b62d8d03e8f95422e68c634025df,1,GCF_000772045.1,['Streptomyces sp.'],1
+003874697028f4d090856492f1a19b5c,2,"GCF_000802245.2,GCF_000816465.3","['Streptomyces pluripotens', 'Streptomyces pluripotens']",1
+8e78e88b6292a1a56d537103fb535c0d,2,"GCF_000802245.2,GCF_000816465.3","['Streptomyces pluripotens', 'Streptomyces pluripotens', 'Streptomyces pluripotens', 'Streptomyces pluripotens', 'Streptomyces pluripotens', 'Streptomyces pluripotens']",1
+b428abe63d0edc67c51e8c8d661fee96,3,"GCF_000802245.2,GCF_000816465.3,GCF_000816485.1","['Streptomyces pluripotens', 'Streptomyces pluripotens', 'Streptomyces pluripotens', 'Streptomyces pluripotens', 'Streptomyces sp.']",2
+e90ae12bf70167cbcab69728ea9a46fa,1,GCF_000816025.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+a21a0c959c408efeaaa42f6bbf0dcd1a,1,GCF_000816025.1,['Streptomyces sp.'],1
+3679a979ffdf82b72c74cbfd9e7d5ce7,1,GCF_000819545.1,['Streptomyces nodosus'],1
+1c7416e92b05146d9c3e5ede9057cae9,4,"GCF_000819545.1,GCF_014205035.1,GCF_008704995.1,GCF_017352335.1","['Streptomyces nodosus', 'Streptomyces nodosus', 'Streptomyces nodosus', 'Streptomyces nodosus', 'Streptomyces nodosus', 'Streptomyces nodosus', 'Streptomyces nodosus', 'Streptomyces nodosus', 'Streptomyces nodosus', 'Streptomyces nodosus', 'Streptomyces nodosus', 'Streptomyces nodosus', 'Streptomyces nodosus', 'Streptomyces nodosus', 'Streptomyces nodosus', 'Streptomyces nodosus']",1
+2539833c28ef96fa49eed135653b3e0f,1,GCF_000819545.1,['Streptomyces nodosus'],1
+4b74618821a90127f1f5aaad13baf3f5,1,GCF_000819545.1,['Streptomyces nodosus'],1
+e8541bb7c638b4917a88e56bedb7862c,1,GCF_000819545.1,['Streptomyces nodosus'],1
+39452ad3dc572e20ea2eadae8ee67614,3,"GCF_003675345.1,GCF_001753425.1,GCF_000827005.1","['Streptomyces albus', 'Streptomyces albus', 'Streptomyces albus', 'Streptomyces albus', 'Streptomyces albus', 'Streptomyces albus', 'Streptomyces albus', 'Streptomyces albus', 'Streptomyces albus', 'Streptomyces albus', 'Streptomyces albus', 'Streptomyces albus', 'Streptomyces albus', 'Streptomyces albus', 'Streptomyces albus']",1
+aeafd9afb77abf736afab7d74f2af7c4,1,GCF_000830005.1,"['Streptomyces vietnamensis', 'Streptomyces vietnamensis', 'Streptomyces vietnamensis', 'Streptomyces vietnamensis', 'Streptomyces vietnamensis', 'Streptomyces vietnamensis', 'Streptomyces vietnamensis']",1
+af086a355d9057a796ed903029af206d,2,"GCF_001013905.1,GCF_000931445.1","['Streptomyces cyaneogriseus', 'Streptomyces cyaneogriseus', 'Streptomyces cyaneogriseus', 'Streptomyces cyaneogriseus', 'Streptomyces cyaneogriseus', 'Streptomyces leeuwenhoekii', 'Streptomyces leeuwenhoekii']",2
+f60a27bd122cec0b51bb7bdf76107bd1,1,GCF_000931445.1,['Streptomyces cyaneogriseus'],1
+d61fdb21a4b65e58de1239df27795a43,5,"GCF_001905405.1,GCF_000932225.2,GCF_003263925.1,GCF_003263885.1,GCF_003147545.1","['Streptomyces griseus', 'Streptomyces griseus', 'Streptomyces sp.', 'Streptomyces globisporus', 'Streptomyces globisporus', 'Streptomyces badius', 'Streptomyces badius', 'Streptomyces badius', 'Streptomyces badius']",4
+264a1381bfac2190300f5d2f3e75a8cb,1,GCF_000935185.3,['Streptomyces albulus'],1
+68bb055d4133f11d6f66931326571f55,6,"GCF_000952035.2,GCF_001294335.1,GCF_001984445.1,GCF_002090335.1,GCF_001729485.1,GCF_004125245.1","['Streptomyces lydicus', 'Streptomyces lydicus', 'Streptomyces lydicus', 'Streptomyces lydicus', 'Streptomyces lydicus', 'Streptomyces lydicus', 'Streptomyces chattanoogensis', 'Streptomyces lydicus', 'Streptomyces lydicus', 'Streptomyces lydicus', 'Streptomyces lydicus', 'Streptomyces lydicus', 'Streptomyces lydicus', 'Streptomyces lydicus', 'Streptomyces lydicus', 'Streptomyces lydicus', 'Streptomyces lydicus', 'Streptomyces lydicus', 'Streptomyces lydicus', 'Streptomyces lydicus', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces lydicus', 'Streptomyces lydicus', 'Streptomyces lydicus', 'Streptomyces lydicus', 'Streptomyces lydicus', 'Streptomyces lydicus', 'Streptomyces lydicus']",3
+877d529218082c608f7b34838bc52f6e,1,GCF_000966975.1,['Streptomyces katrae'],1
+68b3490b35ed3d5d65166b5185a72a99,11,"GCF_005490965.1,GCF_013363575.1,GCF_003949835.1,GCF_003116795.1,GCF_018070055.1,GCF_003984975.1,GCF_003984925.1,GCF_019029505.1,GCF_000972435.1,GCF_004795715.1,GCF_019029485.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+75bdfb9c03c58dd610087611db26de0f,1,GCF_000974985.2,['Streptomyces mangrovisoli'],1
+25d50ece25e94dcae14c81c9a92ac26c,1,GCF_000980885.2,['Streptomyces malaysiense'],1
+1e3fd1eaa0999d40f27626a6ace70752,2,"GCF_000993785.3,GCF_016605905.1","['Streptomyces xiamenensis', 'Streptomyces xiamenensis', 'Streptomyces xiamenensis', 'Streptomyces xiamenensis', 'Streptomyces xiamenensis', 'Streptomyces sp.', 'Streptomyces sp.']",2
+948b208d961ffb2b3a60ea2dd18ae2ea,1,GCF_001005085.2,['Streptomyces humi'],1
+ec1fb3224d19245ca5279a75b0193d5e,3,"GCF_001005295.1,GCF_001531145.1,GCF_002007685.1","['Streptomyces yangpuensis', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",2
+9ef7329f4ffccebf1220d1d73570f43e,3,"GCF_014873495.1,GCF_900215595.1,GCF_001008135.1","['Streptomyces stelliscabiei', 'Streptomyces stelliscabiei', 'Streptomyces stelliscabiei', 'Streptomyces stelliscabiei', 'Streptomyces stelliscabiei', 'Streptomyces stelliscabiei', 'Streptomyces stelliscabiei', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",2
+a85cdae303017cd2f5c3bd701609440d,1,GCF_001011035.1,['Streptomyces sp.'],1
+28c13b3942ec0e59249b26f5aff28321,1,GCF_001011035.1,['Streptomyces sp.'],1
+c1a24a9763ae5cf026c8fcd0c4f57b6a,1,GCF_001011035.1,['Streptomyces sp.'],1
+835f84aef05a6eb8ab69062885a47eb6,2,"GCF_003945505.1,GCF_001011035.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+0f585817f0b8b0f4231f389b29ffb77e,1,GCF_001013905.1,['Streptomyces leeuwenhoekii'],1
+fbf8d2106048f28edc58a9cde7845b4b,1,GCF_001014595.1,['Streptomyces sp.'],1
+36f4782ac181cbc06b4189bf2058a068,1,GCF_001044425.1,['Streptomyces roseus'],1
+853c7ab528c80d017704d7ba82e44ac3,3,"GCF_001047325.1,GCF_001270485.1,GCF_001270495.1","['Streptomyces viridochromogenes', 'Streptomyces viridochromogenes', 'Streptomyces viridochromogenes']",1
+42c252a75476a59d33547dbf0509768b,1,GCF_001049855.1,['Streptomyces sp.'],1
+abc3a56e0da9fddedc2d2f7c64ec201f,1,GCF_001049855.1,"['Streptomyces sp.', 'Streptomyces sp.']",1
+3ec986ff76509ef03ce521d8b6435e4d,1,GCF_001049855.1,['Streptomyces sp.'],1
+72e1dd57c040049f7218d635e0fa6399,1,GCF_001049855.1,['Streptomyces sp.'],1
+b573e64832d3015ba519f94074d7f1d8,1,GCF_001049855.1,['Streptomyces sp.'],1
+e441aa1b1df5d1d826d5d7e45beefb69,1,GCF_001049855.1,['Streptomyces sp.'],1
+0bad40c9abacac6cb8f36134c689de9c,1,GCF_001184025.1,['Streptomyces sp.'],1
+f4cedb1677770de8c3ad944699819efb,2,"GCF_001267885.1,GCF_001632865.1","['Streptomyces ambofaciens', 'Streptomyces ambofaciens', 'Streptomyces ambofaciens', 'Streptomyces ambofaciens', 'Streptomyces ambofaciens', 'Streptomyces ambofaciens', 'Streptomyces ambofaciens', 'Streptomyces ambofaciens', 'Streptomyces ambofaciens', 'Streptomyces ambofaciens', 'Streptomyces ambofaciens', 'Streptomyces ambofaciens']",1
+a68d5ff49b590e09847447c51ad57abd,1,GCF_001270025.1,['Streptomyces azureus'],1
+61d3a6c1129c00e8c8274f14afe21997,2,"GCF_001278075.1,GCF_014070435.1","['Streptomyces pristinaespiralis', 'Streptomyces pristinaespiralis', 'Streptomyces pristinaespiralis', 'Streptomyces pristinaespiralis', 'Streptomyces pristinaespiralis', 'Streptomyces pristinaespiralis', 'Streptomyces pristinaespiralis', 'Streptomyces pristinaespiralis', 'Streptomyces pristinaespiralis', 'Streptomyces pristinaespiralis', 'Streptomyces pristinaespiralis']",1
+d48981bdd1107ce6890af2647f4946a1,2,"GCF_001278095.1,GCF_002804165.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces cavourensis']",2
+f5aaeec855326b6172c8b91c6a00e0d9,1,GCF_001278095.1,['Streptomyces sp.'],1
+555e4a926300e0f8cc28f6315871b498,2,"GCF_001278095.1,GCF_900091865.1","['Streptomyces sp.', 'Streptomyces sp.']",1
+889622471c995f5afd55f719fc3581f3,1,GCF_001278095.1,['Streptomyces sp.'],1
+37f22fed40af89d171e93e737d85fb1f,1,GCF_001278095.1,['Streptomyces sp.'],1
+d75b0e11afc35cb2d389920e81fd2724,1,GCF_001279605.1,['Streptomyces sp.'],1
+6912aa006451acd8dcd4236a83ecb778,1,GCF_001279725.1,['Streptomyces sp.'],1
+59328201aee6e4ef83a84b519db9e1dc,1,GCF_001280005.1,['Streptomyces sp.'],1
+a84e260cc16230dd46cd85dc68bc01a5,1,GCF_001280015.1,['Streptomyces sp.'],1
+8afc12561519859ec14793dda75ceb80,2,"GCF_002156095.1,GCF_001282115.1","['Streptomyces sp.', 'Streptomyces sp.']",1
+9b5261678c220099a537f3431f398a99,1,GCF_001417695.1,['Streptomyces sp.'],1
+e910f06877303e81caee68788bf976ee,1,GCF_001417735.1,['Streptomyces sp.'],1
+bfb992ae91c3fde153fb68aef4824c7e,1,GCF_001417775.1,['Streptomyces sp.'],1
+48ed610b9f24092fc49512ae16565ee8,1,GCF_001418135.1,['Streptomyces aureus'],1
+e874ada23f7b7e525307e787815ee92e,1,GCF_001418165.1,['Streptomyces prasinus'],1
+1f769551f22f2255b5bcfcd042187bbf,1,GCF_001418175.1,['Streptomyces hirsutus'],1
+288de63782067dd6a5fe5a2d3d5484dc,2,"GCF_001418385.1,GCF_008704395.1","['Streptomyces alboniger', 'Streptomyces alboniger', 'Streptomyces alboniger', 'Streptomyces alboniger', 'Streptomyces alboniger', 'Streptomyces alboniger', 'Streptomyces alboniger']",1
+2db22cd4a6cd9160d8a1baf1b515c060,1,GCF_001418475.1,['Streptomyces ossamyceticus'],1
+836d777513fc62f1685e217f02314f82,1,GCF_001418505.1,['Streptomyces albus'],1
+04123ccc2c456e38a5d47026834a3880,1,GCF_001418565.1,['Streptomyces graminilatus'],1
+bb53f657f16fb2cf13b94ede90abc535,2,"GCF_001418585.1,GCF_001514205.1","['Streptomyces griseoruber', 'Streptomyces griseoruber']",1
+cceb69b3f836a045665bf0142be5e354,1,GCF_001418645.1,['Streptomyces neyagawaensis'],1
+06077a39c4e2a2cf8683662765d74186,2,"GCF_001672315.1,GCF_001419705.1","['Streptomyces prasinus', 'Streptomyces sp.', 'Streptomyces sp.']",2
+76562c1df2eee91353220431086a3343,1,GCF_001419745.1,['Streptomyces silaceus'],1
+108e655681dcd9f27d85fb5808f371ff,1,GCF_001419765.1,['Streptomyces torulosus'],1
+818923a49a9554b02192770f366a56b1,3,"GCF_001425805.1,GCF_001514145.1,GCF_001514045.1","['Streptomyces sp.', 'Streptomyces canus', 'Streptomyces canus']",2
+6c6b50c69100afe4cdcba0d549fb6bbb,1,GCF_001426585.1,['Streptomyces sp.'],1
+4e69f4c831b3c75ee5f01511abc637b5,1,GCF_001428885.1,['Streptomyces sp.'],1
+04e7343faab400879c8ce75aefda816d,1,GCF_001431765.1,['Streptomyces sp.'],1
+231ac900ac0caf6f2d135551b49fc79e,1,GCF_001431765.1,['Streptomyces sp.'],1
+0bf4e8cea82b8245206c0203026f84b5,1,GCF_001445655.1,"['Streptomyces roseifaciens', 'Streptomyces roseifaciens', 'Streptomyces roseifaciens']",1
+341c566f6454fda4c04433649008bc40,1,GCF_001447075.1,['Streptomyces hygroscopicus'],1
+4dbb1912ff69ca32f0a267fa5a3b1370,1,GCF_001447075.1,['Streptomyces hygroscopicus'],1
+dbfd881eb6c4b5709c9b8278ba411365,1,GCF_001447075.1,['Streptomyces hygroscopicus'],1
+34203ae8aa8034a2715429bcdd323e26,1,GCF_001447075.1,['Streptomyces hygroscopicus'],1
+846d67eeacb38a7f313c13d6c31cca87,1,GCF_001484565.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+a8199b18bd82971b2901f3ceb0b99b5d,1,GCF_001484565.1,['Streptomyces sp.'],1
+b1d4b54d6875d750eeea17c543fe1f1d,1,GCF_001493375.1,"['Streptomyces specialis', 'Streptomyces specialis']",1
+05ed9c6f9c895334ad183550e835f174,1,GCF_001493375.1,['Streptomyces specialis'],1
+36034e81b456533850794c1157188c14,3,"GCF_001509775.1,GCF_001598115.1,GCF_002154275.1","['Streptomyces violaceusniger', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces antimycoticus']",3
+b638f11514e2e1d0722584609299089b,1,GCF_001513965.1,['Streptomyces cellostaticus'],1
+9c87c3fdd414f3f6a1f9f99cefba2ede,3,"GCF_003595235.1,GCF_001514195.1,GCF_001513985.1","['Streptomyces griseorubiginosus', 'Streptomyces griseorubiginosus', 'Streptomyces griseorubiginosus', 'Streptomyces griseorubiginosus', 'Streptomyces griseorubiginosus', 'Streptomyces griseorubiginosus', 'Streptomyces griseorubiginosus']",1
+766ae176a9b8766f028f91e6f6143ea1,1,GCF_001514035.1,['Streptomyces yokosukanensis'],1
+1b3c75b4fb40385628e780bed4d514bb,1,GCF_001514065.1,['Streptomyces antibioticus'],1
+bf68937a7173d8501a75740975a3b6fc,3,"GCF_002335465.1,GCF_900215305.1,GCF_001514115.1","['Streptomyces olivochromogenes', 'Streptomyces olivochromogenes', 'Streptomyces sp.']",2
+aa721dfebe698efe0bbe11cfb93e7e3c,3,"GCF_005280215.1,GCF_005280195.1,GCF_001514125.1","['Streptomyces longwoodensis', 'Streptomyces galbus', 'Streptomyces lasalocidi', 'Streptomyces lasalocidi', 'Streptomyces lasalocidi', 'Streptomyces lasalocidi', 'Streptomyces lasalocidi', 'Streptomyces lasalocidi']",3
+171235102339156237a6403b152784ca,1,GCF_001514215.1,['Streptomyces bungoensis'],1
+1a8bc0b35ad63d6e22ab8d43f0fe70a4,1,GCF_001514235.1,['Streptomyces caeruleatus'],1
+5bbcfb43700f9a80cdc8be982fc52152,1,GCF_001514285.1,['Streptomyces sp.'],1
+697a9cccc396ab3588c23760bd33b96d,1,GCF_001514305.1,['Streptomyces dysideae'],1
+f485bf8ee5013088c7795c9cd708c502,2,"GCF_017874495.1,GCF_001542625.1","['Streptomyces griseochromogenes', 'Streptomyces griseochromogenes', 'Streptomyces griseochromogenes', 'Streptomyces griseochromogenes', 'Streptomyces griseochromogenes', 'Streptomyces griseochromogenes', 'Streptomyces griseochromogenes']",1
+29be6ea41125fee1227327863dc5400c,1,GCF_001543895.1,['Streptomyces thermoautotrophicus'],1
+d9503fb4ee9b7001c5af8044cd7ac8c9,3,"GCF_001543895.1,GCF_001543925.1,GCF_001543915.1","['Streptomyces thermoautotrophicus', 'Streptomyces thermoautotrophicus', 'Streptomyces thermoautotrophicus', 'Streptomyces thermoautotrophicus']",1
+749153ce1084cc1fdbd8f582c2bfaf2e,2,"GCF_001543925.1,GCF_001543915.1","['Streptomyces thermoautotrophicus', 'Streptomyces thermoautotrophicus']",1
+7bbe785ed8b12e0a4585af6b137ab9e3,10,"GCF_012184365.2,GCF_013376795.1,GCF_001704195.1,GCF_011170145.1,GCF_004196155.1,GCF_004195745.1,GCF_900171555.1,GCF_002910725.2,GCF_004196145.1,GCF_001577385.1","['Streptomyces albidoflavus', 'Streptomyces albidoflavus', 'Streptomyces albidoflavus', 'Streptomyces sampsonii', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces albidoflavus', 'Streptomyces albidoflavus', 'Streptomyces albidoflavus', 'Streptomyces gougerotii', 'Streptomyces violascens', 'Streptomyces violascens', 'Streptomyces albidoflavus', 'Streptomyces sp.', 'Streptomyces sp.']",5
+199ece4d89c828d217726f77ddda858e,1,GCF_001590865.1,['Streptomyces sp.'],1
+7e7240378f4d1782442348adc951f7af,4,"GCF_002943895.1,GCF_009299385.1,GCF_001592685.1,GCF_011758705.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces cinereoruber', 'Streptomyces cinereoruber', 'Streptomyces cinereoruber', 'Streptomyces cinereoruber']",2
+3eb6197abf26f823dacaad6c38e7d8c2,6,"GCF_002943895.1,GCF_009299385.1,GCF_011758705.1,GCF_001592685.1,GCF_003116715.1,GCF_014197485.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces cinereoruber', 'Streptomyces cinereoruber', 'Streptomyces cinereoruber', 'Streptomyces cinereoruber', 'Streptomyces cinereoruber', 'Streptomyces cinereoruber', 'Streptomyces cinereoruber', 'Streptomyces cinereoruber', 'Streptomyces cinereoruber']",2
+1c86d61cd24dd13b5f56b6791d6bdd58,2,"GCF_002943895.1,GCF_001592685.1","['Streptomyces sp.', 'Streptomyces sp.']",1
+a903c6c0822b265b25ad582daf7d7562,2,"GCF_002943895.1,GCF_001592685.1","['Streptomyces sp.', 'Streptomyces sp.']",1
+d47bc5c5ceaf77c0500098734ccc8233,2,"GCF_002943895.1,GCF_001592685.1","['Streptomyces sp.', 'Streptomyces sp.']",1
+affd137f713d44bf36c911854004ddd1,1,GCF_001595515.1,['Streptomyces sp.'],1
+bba3d6899731787f9baf48c3163ea312,1,GCF_001598115.1,['Streptomyces sp.'],1
+1bf0f40c32c570fb3011c8407d86c76c,1,GCF_001611795.1,"['Streptomyces qaidamensis', 'Streptomyces qaidamensis', 'Streptomyces qaidamensis', 'Streptomyces qaidamensis', 'Streptomyces qaidamensis']",1
+b8362eea82234ec766009712dc9123df,1,GCF_001611795.1,['Streptomyces qaidamensis'],1
+5aa2a0dfe9b303fb97c8319e5eac544d,1,GCF_001625365.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+5780daa51dabfdc003a735ff93ee5995,1,GCF_001625365.1,['Streptomyces sp.'],1
+157ce1c5ca931461a24318038ad0a51a,1,GCF_001625365.1,['Streptomyces sp.'],1
+ee2ca920f9618904c04f871ccad95c9f,1,GCF_001625365.1,['Streptomyces sp.'],1
+37a3a3adac3176b1a5300e2c9e899032,1,GCF_001636945.1,['Streptomyces sp.'],1
+ec8ff913c805a36e43a8aa5569c430c7,1,GCF_001642995.1,['Streptomyces jeddahensis'],1
+757c443690de406495f68652c4c475b1,1,GCF_001646665.1,['Streptomyces albulus'],1
+1b54356648a24b8ac124025f30818fc1,1,GCF_001650215.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+669f3d49a9b43d59feaaf18f54a8e4e3,1,GCF_001650215.1,['Streptomyces sp.'],1
+e104173285b72d80fd2891e49885816e,1,GCF_001653515.1,"['Streptomyces sp.', 'Streptomyces sp.']",1
+cc2cc008da88e644c92485ee496edf19,1,GCF_001654495.1,['Streptomyces sp.'],1
+eb6390fe0067e2207f878bb2c35ac94e,1,GCF_001654495.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+c0715aff031662ff12b0c4791ebcc401,1,GCF_001660045.1,['Streptomyces parvulus'],1
+c85750d1d87971199e8e6aea6d978d58,1,GCF_001660045.1,['Streptomyces parvulus'],1
+fa67fbc6373c01b6390eeb8844d0aaa4,1,GCF_001660045.1,['Streptomyces parvulus'],1
+2f5a30d7827be7ac9477db6cde229297,1,GCF_001660045.1,['Streptomyces parvulus'],1
+efdfc18778d1e1177eb87ad10671e685,1,GCF_001660045.1,['Streptomyces parvulus'],1
+7f9a9cadb314182ac6d984bc433fa6d1,1,GCF_001660045.1,['Streptomyces parvulus'],1
+e5246ff85ec408fd31fbeff4ae55be30,2,"GCF_008704445.1,GCF_001672315.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces prasinus', 'Streptomyces prasinus', 'Streptomyces prasinus']",2
+dc3b106a298c068c32e7aba829245ce1,1,GCF_001672315.1,['Streptomyces sp.'],1
+59678a2c655d64e78ce47c00e04127c2,3,"GCF_001685355.1,GCF_003344445.1,GCF_014083905.1","['Streptomyces lincolnensis', 'Streptomyces lincolnensis', 'Streptomyces lincolnensis', 'Streptomyces lincolnensis', 'Streptomyces lincolnensis', 'Streptomyces lincolnensis', 'Streptomyces lincolnensis', 'Streptomyces lincolnensis', 'Streptomyces lincolnensis', 'Streptomyces lincolnensis', 'Streptomyces lincolnensis', 'Streptomyces lincolnensis']",1
+4812f1faf8eafd513c97d3e99ab5a3ec,3,"GCF_001685355.1,GCF_003344445.1,GCF_014083905.1","['Streptomyces lincolnensis', 'Streptomyces lincolnensis', 'Streptomyces lincolnensis']",1
+4e2678be64528963a0c1a1b0d5c131c2,3,"GCF_001685355.1,GCF_003344445.1,GCF_014083905.1","['Streptomyces lincolnensis', 'Streptomyces lincolnensis', 'Streptomyces lincolnensis']",1
+36b7984301349f14bfe40478aa3376f9,1,GCF_001700515.1,['Streptomyces lushanensis'],1
+7e2ccec90749822c2649ef6b8815aa81,1,GCF_001704195.1,['Streptomyces sampsonii'],1
+2077ec7b427b9691b9856d568cfa293e,1,GCF_001704195.1,['Streptomyces sampsonii'],1
+55d059403751b8571cb1a67ae7763fb6,1,GCF_001704195.1,['Streptomyces sampsonii'],1
+1e7cd94b14635da89d377c3cc9d013f2,1,GCF_001704195.1,['Streptomyces sampsonii'],1
+b5ad18e587d1e3ed47a7cde68e7bae03,1,GCF_001704195.1,['Streptomyces sampsonii'],1
+2f4e0af11df2c125425113e6ddce7443,2,"GCF_001969965.1,GCF_001704635.1","['Streptomyces sparsogenes', 'Streptomyces sparsogenes', 'Streptomyces sparsogenes', 'Streptomyces sparsogenes', 'Streptomyces sparsogenes', 'Streptomyces sparsogenes']",1
+c1e998dd67fcceed461de77712eb2b2c,1,GCF_001704635.1,['Streptomyces sparsogenes'],1
+62853c67090ac789f2789d6b668cd5ba,1,GCF_001705785.1,['Streptomyces hygroscopicus'],1
+debd162bd15b89829d3dae2346c9f9b7,1,GCF_001715295.1,['Streptomyces griseus'],1
+73e598eb0499c7fcb15fa94c639d58fd,2,"GCF_004563805.1,GCF_001723055.1","['Streptomyces niveus', 'Streptomyces sp.']",2
+2acce0ffd99a21363c4901256decdcff,1,GCF_001723065.1,['Streptomyces rubidus'],1
+88128ac2d26ce6f717b2cbb50e8ab093,1,GCF_001723075.1,['Streptomyces niveus'],1
+7ce3167b8b9484e148a1dd8354cc91a0,1,GCF_001735805.1,"['Streptomyces fodineus', 'Streptomyces fodineus', 'Streptomyces fodineus', 'Streptomyces fodineus', 'Streptomyces fodineus']",1
+b504ac9ef21dd0b3561a70a4e0ce2b67,1,GCF_001735805.1,['Streptomyces fodineus'],1
+2fb1f6a715818dec6336d44f47c2fa77,4,"GCF_001746415.1,GCF_001746455.1,GCF_001746465.1,GCF_001746475.1","['Streptomyces agglomeratus', 'Streptomyces agglomeratus', 'Streptomyces agglomeratus', 'Streptomyces agglomeratus', 'Streptomyces agglomeratus', 'Streptomyces agglomeratus', 'Streptomyces agglomeratus', 'Streptomyces agglomeratus', 'Streptomyces agglomeratus', 'Streptomyces agglomeratus', 'Streptomyces agglomeratus', 'Streptomyces agglomeratus', 'Streptomyces agglomeratus', 'Streptomyces agglomeratus', 'Streptomyces agglomeratus', 'Streptomyces agglomeratus', 'Streptomyces agglomeratus', 'Streptomyces agglomeratus', 'Streptomyces agglomeratus', 'Streptomyces agglomeratus', 'Streptomyces agglomeratus']",1
+2d5976f0b8437a8d1bcf7e7e683ee5a0,2,"GCF_001746415.1,GCF_001746475.1","['Streptomyces agglomeratus', 'Streptomyces agglomeratus', 'Streptomyces agglomeratus', 'Streptomyces agglomeratus', 'Streptomyces agglomeratus', 'Streptomyces agglomeratus', 'Streptomyces agglomeratus']",1
+829889f2da1561e2ff554b778de1fd77,1,GCF_001746425.1,"['Streptomyces subrutilus', 'Streptomyces subrutilus', 'Streptomyces subrutilus', 'Streptomyces subrutilus']",1
+5ffad80f289ce9f40465814fa9cb0b48,1,GCF_001748085.1,['Streptomyces sp.'],1
+a12b3fe63940a83f2446d33f33560e7a,5,"GCF_011800555.1,GCF_002812405.1,GCF_015689475.1,GCF_001748165.1,GCF_002591335.1","['Streptomyces sp.', 'Streptomyces malaysiensis', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces malaysiensis', 'Streptomyces malaysiensis', 'Streptomyces solisilvae']",3
+e863cef095b423f923ac4dd2088956e5,3,"GCF_001750785.1,GCF_002119225.1,GCF_008704425.1","['Streptomyces rubrolavendulae', 'Streptomyces rubrolavendulae', 'Streptomyces rubrolavendulae', 'Streptomyces rubrolavendulae', 'Streptomyces rubrolavendulae', 'Streptomyces fradiae', 'Streptomyces fradiae', 'Streptomyces fradiae', 'Streptomyces fradiae', 'Streptomyces fradiae', 'Streptomyces fradiae']",2
+76fd6603948676bb53bccc22734431ae,1,GCF_001750785.1,['Streptomyces rubrolavendulae'],1
+52ba2aa3dfd9578a936664c4c1c2e6b0,1,GCF_001751245.1,['Streptomyces oceani'],1
+3ebb14ff98961c368fdc36144210820f,1,GCF_001751305.1,['Streptomyces nanshensis'],1
+5c4eba2229a4848265721c594daac537,14,"GCF_003352445.1,GCF_018619555.1,GCF_014649215.1,GCF_018619535.1,GCF_018619515.1,GCF_004334925.1,GCF_018619495.1,GCF_006788935.1,GCF_003949895.1,GCF_013363475.1,GCF_001751305.1,GCF_018619575.1,GCF_004000405.1,GCF_013363675.1","['Streptomyces nanshensis', 'Streptomyces cavourensis', 'Streptomyces cavourensis', 'Streptomyces cavourensis', 'Streptomyces cavourensis', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces cavourensis', 'Streptomyces cavourensis', 'Streptomyces cavourensis', 'Streptomyces cavourensis', 'Streptomyces cavourensis', 'Streptomyces cavourensis', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces cavourensis', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",3
+cb2fa18a06cba42bb26fe908e09b0f3a,1,GCF_001751345.1,"['Streptomyces abyssalis', 'Streptomyces abyssalis', 'Streptomyces abyssalis']",1
+bce1de719d0e8810960ecadf88669e31,1,GCF_001767375.1,['Streptomyces olivaceus'],1
+3bb42316a1500e7a49601884cc6369b5,2,"GCF_009025935.1,GCF_001865245.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+10c21cde535a3dd51969ea95d9bd105a,1,GCF_001865255.1,['Streptomyces sp.'],1
+32e64615bfa173755b634f95f19328a0,1,GCF_001865795.1,['Streptomyces albidoflavus'],1
+4ff319396bc65ecd7baf0996dba26dc9,1,GCF_001866645.1,['Streptomyces colonosanans'],1
+60f3a61a7851435334f7c1a1ee49f759,1,GCF_001866665.1,['Streptomyces monashensis'],1
+82ced2b456585a5f349990323a9fdbe4,1,GCF_001866675.1,['Streptomyces sp.'],1
+7600db83376b15ff17082e6757905cff,4,"GCF_008639045.1,GCF_008705255.1,GCF_001886595.1,GCF_008639165.1","['Streptomyces venezuelae', 'Streptomyces venezuelae', 'Streptomyces venezuelae', 'Streptomyces venezuelae', 'Streptomyces venezuelae', 'Streptomyces venezuelae', 'Streptomyces venezuelae', 'Streptomyces venezuelae', 'Streptomyces venezuelae', 'Streptomyces venezuelae', 'Streptomyces venezuelae', 'Streptomyces venezuelae', 'Streptomyces venezuelae', 'Streptomyces venezuelae', 'Streptomyces venezuelae', 'Streptomyces venezuelae', 'Streptomyces venezuelae', 'Streptomyces venezuelae', 'Streptomyces venezuelae', 'Streptomyces venezuelae', 'Streptomyces venezuelae', 'Streptomyces venezuelae']",1
+f308efa0787e1b97281020a836546b59,2,"GCF_001886595.1,GCF_008639165.1","['Streptomyces venezuelae', 'Streptomyces venezuelae', 'Streptomyces venezuelae', 'Streptomyces venezuelae']",1
+5e256a396e942f114b343e10fc4194f8,1,GCF_001886595.1,['Streptomyces venezuelae'],1
+b691e3f1b3938fcf4a0cf1eeebe49e3e,1,GCF_001895105.1,['Streptomyces sp.'],1
+d760f2bd7a7c69e7d03f6c744990094d,1,GCF_001905005.1,['Streptomyces sp.'],1
+a00fe866162a61b30703ad11259a8b56,1,GCF_001905125.1,['Streptomyces sp.'],1
+2807577b2b311beaa14cebf45754b705,3,"GCF_009865305.1,GCF_002705975.1,GCF_001905345.1","['Streptomyces uncialis', 'Streptomyces sp.', 'Streptomyces sp.']",2
+224a8ab27410b33db5a643f619e599bd,2,"GCF_001905365.1,GCF_003752275.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+32ca9d1b044ea60b5bc2f40203a3712d,1,GCF_001905385.1,['Streptomyces sp.'],1
+28e20611a9f98f745c570d3d1c5d9f65,5,"GCF_002941025.1,GCF_002711365.1,GCF_004125315.1,GCF_009863285.1,GCF_001905505.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+92656c3410d17202f294a2c94bbd03b9,1,GCF_001905525.1,['Streptomyces sp.'],1
+f33fc9b7b725f7251cde17f2716b8183,1,GCF_001905545.1,['Streptomyces sp.'],1
+27c4712fc4466ae92837dd5c4ed20902,1,GCF_001905705.1,['Streptomyces sp.'],1
+d6a92acc629b30fea6462f7b576aea18,1,GCF_001905725.1,['Streptomyces sp.'],1
+83244a93eb341e7bcd962b82ab3cff43,2,"GCF_009865545.1,GCF_001905735.1","['Streptomyces sp.', 'Streptomyces sp.']",1
+1b286e35e9d5ee2fcc11dff3d847f048,1,GCF_001905795.1,['Streptomyces sp.'],1
+f72733a40b4fe7b47ea3396f31e02f69,3,"GCF_017877015.1,GCF_001905825.1,GCF_014656215.1","['Streptomyces sp.', 'Streptomyces zaomyceticus', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",2
+52a36fa7b345ab3b02d979e3c1794633,1,GCF_001905845.1,['Streptomyces sp.'],1
+f7bbbb660db9c7c27459df6838f158e5,1,GCF_001905855.1,['Streptomyces sp.'],1
+1e3f474b2cc1bf9e6fdb598a599b5a2a,2,"GCF_002099185.1,GCF_001905885.1","['Streptomyces sp.', 'Streptomyces sp.']",1
+28a4c355553bf203692fc5f45352a46f,1,GCF_001905905.1,['Streptomyces sp.'],1
+0b35904ede62fa92bf4d62ecf9759620,3,"GCF_001941265.1,GCF_003584805.1,GCF_001949645.1","['Streptomyces acidiscabies', 'Streptomyces acidiscabies', 'Streptomyces acidiscabies']",1
+829f28dc0a0f1b92ad596e050ddf860e,1,GCF_001941275.1,['Streptomyces acidiscabies'],1
+1b4fc307a7b6c3cdfe5868a90c7703dc,1,GCF_001941845.1,['Streptomyces sp.'],1
+293530fb5eb4408bbb3a728c49980a45,1,GCF_001941845.1,['Streptomyces sp.'],1
+a3a8deda65d0ad32bb779b38ee039bc5,1,GCF_001953885.1,['Streptomyces sp.'],1
+ca2eccaed9227b10c243bdff1052a342,14,"GCF_007113425.2,GCF_007113485.2,GCF_007113445.1,GCF_007113505.2,GCF_012922115.1,GCF_900215305.1,GCF_007113465.1,GCF_001974775.1,GCF_007113585.2,GCF_007113525.2,GCF_007113565.2,GCF_007113405.2,GCF_007113545.2,GCF_007113665.2","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+81530f77b5bfe3f8e20f44b72e865905,7,"GCF_012273535.1,GCF_012922115.1,GCF_007113465.1,GCF_001974775.1,GCF_900215305.1,GCF_018310535.1,GCF_007113665.2","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces mirabilis', 'Streptomyces mirabilis', 'Streptomyces mirabilis', 'Streptomyces mirabilis', 'Streptomyces mirabilis', 'Streptomyces mirabilis', 'Streptomyces sp.']",2
+233dc0b3a2ea6ae81cfac671b4b26404,6,"GCF_001975025.1,GCF_004127445.1,GCF_016128295.1,GCF_003573485.1,GCF_018141485.1,GCF_004212445.1","['Streptomyces alfalfae', 'Streptomyces alfalfae', 'Streptomyces alfalfae', 'Streptomyces alfalfae', 'Streptomyces alfalfae', 'Streptomyces alfalfae', 'Streptomyces fradiae', 'Streptomyces fradiae', 'Streptomyces fradiae', 'Streptomyces fradiae', 'Streptomyces fradiae', 'Streptomyces fradiae', 'Streptomyces alfalfae', 'Streptomyces alfalfae', 'Streptomyces alfalfae', 'Streptomyces alfalfae', 'Streptomyces alfalfae', 'Streptomyces alfalfae', 'Streptomyces alfalfae', 'Streptomyces alfalfae', 'Streptomyces alfalfae', 'Streptomyces alfalfae', 'Streptomyces alfalfae', 'Streptomyces alfalfae', 'Streptomyces alfalfae', 'Streptomyces alfalfae', 'Streptomyces alfalfae', 'Streptomyces alfalfae']",2
+00026119983f76d435684ef7366e3154,5,"GCF_001983975.1,GCF_013345665.1,GCF_002812405.1,GCF_015689475.1,GCF_002591335.1","['Streptomyces autolyticus', 'Streptomyces autolyticus', 'Streptomyces autolyticus', 'Streptomyces malaysiensis', 'Streptomyces sp.', 'Streptomyces samsunensis', 'Streptomyces solisilvae']",5
+3155565e3c06af3c6a6fd6bc1f0ac239,1,GCF_001983975.1,['Streptomyces autolyticus'],1
+d7956f3b24e288e9bfda1ef423253311,1,GCF_001983975.1,['Streptomyces autolyticus'],1
+54be747807a3a35ec4fd8388bdc95f34,2,"GCF_001983975.1,GCF_011800555.1","['Streptomyces autolyticus', 'Streptomyces malaysiensis']",2
+25418958a711d243e80f0daa47c565e2,1,GCF_001984445.1,['Streptomyces lydicus'],1
+353e10661ee82f94f257da85ced8a20d,1,GCF_001984575.1,['Streptomyces sp.'],1
+6f0b73375efec13c781ed9ac3cd1c8f3,1,GCF_002005225.1,"['Streptomyces pactum', 'Streptomyces pactum', 'Streptomyces pactum', 'Streptomyces pactum', 'Streptomyces pactum', 'Streptomyces pactum']",1
+13bc7b4501e1f6d762cda7a9179cb5f3,1,GCF_002005565.1,['Streptomyces sp.'],1
+4896e9b162055e2d9bc6506aa7050780,2,"GCF_009296025.1,GCF_002007125.1","['Streptomyces tsukubensis', 'Streptomyces tsukubensis', 'Streptomyces tsukubensis', 'Streptomyces tsukubensis', 'Streptomyces tsukubensis']",1
+cf34d67f697d61c598968db827dd0076,1,GCF_002009175.1,['Streptomyces niveus'],1
+4198ad236fe96241d867e6d4ed3435b7,1,GCF_002009175.1,"['Streptomyces niveus', 'Streptomyces niveus', 'Streptomyces niveus', 'Streptomyces niveus', 'Streptomyces niveus']",1
+ba292cf7063b3b4519103ed7619db7ac,1,GCF_002017835.1,['Streptomyces avermitilis'],1
+c8e1848c7a6f793cfbe1d8e111446410,2,"GCF_002019855.1,GCF_013363615.1","['Streptomyces antibioticus', 'Streptomyces antibioticus', 'Streptomyces antibioticus', 'Streptomyces antibioticus', 'Streptomyces antibioticus', 'Streptomyces antibioticus', 'Streptomyces sp.']",2
+e2e2ac4bd39204096c64fcaa8bf747db,1,GCF_002021875.1,"['Streptomyces hygroscopicus', 'Streptomyces hygroscopicus', 'Streptomyces hygroscopicus', 'Streptomyces hygroscopicus', 'Streptomyces hygroscopicus']",1
+09cc3b0ba471461ffde0e262e2b05f3c,1,GCF_002021875.1,['Streptomyces hygroscopicus'],1
+de062e71a3ac6ccb0bed12cca861606b,1,GCF_002028385.1,['Streptomyces sp.'],1
+c42b48561e80579a6c13fa270629bbf7,2,"GCF_003634815.1,GCF_002028425.1","['Streptomyces katrae', 'Streptomyces katrae', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",2
+b6b43ff1044218930d007631a9bb42a7,2,"GCF_003634815.1,GCF_002028425.1","['Streptomyces katrae', 'Streptomyces katrae', 'Streptomyces katrae', 'Streptomyces sp.', 'Streptomyces sp.']",2
+3c37a3a6a3d2c63edde754474138778b,1,GCF_002028425.1,['Streptomyces katrae'],1
+36e04b573ae25c4ede55b8607cacceff,1,GCF_002028425.1,['Streptomyces katrae'],1
+4d04ebb9256ddebc3059b21b4a124e08,1,GCF_002078175.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+393f8c5af3f4754eba83858526f580d5,1,GCF_002078235.1,['Streptomyces viridosporus'],1
+8f6c93cb4af6cf9ccd67f4062f750501,1,GCF_002082195.1,"['Streptomyces gilvosporeus', 'Streptomyces gilvosporeus', 'Streptomyces gilvosporeus', 'Streptomyces gilvosporeus', 'Streptomyces gilvosporeus']",1
+3877f8adf7df2d9036afd866deb4a1ad,1,GCF_002082195.1,['Streptomyces gilvosporeus'],1
+1bcfe48b19224e801dbb7e2a7a82c07a,1,GCF_002090335.1,"['Streptomyces sp.', 'Streptomyces sp.']",1
+8a2a4a101c2701435a86025226ae915f,1,GCF_002094995.1,['Streptomyces sp.'],1
+dc573aed92a4ab79221a4147809ce458,1,GCF_002094995.1,['Streptomyces sp.'],1
+6c528a610d26f03c48f88d435a4342a8,1,GCF_002094995.1,['Streptomyces sp.'],1
+29335da23347a3ce3ee57ac50c8319a8,1,GCF_002128305.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+d28251330afd0b54ecaa84e51721e4cf,1,GCF_002150735.1,['Streptomyces africanus'],1
+16ab7fcbac08b563e25ed747d6efdf91,3,"GCF_017349075.1,GCF_002150845.1,GCF_017356985.1","['Streptomyces alboverticillatus', 'Streptomyces triculaminicus', 'Streptomyces triculaminicus', 'Streptomyces triculaminicus', 'Streptomyces triculaminicus', 'Streptomyces triculaminicus', 'Streptomyces triculaminicus', 'Streptomyces griseocarneus', 'Streptomyces griseocarneus', 'Streptomyces griseocarneus', 'Streptomyces griseocarneus', 'Streptomyces griseocarneus', 'Streptomyces griseocarneus']",3
+370358b0c0ac6d5c433bd384f0ae44e6,1,GCF_002154375.1,['Streptomyces glaucescens'],1
+6a95c9e358c802961f3d25143e489aee,6,"GCF_900105775.1,GCF_900105235.1,GCF_002154415.1,GCF_002300315.1,GCF_900187385.1,GCF_900102245.1","['Streptomyces angustmyceticus', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",2
+9b3a8f09d8c838910b3c86e2dd0b4455,3,"GCF_009867075.1,GCF_006539165.1,GCF_002154495.1","['Streptomyces cacaoi', 'Streptomyces cacaoi', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",2
+29ab179a99670d8758a5965c1b604d87,1,GCF_002154505.1,['Streptomyces carpinensis'],1
+15e1046fcb3ca626bbe4f3e27c0e2462,14,"GCF_014138905.1,GCF_014673495.1,GCF_016457305.1,GCF_009862845.1,GCF_003933485.1,GCF_004104485.1,GCF_009862765.1,GCF_014138855.1,GCF_009862685.1,GCF_004794665.1,GCF_016467295.1,GCF_008064995.1,GCF_900091975.1,GCF_002154555.1","['Streptomyces murinus', 'Streptomyces griseofuscus', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces rochei', 'Streptomyces rochei', 'Streptomyces rochei', 'Streptomyces rochei', 'Streptomyces rochei', 'Streptomyces rochei', 'Streptomyces rochei', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces murinus', 'Streptomyces murinus', 'Streptomyces murinus', 'Streptomyces murinus', 'Streptomyces murinus', 'Streptomyces murinus', 'Streptomyces murinus', 'Streptomyces murinus', 'Streptomyces murinus', 'Streptomyces murinus', 'Streptomyces murinus', 'Streptomyces murinus', 'Streptomyces murinus', 'Streptomyces murinus', 'Streptomyces griseofuscus', 'Streptomyces griseofuscus', 'Streptomyces griseofuscus', 'Streptomyces griseofuscus', 'Streptomyces griseofuscus', 'Streptomyces griseofuscus', 'Streptomyces griseofuscus', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces costaricanus', 'Streptomyces costaricanus', 'Streptomyces costaricanus', 'Streptomyces costaricanus', 'Streptomyces costaricanus', 'Streptomyces costaricanus', 'Streptomyces sp.']",5
+29bffe81c1638de3ad86bf0b60c20f44,2,"GCF_002154575.1,GCF_008704575.1","['Streptomyces bobili', 'Streptomyces galilaeus']",2
+f1c1529299a94595c1011604e23641f0,1,GCF_002154675.1,['Streptomyces reticuliscabiei'],1
+38f70b771cd0d5dc8e4332eac7031040,3,"GCF_014852565.1,GCF_014852655.1,GCF_002155725.1","['Streptomyces scabiei', 'Streptomyces sp.', 'Streptomyces sp.']",2
+87dcc9a096b0dd8c3c888b242c727906,4,"GCF_017942185.1,GCF_018138705.1,GCF_018138715.1,GCF_002155885.1","['Streptomyces rhizosphaericus', 'Streptomyces rhizosphaericus', 'Streptomyces rhizosphaericus', 'Streptomyces rhizosphaericus', 'Streptomyces rhizosphaericus', 'Streptomyces rhizosphaericus', 'Streptomyces indonesiensis', 'Streptomyces indonesiensis', 'Streptomyces asiaticus', 'Streptomyces asiaticus', 'Streptomyces asiaticus', 'Streptomyces asiaticus']",3
+b9342f764cc055b70d4bad6c0d8fddd8,1,GCF_002155905.1,['Streptomyces tricolor'],1
+f08fe1f36f952ce739557630e0173d69,1,GCF_002155915.1,['Streptomyces thermovulgaris'],1
+689d62616ad7061bcaad42ef7ebbb041,1,GCF_002156055.1,['Streptomyces viridochromogenes'],1
+1e9542edd0b6047f405aca55b25d1b34,1,GCF_002156075.1,['Streptomyces scabiei'],1
+145a776548d51bb00e19722a00e75ff4,1,GCF_002156145.1,['Streptomyces sp.'],1
+ff6e730202bf73404fc90ef22b7c8923,4,"GCF_011317205.1,GCF_003112555.1,GCF_002188335.1,GCF_009495655.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces coelicoflavus', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",2
+a15510bdbc934c5c9c834651be751a86,1,GCF_002188365.1,['Streptomyces sp.'],1
+193c09a2ffdf3ca15dc9e3f5db68f65b,1,GCF_002189675.2,"['Streptomyces alboflavus', 'Streptomyces alboflavus', 'Streptomyces alboflavus']",1
+8be6ec554770882761913622963a46bf,1,GCF_002189675.2,"['Streptomyces alboflavus', 'Streptomyces alboflavus']",1
+be96287f40e33b2e8bbe9c7d04e819f0,1,GCF_002189675.2,['Streptomyces alboflavus'],1
+fb4e08deeacac581b1dc8e0646dad14a,1,GCF_002192455.1,['Streptomyces albireticuli'],1
+434e978ce1a46039b33941bce9245e28,2,"GCF_002192455.1,GCF_002286695.1","['Streptomyces albireticuli', 'Streptomyces albireticuli', 'Streptomyces albireticuli', 'Streptomyces albireticuli', 'Streptomyces albireticuli', 'Streptomyces albireticuli', 'Streptomyces albireticuli']",1
+00057b9d0c4afe16e2aedf24254903df,17,"GCF_009864905.1,GCF_016612575.1,GCF_002217715.1,GCF_013363455.1,GCF_002551375.1,GCF_009872565.1,GCF_014648875.1,GCF_003024215.1,GCF_016612645.1,GCF_013363665.1,GCF_003116775.1,GCF_900187925.1,GCF_013363655.1,GCF_016612605.1,GCF_016654065.1,GCF_002803175.1,GCF_002832675.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces parvus', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",2
+95b5b5660dc899b7bfb634bf65595d0d,1,GCF_002224125.1,['Streptomyces sp.'],1
+eada4257083a494386076c4a7819f241,1,GCF_002237655.1,['Streptomyces sp.'],1
+ea10c9c02352dbbb095b90ee04e7afa9,3,"GCF_004320085.1,GCF_009862505.1,GCF_002261115.1","['Streptomyces kasugaensis', 'Streptomyces kasugaensis', 'Streptomyces kasugaensis', 'Streptomyces kasugaensis', 'Streptomyces kasugaensis', 'Streptomyces sp.']",2
+0a34e0df86d8e45ae7bbb6503c10f4be,1,GCF_002277855.1,['Streptomyces sp.'],1
+041f4569b7156de11bf16a6fe04f821f,1,GCF_002288075.1,['Streptomyces sp.'],1
+e2023526c3e6777e17c908f944f6aeda,3,"GCF_002289335.1,GCF_002317005.1,GCF_013363555.1","['Streptomyces albidoflavus', 'Streptomyces albidoflavus', 'Streptomyces fungicidicus']",2
+c250b9bc7e437bfcbdd371704005c37a,1,GCF_002300165.1,['Streptomyces sp.'],1
+45bb387877b3a1c2cd6a83dbedc786ab,3,"GCF_002300315.1,GCF_900105235.1,GCF_900187385.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+1bcd508dfa014fa563bfa64e7132f2b6,1,GCF_002300355.1,"['Streptomyces sp.', 'Streptomyces sp.']",1
+a474dfe3744e82aedf4456f0b28ab051,1,GCF_002300355.1,"['Streptomyces sp.', 'Streptomyces sp.']",1
+5696c8df9c6905f4f614bfa0ff3f5b32,1,GCF_002300355.1,['Streptomyces sp.'],1
+e1d62d69290d6f345887cef97a9ccc29,1,GCF_002300355.1,"['Streptomyces sp.', 'Streptomyces sp.']",1
+caea63bccf61e459a8679d1cc492843f,1,GCF_002300355.1,"['Streptomyces sp.', 'Streptomyces sp.']",1
+f85bd2ccc51a5df07c2f58e22ccd634c,2,"GCF_002300485.1,GCF_900230275.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+f51bfcd1c35a1351a129fbb17687bc4c,1,GCF_002300485.1,['Streptomyces sp.'],1
+c3bcbeefa77854adf51e33d3958572d8,1,GCF_002551065.1,['Streptomyces sp.'],1
+d41aecb8bd9932cf1b6b9429d95ded18,1,GCF_002556545.1,"['Streptomyces formicae', 'Streptomyces formicae']",1
+dc513ef6dd60f2e41d54d36e46785b73,1,GCF_002556545.1,"['Streptomyces formicae', 'Streptomyces formicae', 'Streptomyces formicae']",1
+c2a11c5f8cc21bceb0d163d18e304761,1,GCF_002556545.1,['Streptomyces formicae'],1
+2e5b4802076c4e0555a80ef2eebdd9ff,2,"GCF_009735685.1,GCF_002573955.1","['Streptomyces sp.', 'Streptomyces sp.']",1
+12d0b416361ec00fff9634dd8beda001,1,GCF_002591335.1,['Streptomyces malaysiensis'],1
+f333ffa9acae783c7b35d40ec263eaac,1,GCF_002591335.1,['Streptomyces malaysiensis'],1
+39cfa4e7e791a9a5f67468cd51e90c30,1,GCF_002591335.1,['Streptomyces malaysiensis'],1
+4258d1574ae7d828d01843b4e66717b1,1,GCF_002591335.1,['Streptomyces malaysiensis'],1
+bc0d9537754b39bdf94d775cf100d927,1,GCF_002777535.1,"['Streptomyces peucetius', 'Streptomyces peucetius', 'Streptomyces peucetius', 'Streptomyces peucetius']",1
+98dfb122f7a5330c9e8a3a50bed60abc,1,GCF_002777535.1,['Streptomyces peucetius'],1
+35e8475e72c4535cdb30f875df4b3c6a,1,GCF_002777535.1,['Streptomyces peucetius'],1
+34fdf3db252a308abbf84ce6c8c96934,1,GCF_002794255.1,"['Streptomyces carminius', 'Streptomyces carminius', 'Streptomyces carminius', 'Streptomyces carminius', 'Streptomyces carminius', 'Streptomyces carminius']",1
+cd79901feb5158f7d1cab3819b4211c5,8,"GCF_011170105.1,GCF_900460115.1,GCF_011170145.1,GCF_002802945.1,GCF_014216335.1,GCF_015680775.2,GCF_011170125.1,GCF_014648935.1","['Streptomyces sp.', 'Streptomyces rutgersensis', 'Streptomyces rutgersensis', 'Streptomyces rutgersensis', 'Streptomyces diastaticus', 'Streptomyces diastaticus', 'Streptomyces diastaticus', 'Streptomyces diastaticus', 'Streptomyces diastaticus', 'Streptomyces gougerotii', 'Streptomyces gougerotii', 'Streptomyces gougerotii', 'Streptomyces gougerotii', 'Streptomyces gougerotii', 'Streptomyces rutgersensis', 'Streptomyces rutgersensis', 'Streptomyces rutgersensis', 'Streptomyces rutgersensis', 'Streptomyces diastaticus', 'Streptomyces sp.', 'Streptomyces griseus', 'Streptomyces griseus']",5
+a86a2837b61defb96d890b7fabf8237b,1,GCF_002803065.1,['Streptomyces sp.'],1
+f4ea6247bc545e5953391309758dd6d4,1,GCF_002803075.1,['Streptomyces sp.'],1
+a160aa26c7804a40daaae2138aec1b05,1,GCF_002803085.1,['Streptomyces sp.'],1
+e909795ce8e4bf23db7e470e44ded6dc,2,"GCF_002803845.1,GCF_018255875.1","['Streptomyces lavendulae', 'Streptomyces lavendulae']",1
+ede014f2c6f160efd847320e30e1dd29,2,"GCF_002803845.1,GCF_018255875.1","['Streptomyces lavendulae', 'Streptomyces lavendulae']",1
+eb112c0447bb22aad1f15294873963de,2,"GCF_003352445.1,GCF_002804165.1","['Streptomyces cavourensis', 'Streptomyces cavourensis', 'Streptomyces cavourensis', 'Streptomyces cavourensis', 'Streptomyces cavourensis']",1
+22e8d30c8ee6536d8783f3df14fd440d,1,GCF_002804165.1,['Streptomyces cavourensis'],1
+5b6b030869496323f09b7e8b2040c45b,1,GCF_002812405.1,['Streptomyces sp.'],1
+e085dafbee3590f6cfeb138d7de68fe8,4,"GCF_015689475.1,GCF_002812405.1,GCF_006974005.1,GCF_011800555.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces malaysiensis', 'Streptomyces malaysiensis', 'Streptomyces solisilvae']",3
+a553ea00a59d51902ef272f287fa85a1,1,GCF_002832675.1,['Streptomyces sp.'],1
+6377267f9fc4cab849cdc47959339546,1,GCF_002832675.1,['Streptomyces sp.'],1
+cc324e4bdfddc6e29d9dc4fad5f3dc8a,1,GCF_002843305.1,"['Streptomyces barkulensis', 'Streptomyces barkulensis', 'Streptomyces barkulensis']",1
+6c7ea7f9f28a28664ff4eeb354dc7a25,3,"GCF_003428925.1,GCF_016803985.1,GCF_002844215.1","['Streptomyces sp.', 'Streptomyces koyangensis', 'Streptomyces koyangensis', 'Streptomyces koyangensis', 'Streptomyces koyangensis', 'Streptomyces koyangensis', 'Streptomyces koyangensis', 'Streptomyces koyangensis']",2
+718cede49c41f551c6d9e3e53f8d441c,1,GCF_002846415.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+5b475a9508cede729cb99c1003d259fa,1,GCF_002846415.1,['Streptomyces sp.'],1
+2d6a9afd75ae929027e232876acb8d92,1,GCF_002846415.1,['Streptomyces sp.'],1
+043266820badf40cd7ff9a79c9676244,1,GCF_002846415.1,['Streptomyces sp.'],1
+287e46bf8a721566a15260c227f0c70d,3,"GCF_002846455.1,GCF_900105245.1,GCF_900105605.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+c9d84d9b9807d6f8c8790b92c3c0ade5,2,"GCF_002846455.1,GCF_900105245.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+1f3aa3e9afc7ded324ae1acc71ddbbcf,1,GCF_002847285.1,"['Streptomyces sp.', 'Streptomyces sp.']",1
+4f2d1c2a90f4929afccbd65b6f2dbb0f,1,GCF_002847285.1,"['Streptomyces sp.', 'Streptomyces sp.']",1
+2cd43714d357dfdfcaf00f7e4dc3a863,1,GCF_002847285.1,['Streptomyces sp.'],1
+f159afee53f3262f6db445386f94890a,3,"GCF_014203505.1,GCF_002891295.1,GCF_015475845.1","['Streptomyces eurocidicus', 'Streptomyces eurocidicus', 'Streptomyces eurocidicus', 'Streptomyces eurocidicus']",1
+d02c78f8883e5946697f7daa45d9ade1,1,GCF_002891315.1,"['Streptomyces noursei', 'Streptomyces noursei', 'Streptomyces noursei', 'Streptomyces noursei', 'Streptomyces noursei', 'Streptomyces noursei', 'Streptomyces noursei']",1
+5a891422e671b5cddd839fb1c234e978,1,GCF_002891435.1,['Streptomyces sp.'],1
+90acdd1272739a20e879bed80184128e,1,GCF_002899455.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+dd1fc32663ab69a8bfdd9e4479c0766a,1,GCF_002899455.1,['Streptomyces sp.'],1
+4207f01a376db5100b1607e5be9b8a71,2,"GCF_002910725.2,GCF_013376795.1","['Streptomyces sp.', 'Streptomyces violascens']",2
+75cd4b52fd2d78c91e7bf7b7442ee7ea,3,"GCF_002910855.1,GCF_002910755.1,GCF_004305975.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces otsuchiensis']",2
+68dd1561d58ac965a4d7a47427e17b2d,1,GCF_002910775.2,['Streptomyces sp.'],1
+5a7ffeba934461a15a3a84e25e6330ca,1,GCF_002910815.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+3f4e01838209cb0ddb81131e278b6289,1,GCF_002910875.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+3139262f6483179c75c9775141c23e7b,1,GCF_002910905.1,['Streptomyces sp.'],1
+88b4038f272623ad88986e0b3090390a,1,GCF_002910915.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+40e558f35bfbb077a0c413143b56a20c,1,GCF_002920535.1,['Streptomyces sp.'],1
+42b44e9adadb76921bdbd22d2ee441e3,2,"GCF_014905555.1,GCF_002920635.1","['Streptomyces sp.', 'Streptomyces sp.']",1
+d6c28685f0d85e04d590e105e6d28cf4,1,GCF_002939385.1,['Streptomyces sp.'],1
+9eabd7ce308ddec6f6d5730395995e90,1,GCF_002939475.1,['Streptomyces cinnamoneus'],1
+a3ecfe6ac4f170f89775fe2442139479,1,GCF_002939475.1,"['Streptomyces cinnamoneus', 'Streptomyces cinnamoneus', 'Streptomyces cinnamoneus']",1
+02d7229219ddc9d2e035637e44dbafb0,1,GCF_002939475.1,['Streptomyces cinnamoneus'],1
+2cac846889026a1875913cd322625deb,1,GCF_002939475.1,['Streptomyces cinnamoneus'],1
+b41a016c8291f30b6a85e78ae982b3e3,1,GCF_002939475.1,['Streptomyces cinnamoneus'],1
+c4c28015c1211d302a1e52d4c8c0a604,1,GCF_002946835.1,['Streptomyces dengpaensis'],1
+80c7842af91b1af91abf460bc002f43c,1,GCF_002946835.1,"['Streptomyces dengpaensis', 'Streptomyces dengpaensis', 'Streptomyces dengpaensis', 'Streptomyces dengpaensis', 'Streptomyces dengpaensis']",1
+c4bda2a6cfd2dfe16f944b5e90f39848,1,GCF_002982015.1,['Streptomyces sp.'],1
+149d276cabfe848fc87c14ce1e0f6ada,2,"GCF_003024195.1,GCF_018070025.1","['Streptomyces dioscori', 'Streptomyces sp.', 'Streptomyces sp.']",2
+8d0f37b473211f6fde8f4fc092087298,1,GCF_003024215.1,"['Streptomyces sp.', 'Streptomyces sp.']",1
+38da3e501eca3d41b00bde5635644a9c,1,GCF_003032475.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+dceb6922d42f240ba3bf3141d8118798,3,"GCF_003046555.1,GCF_004104505.1,GCF_004115015.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+16bb89b37558a7e6bae6aee953c0084f,1,GCF_003054555.1,['Streptomyces lunaelactis'],1
+85e35370253e3972edd61c08718327d4,1,GCF_003054555.1,['Streptomyces lunaelactis'],1
+cb6ed46766ca3fad36592431e38d9b3b,1,GCF_003054555.1,['Streptomyces lunaelactis'],1
+2d7308dbf13b0d114e36aa34ee0717e2,9,"GCF_013357965.1,GCF_013358045.1,GCF_013358155.1,GCF_013358305.1,GCF_013358165.1,GCF_013357925.1,GCF_013357935.1,GCF_003054555.1,GCF_013358025.1","['Streptomyces lunaelactis', 'Streptomyces lunaelactis', 'Streptomyces lunaelactis', 'Streptomyces lunaelactis', 'Streptomyces lunaelactis', 'Streptomyces lunaelactis', 'Streptomyces lunaelactis', 'Streptomyces lunaelactis', 'Streptomyces lunaelactis']",1
+517c8d2f7177320c2a417c145211235d,1,GCF_003054555.1,['Streptomyces lunaelactis'],1
+d8cab89cb35b7a4519c1b78d41385e55,1,GCF_003054555.1,['Streptomyces lunaelactis'],1
+d5e49774e24608138b399cafd9ca203b,1,GCF_003073355.1,['Streptomyces scopuliridis'],1
+64dbaeacd3c9764b85120ca0e9edb820,1,GCF_003074055.1,"['Streptomyces nigra', 'Streptomyces nigra', 'Streptomyces nigra', 'Streptomyces nigra', 'Streptomyces nigra', 'Streptomyces nigra']",1
+074e8c64d93e5a82f943a7dea0809ed7,1,GCF_003097515.1,"['Streptomyces tirandamycinicus', 'Streptomyces tirandamycinicus', 'Streptomyces tirandamycinicus', 'Streptomyces tirandamycinicus', 'Streptomyces tirandamycinicus']",1
+7a5c50c6d6bb2ae94b6ab03b4824dc9e,2,"GCF_013421635.1,GCF_003112515.1","['Streptomyces fragilis', 'Streptomyces sp.']",2
+40e2e2f3433646488eee6333574db9ca,1,GCF_003112535.1,['Streptomyces rishiriensis'],1
+bf4c07290b45d1e74df0fddbe60fc454,1,GCF_003112595.1,['Streptomyces rubrogriseus'],1
+657567f747b2a636fe9963dfbae63a85,1,GCF_003116725.1,"['Streptomyces sp.', 'Streptomyces sp.']",1
+6e96e333b10afd4b43bdafb078f488f0,1,GCF_003116725.1,['Streptomyces sp.'],1
+3eed38edc9eea1f2a58249eb8e6f48ea,1,GCF_003116795.1,"['Streptomyces sp.', 'Streptomyces sp.']",1
+000a7bd7a5a7e64359cea7de428dd4d0,1,GCF_003122365.1,"['Streptomyces spongiicola', 'Streptomyces spongiicola', 'Streptomyces spongiicola', 'Streptomyces spongiicola', 'Streptomyces spongiicola']",1
+4dae4172c2583337d1b8bd7c6c7de459,1,GCF_003122365.1,['Streptomyces spongiicola'],1
+ed68df96124831f5af0bdcf7d1218f19,3,"GCF_003129505.1,GCF_003268535.2,GCF_003268555.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+67315f602ad93bfb426c11ec14f0dc86,1,GCF_003143935.1,['Streptomyces sp.'],1
+e668882777f1a0f871aa2167bcc7421b,1,GCF_003173275.1,['Streptomyces sp.'],1
+83b034a9cac87204eab5d18e507c1a65,2,"GCF_003173275.1,GCF_009811595.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces libani', 'Streptomyces libani', 'Streptomyces libani']",2
+3934356a9386402c7ba3870de4cbe780,4,"GCF_003173275.1,GCF_009811595.1,GCF_004125265.1,GCF_009811635.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces lydicus', 'Streptomyces lydicus', 'Streptomyces lydicus', 'Streptomyces lydicus', 'Streptomyces lydicus', 'Streptomyces lydicus', 'Streptomyces lydicus', 'Streptomyces libani', 'Streptomyces libani', 'Streptomyces libani', 'Streptomyces libani', 'Streptomyces tubercidicus', 'Streptomyces tubercidicus', 'Streptomyces tubercidicus', 'Streptomyces tubercidicus', 'Streptomyces tubercidicus', 'Streptomyces tubercidicus', 'Streptomyces tubercidicus']",4
+43aa10362d55f29b49378a26db1caa6a,4,"GCF_003173275.1,GCF_004125275.1,GCF_003994375.1,GCF_008087005.1","['Streptomyces sp.', 'Streptomyces lydicus', 'Streptomyces lydicus', 'Streptomyces lydicus', 'Streptomyces lydicus', 'Streptomyces lydicus', 'Streptomyces lydicus', 'Streptomyces lydicus', 'Streptomyces lydicus', 'Streptomyces lydicus', 'Streptomyces lydicus', 'Streptomyces lydicus', 'Streptomyces lydicus', 'Streptomyces sp.']",2
+adf51ec9d5daef25b79c5984134ebe82,1,GCF_003205575.1,['Streptomyces tateyamensis'],1
+651c8c226e663dbac20c1179831d6c24,1,GCF_003208035.1,"['Streptomyces actuosus', 'Streptomyces actuosus']",1
+31805cc46e9b0a9fe03cc82dd70a63bd,1,GCF_003208035.1,"['Streptomyces actuosus', 'Streptomyces actuosus', 'Streptomyces actuosus']",1
+8b11e5b6f6c179cce81ba6ebc8ce078a,1,GCF_003208035.1,['Streptomyces actuosus'],1
+d9c483a156224c4dedbf10820324b0f7,1,GCF_003236365.1,['Streptomyces sp.'],1
+cb1ff5c72a69b94d028334db3df3963b,2,"GCF_003248335.1,GCF_003248355.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+a3285e88e462ad2ee074a512505e1cf8,1,GCF_003261055.1,"['Streptomyces cadmiisoli', 'Streptomyces cadmiisoli', 'Streptomyces cadmiisoli', 'Streptomyces cadmiisoli']",1
+86b1d429effac1507c48586165f70066,1,GCF_003261055.1,['Streptomyces cadmiisoli'],1
+902a61075e1eb1c03da19be39a61ecc1,1,GCF_003261055.1,['Streptomyces cadmiisoli'],1
+aa1844fc0658b41dfd8eaffbcbad11c7,1,GCF_003263885.1,['Streptomyces badius'],1
+24302609eec916b80acc6cbb77c31199,1,GCF_003265665.1,['Streptomyces qinglanensis'],1
+6dd58eeff9ad6e9fb316a20a373e533a,2,"GCF_003287915.1,GCF_003287935.1","['Streptomyces sp.', 'Streptomyces sp.']",1
+b8c3e2c3df54e3d20b528bd15d65ea93,1,GCF_003311645.1,['Streptomyces sp.'],1
+8e643964124d918e29aa52d6856c05bc,1,GCF_003324565.1,['Streptomyces sp.'],1
+bee006b0be4fc3e9ff0df4edeaf9eb47,1,GCF_003325375.1,['Streptomyces globosus'],1
+2703ccf7b18dac9a80dac6d92190c0cb,1,GCF_003325375.1,"['Streptomyces globosus', 'Streptomyces globosus', 'Streptomyces globosus', 'Streptomyces globosus', 'Streptomyces globosus', 'Streptomyces globosus']",1
+8ce048d92113f86924fa4ada92e8b9f0,1,GCF_003330845.1,"['Streptomyces sp.', 'Streptomyces sp.']",1
+9e65bd534d8ff53b8fa33a6bf92eca6e,1,GCF_003330845.1,['Streptomyces sp.'],1
+9be1227f9f049b77d7c9b6ff6dd61b02,1,GCF_003330845.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+efee5b0d328904ed413eadbfb78d55f5,3,"GCF_003330865.1,GCF_900091955.1,GCF_014648655.1","['Streptomyces atratus', 'Streptomyces atratus', 'Streptomyces atratus', 'Streptomyces atratus', 'Streptomyces atratus', 'Streptomyces atratus', 'Streptomyces atratus', 'Streptomyces sp.']",2
+398c659b2698969e32a275ab58779abf,1,GCF_003344965.1,"['Streptomyces paludis', 'Streptomyces paludis', 'Streptomyces paludis', 'Streptomyces paludis']",1
+f51702a28d7292fde795b1cb0edba52c,1,GCF_003344965.1,['Streptomyces paludis'],1
+739b3f8d497844f98643124ff70e6608,1,GCF_003344965.1,['Streptomyces paludis'],1
+34ba0f8f897571722b14c5c62a5aeacc,1,GCF_003346515.1,['Streptomyces corynorhini'],1
+7466f29be7b712e06666de506bc4b10e,1,GCF_003352445.1,['Streptomyces cavourensis'],1
+16e6c6b431c099c7e0526d20c2e89db6,1,GCF_003353555.1,['Streptomyces sp.'],1
+330d8f47340a74fdea512070a173f783,1,GCF_003355155.1,['Streptomyces armeniacus'],1
+7d7d59c43bb6993b89dea12b09fba618,1,GCF_003369795.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+2056bb73a7669b3b85bd6c7e87628af5,1,GCF_003387455.1,"['Streptomyces sp.', 'Streptomyces sp.']",1
+42664b1b286e9d5094f9ea2351d2cbe1,1,GCF_003391135.1,"['Streptomyces olivoreticuli', 'Streptomyces olivoreticuli', 'Streptomyces olivoreticuli', 'Streptomyces olivoreticuli', 'Streptomyces olivoreticuli', 'Streptomyces olivoreticuli', 'Streptomyces olivoreticuli']",1
+ca5fee2a60c5b815fd463d82ef26b2d4,1,GCF_003403055.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+cade3038f4be7ce514e2aceae3b17498,1,GCF_003403055.1,['Streptomyces sp.'],1
+8348f00844707925e16f83ead1964b65,1,GCF_003428925.1,['Streptomyces koyangensis'],1
+c26347c2ca4fed7a80941a778b12fa0c,1,GCF_003428925.1,['Streptomyces koyangensis'],1
+871910171f60d8793918cfee16948f38,1,GCF_003428925.1,"['Streptomyces koyangensis', 'Streptomyces koyangensis']",1
+c3085431bdf82564e2b539d7f6f81730,1,GCF_003428925.1,['Streptomyces koyangensis'],1
+e48cbb1a87a53dddb64a542f06978d34,1,GCF_003429565.1,['Streptomyces triticagri'],1
+766ad8f96a4ba1e2d1dccebe8ff3cd3a,1,GCF_003443735.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+395597460ca1deb119880207742502b9,2,"GCF_003568675.1,GCF_005768555.2","['Streptomyces sporangiiformans', 'Streptomyces sporangiiformans']",1
+5b9d8ee3ba246b91e1661995c5351b0b,1,GCF_003574445.1,['Streptomyces sp.'],1
+dd345a5051654edb639f39a7ca0d97f2,1,GCF_003584825.1,['Streptomyces europaeiscabiei'],1
+1c51df02a0da046edd84ebf0bc930333,1,GCF_003595235.1,['Streptomyces griseorubiginosus'],1
+0e2f70ad0e95ea73efeaef1038b23227,1,GCF_003595545.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+1adb30fc4cf25dd4b0e0fb345b68d203,1,GCF_003610255.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+bd14f4f7a1bf7dda15366635652f74bd,1,GCF_003610255.1,['Streptomyces sp.'],1
+8fa99af190129829db595a43e92bda35,1,GCF_003610255.1,['Streptomyces sp.'],1
+240754da5529eb66eb4e25a75a4fa6bc,1,GCF_003610995.1,['Streptomyces griseus'],1
+52c58e4d88c3a55ee157748612327457,1,GCF_003626535.1,['Streptomyces hoynatensis'],1
+0d06f94c88bd18edef47a1fb431ab567,1,GCF_003627815.1,"['Streptomyces hundungensis', 'Streptomyces hundungensis', 'Streptomyces hundungensis', 'Streptomyces hundungensis', 'Streptomyces hundungensis', 'Streptomyces hundungensis']",1
+6b3e93e54f9760f0e4cba39ef84c406e,1,GCF_003627815.1,"['Streptomyces hundungensis', 'Streptomyces hundungensis']",1
+37b95bfe2b9c8d740e1e08653a13f71c,2,"GCF_003635085.1,GCF_900199205.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+479423b065b0485881417de6a067e306,2,"GCF_003635085.1,GCF_900199205.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+0db30f52d498ffd19efa6f3c482b6310,2,"GCF_003635085.1,GCF_900199205.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+e49b4a0d8c3d49927af48c4e358ba57c,1,GCF_003635085.1,['Streptomyces sp.'],1
+7c6c79aede91d3fc234e9f2e0a3ab3bd,2,"GCF_003635085.1,GCF_900199205.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+9c2f97e4246c46ac729842eae2c84234,1,GCF_003635085.1,['Streptomyces sp.'],1
+6887d7aca49be7e3dbd0b58eefd4eab7,1,GCF_003665095.1,['Streptomyces sp.'],1
+4825021bee4d344cd5234926246daa86,1,GCF_003665095.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+699c787e36f5944a11478f516fd94289,1,GCF_003665435.1,['Streptomyces fungicidicus'],1
+56dda9d796e6b8529a26cae5c740b7aa,3,"GCF_013364175.1,GCF_003665435.1,GCF_006715925.1","['Streptomyces fungicidicus', 'Streptomyces fungicidicus', 'Streptomyces fungicidicus', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",2
+60fe10e9ce6986c9bbce114d720685ae,3,"GCF_013364175.1,GCF_003665435.1,GCF_006715925.1","['Streptomyces fungicidicus', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",2
+7da38d5a63bd1877e59756c58df475e1,1,GCF_003665435.1,['Streptomyces fungicidicus'],1
+88aedacf8811518fc019103e49b7b501,5,"GCF_016432685.1,GCF_018966745.1,GCF_003671735.1,GCF_003671675.1,GCF_009739225.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+87d8a42676feac206364db9473525bd9,2,"GCF_018070535.1,GCF_003671715.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+c825f5154caefc02763a7d3f26dbf295,1,GCF_003675325.1,['Streptomyces sp.'],1
+56b0e4b6207fab0b5b0208158674aebc,1,GCF_003675325.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+25e0fad1c54ca4156e50d223ad272d4c,1,GCF_003675325.1,['Streptomyces sp.'],1
+79b911c5e0c78f6ffe02c3a2953feae0,1,GCF_003675345.1,['Streptomyces albus'],1
+a72a2b86fa1c2a8cf1ec6cc4ccbffba3,1,GCF_003675345.1,['Streptomyces albus'],1
+c6ca10fbbb0df6347d00a6596225044f,1,GCF_003675345.1,['Streptomyces albus'],1
+6c9cbac76a8bc2253e7013762defea57,2,"GCF_014205315.1,GCF_003675955.1","['Streptomyces rapamycinicus', 'Streptomyces rapamycinicus', 'Streptomyces rapamycinicus', 'Streptomyces rapamycinicus']",1
+90470eefd23958db6ccacbe5bf91d541,2,"GCF_014205315.1,GCF_003675955.1","['Streptomyces rapamycinicus', 'Streptomyces rapamycinicus', 'Streptomyces rapamycinicus', 'Streptomyces rapamycinicus', 'Streptomyces rapamycinicus', 'Streptomyces rapamycinicus', 'Streptomyces rapamycinicus', 'Streptomyces rapamycinicus']",1
+27c31b574ed726724dab6689ebc6de7c,1,GCF_003675955.1,['Streptomyces rapamycinicus'],1
+4de4cacbbde3f0dd507e7fbddb7b152c,1,GCF_003688995.1,['Streptomyces shenzhenensis'],1
+0c7df2ff30f848818d4ed65d849ebee0,1,GCF_003696235.1,['Streptomyces triticirhizae'],1
+09d797e71170f71b23c6a5a334aa3ab5,1,GCF_003709145.1,['Streptomyces sp.'],1
+de69b2023188a3b75695d4e409abe7f4,1,GCF_003721215.1,['Streptomyces sp.'],1
+672bc763508ba58aea8be3f4476ccc40,1,GCF_003721495.1,['Streptomyces sp.'],1
+036ff01a0a58b43dad725f5a5ddc8424,1,GCF_003721495.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+63840e47aa734c906690f438e6964dc9,1,GCF_003721495.1,['Streptomyces sp.'],1
+df93b2cec85002f5e0e2c4c24b8965e0,2,"GCF_004795055.1,GCF_003751425.1","['Streptomyces sp.', 'Streptomyces sp.']",1
+a7d00f6079f2b4bf247dc5dd12e7b100,1,GCF_003751425.1,"['Streptomyces sp.', 'Streptomyces sp.']",1
+2e905af21eb02755ccc0c399c4b6f829,3,"GCF_004795105.1,GCF_003751445.1,GCF_007829885.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces brevispora', 'Streptomyces brevispora', 'Streptomyces brevispora', 'Streptomyces brevispora', 'Streptomyces brevispora']",2
+cbc747880e6aae57855ccd3645d12b51,1,GCF_003752275.1,['Streptomyces sp.'],1
+1d27c71d9e5ffbd8563191e7f1f75e4d,1,GCF_003814765.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+64ed6f0bd17870d0988f7bd5ee0e68e8,1,GCF_003814875.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+cf2ffcaca3edba7e85830eb66be9442c,1,GCF_003814875.1,"['Streptomyces sp.', 'Streptomyces sp.']",1
+55acbe997b362007988337fe6af43768,1,GCF_003851625.1,['Streptomyces sp.'],1
+cecacf6721399c6ca01afd968fd25f42,2,"GCF_003865135.1,GCF_003865155.1","['Streptomyces chrestomyceticus', 'Streptomyces chrestomyceticus', 'Streptomyces chrestomyceticus', 'Streptomyces chrestomyceticus', 'Streptomyces rimosus', 'Streptomyces rimosus', 'Streptomyces rimosus']",2
+15411d57c13f7c15f0cdf52e21e40559,2,"GCF_003865135.1,GCF_003865155.1","['Streptomyces chrestomyceticus', 'Streptomyces chrestomyceticus', 'Streptomyces chrestomyceticus', 'Streptomyces rimosus', 'Streptomyces rimosus', 'Streptomyces rimosus', 'Streptomyces rimosus']",2
+77b1627ad14668cb1300aead503db89b,1,GCF_003945505.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+73927101ea727e66b5eeb816855eecca,1,GCF_003945505.1,['Streptomyces sp.'],1
+d58fc8baf7f8b4d8fb3f375ce311bd45,1,GCF_003945525.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+28a90de3531dc50de845b28ee426520b,1,GCF_003945525.1,['Streptomyces sp.'],1
+70e9bd878bee117abfa0977919c85860,1,GCF_003945525.1,['Streptomyces sp.'],1
+db91c8aab6308fe0a36a7dfe2a0fb893,1,GCF_003945545.1,['Streptomyces sp.'],1
+8d9085e8ccfc7c987f9d23c903beba6f,1,GCF_003945545.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+c1b38bac9763da5aeb4dee3c1c7a1fd6,1,GCF_003947455.1,['Streptomyces sp.'],1
+d8c119ca1293cf6c1ca7f3cfe2630254,1,GCF_003947555.1,['Streptomyces sp.'],1
+1f2fbf1f5e634b8421f11a46894d379f,2,"GCF_012034235.1,GCF_003949505.1","['Streptomyces sp.', 'Streptomyces thermoviolaceus']",2
+8c881c57b8925e34c04356e934ba8bff,1,GCF_003949695.1,['Streptomyces sp.'],1
+9ef1a9512f23a1cb48a300ba59ff634d,1,GCF_003949795.1,['Streptomyces sp.'],1
+4dfb93255e3ec6ea878bc466f9776ea6,1,GCF_003950035.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+cc8f703d504a181bad644f12bcdaf47c,1,GCF_003950055.1,['Streptomyces sp.'],1
+b1a3fc1bbf03433400fc67679b8c50fa,5,"GCF_004522685.1,GCF_018310575.1,GCF_003950055.1,GCF_011007525.1,GCF_013364375.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces coelicoflavus', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",2
+a01ea1f1c7e094d6a9d06f366580338d,1,GCF_003950055.1,['Streptomyces sp.'],1
+d8af4059fe4f1157cd4b785bbff73ea5,2,"GCF_900206255.1,GCF_003955715.1","['Streptomyces aquilus', 'Streptomyces aquilus', 'Streptomyces aquilus', 'Streptomyces aquilus', 'Streptomyces aquilus', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",2
+e33010f6e0ce0f6c06963f727323882c,1,GCF_003955715.1,['Streptomyces aquilus'],1
+1a4367185ac1974a8c84c2cfb2d0d37a,1,GCF_003963535.1,"['Streptomyces cyaneochromogenes', 'Streptomyces cyaneochromogenes', 'Streptomyces cyaneochromogenes', 'Streptomyces cyaneochromogenes', 'Streptomyces cyaneochromogenes', 'Streptomyces cyaneochromogenes']",1
+b6a4b9d3a3875d17bbbbac2cfd1e476e,1,GCF_003970715.1,"['Streptomyces luteoverticillatus', 'Streptomyces luteoverticillatus', 'Streptomyces luteoverticillatus', 'Streptomyces luteoverticillatus', 'Streptomyces luteoverticillatus', 'Streptomyces luteoverticillatus', 'Streptomyces luteoverticillatus']",1
+bc59dd571b4ee85e6205052122f41d46,1,GCF_003984785.1,['Streptomyces sp.'],1
+f21ef43555a5cd4ce52327125121523b,3,"GCF_003984935.1,GCF_019029505.1,GCF_019029485.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+05b0fdddc42db35e70b093c41f0d190d,2,"GCF_004125275.1,GCF_003994375.1","['Streptomyces lydicus', 'Streptomyces lydicus']",1
+57095868f1642f88277020e1ce21e1f9,2,"GCF_003994395.1,GCF_005222485.1","['Streptomyces griseoviridis', 'Streptomyces griseoviridis', 'Streptomyces griseoviridis', 'Streptomyces griseoviridis', 'Streptomyces griseoviridis', 'Streptomyces griseoviridis']",1
+c85aa22bf9014b11e68ebb8b19b8821d,2,"GCF_003994395.1,GCF_005222485.1","['Streptomyces griseoviridis', 'Streptomyces griseoviridis', 'Streptomyces griseoviridis', 'Streptomyces griseoviridis', 'Streptomyces griseoviridis', 'Streptomyces griseoviridis']",1
+3619fc037cc670c268b6e5714b2f8790,1,GCF_004023625.1,['Streptomyces cavernae'],1
+7b49e1cc11b11f03a3d724cc456642c6,1,GCF_004028635.1,['Streptomyces cyaneus'],1
+771393f6f01987a063550d9afe96a8d9,1,GCF_004117935.1,['Streptomyces roseicoloratus'],1
+fb5af5d1590c0384d0ffa81bebe6bfb4,2,"GCF_004122735.1,GCF_016876065.1","['Streptomyces sioyaensis', 'Streptomyces sioyaensis', 'Streptomyces sioyaensis', 'Streptomyces sioyaensis', 'Streptomyces sioyaensis']",1
+1df93499d189a3bd0172caf8bb10e522,1,GCF_004122755.1,['Streptomyces sp.'],1
+6d9c36f7694291f06d3e279c9b0eecda,1,GCF_004123705.1,['Streptomyces sp.'],1
+718d7da68532b33edbb31374347812f6,1,GCF_004124325.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+5fcbfe8c8c1986f5491c01a7f8414426,1,GCF_004124325.1,['Streptomyces sp.'],1
+9deb0d38d8b463cf140f0cf57cc6713b,1,GCF_004124335.1,['Streptomyces sp.'],1
+d7f8ac11655c20b0d1a85ae1733afd28,1,GCF_004151105.1,['Streptomyces sp.'],1
+dc2544001a058544c14660f253328d81,1,GCF_004187715.1,['Streptomyces sp.'],1
+272ab099bc59c53fc50c96d3a06e7241,1,GCF_004187715.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+ed35445c2053d08fa7b2fbe717926700,1,GCF_004187715.1,['Streptomyces sp.'],1
+939e9d825efacd58ac5708a4d4eb9680,1,GCF_004193175.1,['Streptomyces sp.'],1
+99285d120118b64c02229ebf43db440f,1,GCF_004193175.1,['Streptomyces sp.'],1
+ffcfcacc357e5a2fbdcb69c7f9cfcd4c,1,GCF_004193175.1,['Streptomyces sp.'],1
+3bf78231d12e36f6bbdb2cf1012481fb,1,GCF_004193175.1,"['Streptomyces sp.', 'Streptomyces sp.']",1
+34ab2b41fff8dc1cdf921a72073fd2e6,1,GCF_004196215.1,['Streptomyces albidoflavus'],1
+4e277623744faf081320e8fde7109d75,1,GCF_004196225.1,['Streptomyces sp.'],1
+293d9b8ed32b603c9dc98320eb371b2e,1,GCF_004217285.1,['Streptomyces sp.'],1
+0761af884ef4ff43647e8cd3f8cf84b6,1,GCF_004328625.1,"['Streptomyces seoulensis', 'Streptomyces seoulensis', 'Streptomyces seoulensis', 'Streptomyces seoulensis']",1
+7b10438dd364005315aa7e02a2a70d6d,1,GCF_004328625.1,['Streptomyces seoulensis'],1
+3aee8693fc8a678d6ec5c32e040b1f77,1,GCF_004328625.1,['Streptomyces seoulensis'],1
+4085503dfd6c213f36140e6e3133368c,7,"GCF_018619555.1,GCF_018619585.1,GCF_018619515.1,GCF_004334925.1,GCF_018619495.1,GCF_018619575.1,GCF_018619535.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+89abed646d5143e39cf72554c8258e84,7,"GCF_018619555.1,GCF_018619585.1,GCF_018619515.1,GCF_004334925.1,GCF_018619495.1,GCF_018619575.1,GCF_018619535.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+32a2ddb686a40e493d42b5e9154f1a49,6,"GCF_018619555.1,GCF_018619585.1,GCF_018619515.1,GCF_004334925.1,GCF_018619495.1,GCF_018619535.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+524f657a506f708037ca17a374580220,7,"GCF_018619555.1,GCF_018619585.1,GCF_018619515.1,GCF_004334925.1,GCF_018619495.1,GCF_018619575.1,GCF_018619535.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+d2c6206b894c18d34242885eacc058cf,1,GCF_004337435.2,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+c41057eaaf9c60216d62b9161544c7bb,1,GCF_004337435.2,['Streptomyces sp.'],1
+bbafabd30bd297e57f9a5930948a345c,1,GCF_004348315.1,['Streptomyces sp.'],1
+79627206f8ee948450d6ba95962c7d18,1,GCF_004348415.1,['Streptomyces hainanensis'],1
+9d9fd3f0407154aa01efaffb6a717d52,2,"GCF_004364245.1,GCF_014650435.1","['Streptomyces sp.', 'Streptomyces tendae']",2
+dc89a53bc1c71d5296a1175cf64e4fa5,1,GCF_004403015.1,['Streptomyces sp.'],1
+3665d9399a37dbd3e4f9448a682d7602,1,GCF_004524875.1,['Streptomyces sp.'],1
+ca7bd99778bb5f3792adaf238c8942f2,1,GCF_004524875.1,['Streptomyces sp.'],1
+4884f3c53ab32898d31897bf9ef26059,1,GCF_004524875.1,['Streptomyces sp.'],1
+25dbb7364e166c071cf3f102616a3018,1,GCF_004524875.1,['Streptomyces sp.'],1
+2a450835c273bf6f770f2713ef193d64,1,GCF_004524875.1,['Streptomyces sp.'],1
+2d9888c136f00387c4ce76ced75ad82a,1,GCF_004684775.1,['Streptomyces sp.'],1
+d4745776c9dd4a55376befd5400cb061,1,GCF_004684805.1,['Streptomyces palmae'],1
+97d6260e31d88718486dc8b694a3a7cc,1,GCF_004795015.1,['Streptomyces sp.'],1
+cfd450889249e7cf8cb3bbfe34841033,1,GCF_004795115.1,['Streptomyces sp.'],1
+df1797f9e1b981a9db1b81d53c50cfff,1,GCF_004795255.1,['Streptomyces sp.'],1
+92ee71dc688aee9411724a6f408851f9,1,GCF_004795255.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+fc0b5ceb6c845555c6650a49d5833215,2,"GCF_004795715.1,GCF_005490965.1","['Streptomyces sp.', 'Streptomyces sp.']",1
+9750e204aa0441bee92f8d9f5edbbdb6,4,"GCF_018619155.1,GCF_017948495.1,GCF_004798565.1,GCF_018619135.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+7fafb223fa682743c30086541e1f9de5,1,GCF_004798575.1,['Streptomyces sp.'],1
+bb8742e4466b0faea90e9874ed6f7ea8,1,GCF_004803895.1,"['Streptomyces hawaiiensis', 'Streptomyces hawaiiensis', 'Streptomyces hawaiiensis', 'Streptomyces hawaiiensis', 'Streptomyces hawaiiensis', 'Streptomyces hawaiiensis']",1
+fefc828d3953437d98b1444b0cf17fbb,1,GCF_005047355.1,['Streptomyces sp.'],1
+9794c441f9b7fcdfd7ded1acde086e4e,1,GCF_005280215.1,['Streptomyces lasalocidi'],1
+5586772cd1555ce241b87c5728056c05,1,GCF_005405925.1,['Streptomyces antimycoticus'],1
+c0bac27fe6115a4e2a82877a1af5977a,1,GCF_005405925.1,['Streptomyces antimycoticus'],1
+dbc81782ac44363cca337b79a296dfac,1,GCF_005405925.1,['Streptomyces antimycoticus'],1
+dd2f88c6f6ff3e2b9880464cb0fb95f0,1,GCF_005405925.1,['Streptomyces antimycoticus'],1
+e79b63edfa8030b1b490907e187ddefd,1,GCF_005405925.1,['Streptomyces antimycoticus'],1
+7ff13c87a1b9ebde282ddd3fcab5498c,3,"GCF_009936315.1,GCF_900105695.1,GCF_005405925.1","['Streptomyces antimycoticus', 'Streptomyces antimycoticus', 'Streptomyces antimycoticus', 'Streptomyces antimycoticus', 'Streptomyces melanosporofaciens']",2
+d821d43617334e08f62e59e943498d23,2,"GCF_005406005.1,GCF_005405965.1","['Streptomyces avermitilis', 'Streptomyces avermitilis']",1
+19c9946443b297d2f3d57754771bb463,1,GCF_005517195.1,"['Streptomyces exfoliatus', 'Streptomyces exfoliatus', 'Streptomyces exfoliatus', 'Streptomyces exfoliatus', 'Streptomyces exfoliatus']",1
+b81e0bd2fdd4052457673d7e6d408a59,1,GCF_005517195.1,['Streptomyces exfoliatus'],1
+774c8066df10a0e6518ec86bda136cd2,12,"GCF_015767875.1,GCF_015767795.1,GCF_015767755.1,GCF_015767935.1,GCF_015767915.1,GCF_015767895.1,GCF_005519465.1,GCF_015767855.1,GCF_015708605.1,GCF_015767815.1,GCF_015767775.1,GCF_015767735.1","['Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus', 'Streptomyces clavuligerus']",1
+d24bb463f53694781e2ad97a8d4ab4dc,1,GCF_005795905.1,"['Streptomyces marianii', 'Streptomyces marianii', 'Streptomyces marianii', 'Streptomyces marianii', 'Streptomyces marianii', 'Streptomyces marianii']",1
+e8b93088ea0e976951d43abe1e6b7c0c,2,"GCF_010548345.1,GCF_005860785.2","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+db5a4ecb2467731eb6ad7fc6a272e2cf,1,GCF_005938145.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+bf64cea87d107a94a3b715cf5b1e120c,2,"GCF_005981935.1,GCF_005981965.1","['Streptomyces chryseus', 'Streptomyces chryseus']",1
+61ecdcfde8550bcd3f75c04636e42560,2,"GCF_013177615.1,GCF_006088715.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+bd31324c04abc716aea5243483d5e676,1,GCF_006335115.1,['Streptomyces sp.'],1
+a08a63fb17bde3ebcece93c01f779813,1,GCF_006516935.1,"['Streptomyces griseorubiginosus', 'Streptomyces griseorubiginosus', 'Streptomyces griseorubiginosus', 'Streptomyces griseorubiginosus']",1
+4e2ccc4a7f1f9229c6a5fa8a5122cc51,1,GCF_006516935.1,['Streptomyces griseorubiginosus'],1
+ebfd9e1591fdfc378594b8da4df1fa1f,1,GCF_006516935.1,['Streptomyces griseorubiginosus'],1
+aa86ee4ccc716d23083944afc8bf7bab,3,"GCF_015710995.1,GCF_014655085.1,GCF_006539185.1","['Streptomyces gardneri', 'Streptomyces gardneri', 'Streptomyces gardneri', 'Streptomyces gardneri', 'Streptomyces gardneri', 'Streptomyces gardneri', 'Streptomyces gardneri', 'Streptomyces gardneri', 'Streptomyces gardneri']",1
+b48fd2b087812931dc4eb9c1fd5245b4,1,GCF_006539505.1,['Streptomyces spinoverrucosus'],1
+423d298165b94beedc8a2b3e52507ce0,1,GCF_006540305.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+07fa8fff4bfbc6d8413d6eb27a825e93,3,"GCF_006547175.1,GCF_006547165.1,GCF_006547185.1","['Streptomyces ipomoeae', 'Streptomyces ipomoeae', 'Streptomyces ipomoeae']",1
+cd4caf368d4a453f77c28322eff919c4,1,GCF_006715185.1,"['Streptomyces sp.', 'Streptomyces sp.']",1
+43fefb39b88413e72f31247503763311,1,GCF_006715185.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+6d2d7218e02d5ed2664333ac0183115d,1,GCF_006715395.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+d687c9ee2409573ab9c5e715b2d6f06a,1,GCF_006715395.1,['Streptomyces sp.'],1
+d3fa9a2718d05f6eb2353b1fa586f27f,1,GCF_006715395.1,['Streptomyces sp.'],1
+8434614c32e4d3a0a8e88724242b38cc,1,GCF_006715635.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+8950e2c5362288dfcac23f50e91308f8,1,GCF_006715635.1,"['Streptomyces sp.', 'Streptomyces sp.']",1
+41a055d5c580a754ca0120c6cef1207d,1,GCF_006715785.1,['Streptomyces puniciscabiei'],1
+05c276655e0fb3ce235c5f193476d6c4,1,GCF_006715785.1,"['Streptomyces puniciscabiei', 'Streptomyces puniciscabiei']",1
+ac59d776b215d6ffd263dfa731670b6c,1,GCF_006715785.1,['Streptomyces puniciscabiei'],1
+754deb202ce1877808847ede9b1aba3f,1,GCF_006715785.1,['Streptomyces puniciscabiei'],1
+eda07c05076b0df01ba82f6879d65cbd,1,GCF_006715785.1,['Streptomyces puniciscabiei'],1
+01b8fbc37b3e93a6c8a79558d17cb606,1,GCF_006715925.1,['Streptomyces sp.'],1
+699894f3279615d04da9df40ccd5f56a,2,"GCF_006716135.1,GCF_014138545.1","['Streptomyces asterosporus', 'Streptomyces asterosporus', 'Streptomyces asterosporus', 'Streptomyces aureorectus', 'Streptomyces aureorectus']",2
+57ae845161883f5f86134f77869ab287,1,GCF_006974005.1,['Streptomyces malaysiensis'],1
+74626f35962afd1eaf8ecf8936c82215,1,GCF_006974005.1,['Streptomyces malaysiensis'],1
+d37c63bcf7681fbb9567d8891e1c5390,1,GCF_006974005.1,['Streptomyces malaysiensis'],1
+4b105e4130e4d643ef51ca01666bbd36,1,GCF_006974005.1,['Streptomyces malaysiensis'],1
+02801d972202bba3dfc001a62c9d6e09,1,GCF_006974005.1,['Streptomyces malaysiensis'],1
+6db3471cf57b6239d4e555197230292a,1,GCF_007050945.1,['Streptomyces sp.'],1
+9fe7943ed0ba3dfab1c26a43523a76af,1,GCF_007096885.1,['Streptomyces sp.'],1
+fbcc7aa004ca8056b9ee489b05b6d9d0,1,GCF_007097205.2,['Streptomyces alkaliterrae'],1
+12b206f3473a3b5ebf8892c1ed2a6daf,1,GCF_007113445.1,['Streptomyces sp.'],1
+605acc63d2885e2ac23e74d41101ebb3,2,"GCF_007113465.1,GCF_007113505.2","['Streptomyces sp.', 'Streptomyces sp.']",1
+00cba6e744359b3c15215cf7e2a55dbc,2,"GCF_007113485.2,GCF_007113545.2","['Streptomyces sp.', 'Streptomyces sp.']",1
+11ab428e562a69dd1a7c571fd6fd5896,1,GCF_007113505.2,['Streptomyces sp.'],1
+6cddd51d381ea81e1833e39453754667,1,GCF_007113585.2,['Streptomyces sp.'],1
+cbea229f51f376044fed738b5b431e0e,2,"GCF_007280575.1,GCF_007280585.1","['Streptomyces sp.', 'Streptomyces sp.']",1
+3a0b266f7353a364b8ad89ee0670309d,3,"GCF_007363395.1,GCF_008704795.1,GCF_014203475.1","['Streptomyces spectabilis', 'Streptomyces spectabilis', 'Streptomyces spectabilis', 'Streptomyces spectabilis', 'Streptomyces spectabilis', 'Streptomyces spectabilis', 'Streptomyces spectabilis', 'Streptomyces spectabilis', 'Streptomyces spectabilis', 'Streptomyces spectabilis', 'Streptomyces spectabilis']",1
+8ae2b82e3f11fb7ffa114c98de7de81c,1,GCF_007595705.1,['Streptomyces sp.'],1
+d2b1fa73545a9ea9a43ce98546b55053,1,GCF_007677905.1,['Streptomyces incarnatus'],1
+ed09e969511671d93dc4cbbb7e83d35b,2,"GCF_007679425.1,GCF_009834145.1","['Streptomyces incarnatus', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",2
+41411531d677ddf9750b228875852abb,1,GCF_007828695.1,['Streptomyces sp.'],1
+05291fc31936d83bf4ac51825c4da071,1,GCF_007829875.1,"['Streptomyces capillispiralis', 'Streptomyces capillispiralis', 'Streptomyces capillispiralis', 'Streptomyces capillispiralis', 'Streptomyces capillispiralis']",1
+40da4b12d87a69b5eb85e1bcc63fcd0f,1,GCF_007829875.1,['Streptomyces capillispiralis'],1
+81f8dce0503844bb611354cad7b2db97,1,GCF_007829885.1,['Streptomyces brevispora'],1
+75203d68d7b848cf6fa97ad5be213bbb,1,GCF_007856155.1,"['Streptomyces qinzhouensis', 'Streptomyces qinzhouensis', 'Streptomyces qinzhouensis', 'Streptomyces qinzhouensis', 'Streptomyces qinzhouensis', 'Streptomyces qinzhouensis']",1
+f1c38ad00043691052ec6ce470249192,4,"GCF_013423905.1,GCF_900104815.1,GCF_900079405.2,GCF_007896895.1","['Streptomyces misionensis', 'Streptomyces misionensis', 'Streptomyces misionensis', 'Streptomyces misionensis', 'Streptomyces misionensis', 'Streptomyces misionensis', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces misionensis', 'Streptomyces misionensis', 'Streptomyces misionensis', 'Streptomyces misionensis']",2
+032b1d634d4531776a20ca75b781780d,2,"GCF_008039505.1,GCF_010384365.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+84ce50c7e10d2334f13f6f884e9ff99d,1,GCF_008042035.1,['Streptomyces sp.'],1
+1bd61b5653d9fd4a94ff91c5b391b32c,1,GCF_008271805.1,['Streptomyces sp.'],1
+b1099eb416b50a02418f1aeafaee3a6c,1,GCF_008312835.1,['Streptomyces marokkonensis'],1
+d9fa72f6b0752c10924e45dc66e5c1ef,1,GCF_008386495.1,['Streptomyces tailanensis'],1
+c821e3d6ff408fa5640ede84359a6d31,1,GCF_008632955.1,['Streptomyces tendae'],1
+4099daa06f99430f855391c2f540e5a0,1,GCF_008632955.1,['Streptomyces tendae'],1
+e09720568650d2fd616a5993615c515b,1,GCF_008632955.1,['Streptomyces tendae'],1
+6d8b7b9942c76e1031e85fda7e799c6a,1,GCF_008632955.1,['Streptomyces tendae'],1
+910da8718eed297aaf93bf59cc03107b,1,GCF_008632955.1,['Streptomyces tendae'],1
+5ed67fe85a66ebc5b731c71dbab492cd,1,GCF_008632955.1,['Streptomyces tendae'],1
+b42035b2bcff36a849c3f637e7b9a274,1,GCF_008634015.1,"['Streptomyces filamentosus', 'Streptomyces filamentosus']",1
+670051507137b1f72d277b762babfbd7,1,GCF_008634015.1,['Streptomyces filamentosus'],1
+10abd5b02bc3787ca294c93602085cc6,2,"GCF_008634015.1,GCF_014654895.1","['Streptomyces filamentosus', 'Streptomyces filamentosus', 'Streptomyces filamentosus', 'Streptomyces filamentosus']",1
+ce05beced726d9f312452bcbd8c47992,1,GCF_008634015.1,['Streptomyces filamentosus'],1
+92c29266f4de1636d0651aad51ed0e39,2,"GCF_008634015.1,GCF_014654895.1","['Streptomyces filamentosus', 'Streptomyces filamentosus', 'Streptomyces filamentosus', 'Streptomyces filamentosus', 'Streptomyces filamentosus', 'Streptomyces filamentosus', 'Streptomyces filamentosus', 'Streptomyces filamentosus']",1
+76fd5e66287175a525ff921be2434298,1,GCF_008634025.1,['Streptomyces albofaciens'],1
+52055aee6c7619ae515334b8d198fbba,1,GCF_008634025.1,"['Streptomyces albofaciens', 'Streptomyces albofaciens', 'Streptomyces albofaciens']",1
+327593b6c9a226a79b6e5091a555c5f1,1,GCF_008634025.1,['Streptomyces albofaciens'],1
+fb87aa1179825741eff911ebee96745c,1,GCF_008634025.1,['Streptomyces albofaciens'],1
+91f7f90fc5ca02418da91f4cb46ca9f7,1,GCF_008634025.1,['Streptomyces albofaciens'],1
+595012ea277af239239859080d8619cd,1,GCF_008639045.1,['Streptomyces venezuelae'],1
+75d212fb3c9a1da817b53a1a296c3dbf,1,GCF_008642275.1,['Streptomyces venezuelae'],1
+bdefecdf9fae0cd0ba7c3c3e96165966,1,GCF_008642295.1,"['Streptomyces venezuelae', 'Streptomyces venezuelae', 'Streptomyces venezuelae', 'Streptomyces venezuelae', 'Streptomyces venezuelae']",1
+7da34e3ba85f58a4d4155680659b7711,1,GCF_008642295.1,['Streptomyces venezuelae'],1
+054985110636eaaa775ac17c809afa95,1,GCF_008642315.1,"['Streptomyces venezuelae', 'Streptomyces venezuelae', 'Streptomyces venezuelae', 'Streptomyces venezuelae', 'Streptomyces venezuelae', 'Streptomyces venezuelae']",1
+ac8d6c6eecc166ba92046a8c932c2f03,1,GCF_008642335.1,"['Streptomyces venezuelae', 'Streptomyces venezuelae']",1
+3e314b7ecffd58a63fa195ba6a42b0b7,1,GCF_008642335.1,"['Streptomyces venezuelae', 'Streptomyces venezuelae']",1
+81eb0a2466173886504ba375897d811f,1,GCF_008642335.1,['Streptomyces venezuelae'],1
+a830b3292cff68d8b907138607d81f74,1,GCF_008642335.1,['Streptomyces venezuelae'],1
+e973c0f997ed8b2e8747a7fc3111e671,2,"GCF_008642355.1,GCF_009865175.1","['Streptomyces venezuelae', 'Streptomyces venezuelae', 'Streptomyces venezuelae', 'Streptomyces venezuelae', 'Streptomyces venezuelae', 'Streptomyces venezuelae', 'Streptomyces sp.']",2
+b7ecbad6ce3ed34355ca2356a0dbf4b0,1,GCF_008642375.1,"['Streptomyces venezuelae', 'Streptomyces venezuelae', 'Streptomyces venezuelae']",1
+de334beed28fbc699856f0c0a2c94da2,1,GCF_008642375.1,['Streptomyces venezuelae'],1
+a0b18ebb7a5efc055b5b8270763fde22,1,GCF_008642375.1,['Streptomyces venezuelae'],1
+78611cbca2711232774a8c699a982bc6,1,GCF_008642375.1,['Streptomyces venezuelae'],1
+11f858e155bda23f0a70073c24220867,1,GCF_008642375.1,['Streptomyces venezuelae'],1
+2e78f9e28e74ee9a1be713aede7a9bda,1,GCF_008704425.1,['Streptomyces fradiae'],1
+b222b635fc426b71f8069a28bde2f589,1,GCF_008704445.1,['Streptomyces prasinus'],1
+841507ea318f9f56a4fd8d39902e1919,1,GCF_008704445.1,['Streptomyces prasinus'],1
+b2a2d12550ecce90d5c05664f5085d4d,1,GCF_008704445.1,['Streptomyces prasinus'],1
+3a88d9cdd589a6263737f5f811f41dd3,1,GCF_008704495.1,"['Streptomyces kanamyceticus', 'Streptomyces kanamyceticus', 'Streptomyces kanamyceticus']",1
+ad6f6665080315d1c66ede040bb9db2f,1,GCF_008704495.1,"['Streptomyces kanamyceticus', 'Streptomyces kanamyceticus', 'Streptomyces kanamyceticus']",1
+6301e56e9f2ce4f31fd9dc07d32aae8e,1,GCF_008704515.1,['Streptomyces viridosporus'],1
+17b2986d2739508fb53824b3c682c792,1,GCF_008704515.1,['Streptomyces viridosporus'],1
+e266b0496ab67503e2d88bacd10ae571,1,GCF_008704515.1,['Streptomyces viridosporus'],1
+88a91d580ae8860a99422307f68701e0,1,GCF_008704515.1,['Streptomyces viridosporus'],1
+998753558aa2930656153f3f4e7cd704,1,GCF_008704515.1,['Streptomyces viridosporus'],1
+bee128058aa2a2acbe52e1057532db3e,1,GCF_008704515.1,['Streptomyces viridosporus'],1
+5f62aafdd06fbf2b8de7a8a78481cabc,1,GCF_008704535.1,['Streptomyces subrutilus'],1
+8cbc3b90a433d0f92c32a20495def69f,2,"GCF_008704535.1,GCF_014650935.1","['Streptomyces subrutilus', 'Streptomyces subrutilus', 'Streptomyces subrutilus', 'Streptomyces subrutilus', 'Streptomyces subrutilus', 'Streptomyces subrutilus', 'Streptomyces subrutilus']",1
+fd5c9d1eb459cfcf112fa1df69bcf8cf,2,"GCF_008704555.1,GCF_014650375.1","['Streptomyces nitrosporeus', 'Streptomyces nitrosporeus', 'Streptomyces nitrosporeus', 'Streptomyces nitrosporeus', 'Streptomyces nitrosporeus', 'Streptomyces nitrosporeus', 'Streptomyces nitrosporeus']",1
+352ace937b55a31f24bb2f49c6a65860,1,GCF_008704575.1,"['Streptomyces galilaeus', 'Streptomyces galilaeus', 'Streptomyces galilaeus', 'Streptomyces galilaeus', 'Streptomyces galilaeus']",1
+f3a37836d5713adbf2f0754a08d406ef,6,"GCF_018530775.1,GCF_900105465.1,GCF_014650315.1,GCF_900105275.1,GCF_008704715.1,GCF_013375055.1","['Streptomyces chartreusis', 'Streptomyces chartreusis', 'Streptomyces chartreusis', 'Streptomyces chartreusis', 'Streptomyces chartreusis', 'Streptomyces chartreusis', 'Streptomyces chartreusis', 'Streptomyces chartreusis', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",2
+e066d9465637b3b18a1d59e07bbfffbd,1,GCF_008704795.1,['Streptomyces spectabilis'],1
+602e8f895219068ccff8bfbdcf000889,1,GCF_008704795.1,['Streptomyces spectabilis'],1
+9164f8061b41c46cd989024691569b01,1,GCF_008704855.1,"['Streptomyces platensis', 'Streptomyces platensis']",1
+312b9a0f736107c74cb5314093b67290,2,"GCF_009811575.1,GCF_008704855.1","['Streptomyces platensis', 'Streptomyces platensis', 'Streptomyces platensis', 'Streptomyces platensis', 'Streptomyces glebosus', 'Streptomyces glebosus', 'Streptomyces glebosus', 'Streptomyces glebosus', 'Streptomyces glebosus', 'Streptomyces glebosus', 'Streptomyces glebosus']",2
+2f73d0526850c68ee1dc448aa8814dfa,3,"GCF_009811555.1,GCF_012273495.1,GCF_008704855.1","['Streptomyces platensis', 'Streptomyces caniferus', 'Streptomyces caniferus', 'Streptomyces caniferus', 'Streptomyces caniferus', 'Streptomyces caniferus', 'Streptomyces caniferus', 'Streptomyces caniferus', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",3
+0264276d38d2f639dfef901935eaf8a2,1,GCF_008704935.1,['Streptomyces vinaceus'],1
+2f6c8a58e7b5eb556315ce512c3b181d,3,"GCF_014205035.1,GCF_008704995.1,GCF_017352335.1","['Streptomyces nodosus', 'Streptomyces nodosus', 'Streptomyces nodosus']",1
+8f750199934dd34fe462a7b205e39981,1,GCF_008705135.1,['Streptomyces coeruleorubidus'],1
+f4b5053fb01b32ea599ecb79402898bb,1,GCF_008705135.1,['Streptomyces coeruleorubidus'],1
+a9786f6bfda92be2bd9fb8810474d208,1,GCF_008705135.1,"['Streptomyces coeruleorubidus', 'Streptomyces coeruleorubidus']",1
+2235f4bd5195d45e8d1987a7decdc7d9,1,GCF_008705135.1,['Streptomyces coeruleorubidus'],1
+f1eb397642b4b7a1cef136ad479c20ad,1,GCF_008705135.1,['Streptomyces coeruleorubidus'],1
+0ac33f2621a11252bb5d7dc2102c4ab6,1,GCF_008806595.1,['Streptomyces sp.'],1
+658f0312f30d97c4423773524d8fd8b6,1,GCF_008905045.1,['Streptomyces albicerus'],1
+67cb33a6ffec409f172b81a0679b087a,3,"GCF_008931305.1,GCF_009862445.1,GCF_013317105.1","['Streptomyces coelicolor', 'Streptomyces sp.', 'Streptomyces coelicolor']",2
+a853187e50ca516911c972c945f40e8d,3,"GCF_008931305.1,GCF_009862445.1,GCF_013317105.1","['Streptomyces coelicolor', 'Streptomyces sp.', 'Streptomyces coelicolor']",2
+91c06d902501116b4d299063bb793503,1,GCF_008973465.1,['Streptomyces sp.'],1
+684b02d29dc88d0f0c815c4434083a08,1,GCF_008973465.1,['Streptomyces sp.'],1
+1059194e3bb1d86e325ec075b2624d41,1,GCF_008973465.1,['Streptomyces sp.'],1
+05723a76f1e9bd9d291a98d4735a6dc7,1,GCF_008973465.1,['Streptomyces sp.'],1
+8549b7f19135248daa84e68e25f9a371,1,GCF_008973465.1,['Streptomyces sp.'],1
+89b23c364e465cf0f2d09a9567890b2a,1,GCF_008973465.1,['Streptomyces sp.'],1
+636055332c5356e2282d1f3211409aca,1,GCF_008974245.1,['Streptomyces abyssomicinicus'],1
+0b14c75dfcdfa2b722dddc302ed87214,1,GCF_009184865.1,"['Streptomyces phaeolivaceus', 'Streptomyces phaeolivaceus', 'Streptomyces phaeolivaceus', 'Streptomyces phaeolivaceus', 'Streptomyces phaeolivaceus']",1
+f5316ab66952c20a6803258d85aef7f4,1,GCF_009184865.1,['Streptomyces phaeolivaceus'],1
+bffa8ad02079498872c66510b939d367,1,GCF_009296025.1,"['Streptomyces tsukubensis', 'Streptomyces tsukubensis']",1
+aa6c52b66ca1f2d44c2de1a4cb43a6c3,1,GCF_009377185.1,['Streptomyces spongiae'],1
+acc757e4ff8b853d5960f34ae1eb21a8,1,GCF_009495655.1,['Streptomyces sp.'],1
+2922648337b1505d59a3628185a8a419,1,GCF_009498275.1,"['Streptomyces fagopyri', 'Streptomyces fagopyri', 'Streptomyces fagopyri']",1
+b9413e20c926c3ba9f7885e30ecd7a1a,1,GCF_009498275.1,['Streptomyces fagopyri'],1
+9e1b06187d737927733fa314d25c2b1e,1,GCF_009498275.1,['Streptomyces fagopyri'],1
+639c4f27296f5e71644c5a0952585e97,1,GCF_009498275.1,['Streptomyces fagopyri'],1
+6c83996a3db34518ac48327ab58c116e,1,GCF_009569385.1,"['Streptomyces kaniharaensis', 'Streptomyces kaniharaensis', 'Streptomyces kaniharaensis', 'Streptomyces kaniharaensis', 'Streptomyces kaniharaensis', 'Streptomyces kaniharaensis', 'Streptomyces kaniharaensis', 'Streptomyces kaniharaensis']",1
+ba7573f45217bd41fd88065dde09bd99,1,GCF_009569385.1,['Streptomyces kaniharaensis'],1
+562beabff3cd08b8e0e2bac3d51e73ed,1,GCF_009569385.1,['Streptomyces kaniharaensis'],1
+e88739fbd278ab4924d5f12d3fc604f0,1,GCF_009600885.1,['Streptomyces jumonjinensis'],1
+34542b6834c0cf42885f8f990a202142,1,GCF_009600895.1,['Streptomyces katsurahamanus'],1
+59b9f0f72dcead938457ce78d350ab48,1,GCF_009604385.1,['Streptomyces sp.'],1
+79cbab5eae01749fc39abbb86598f2b2,1,GCF_009604455.1,['Streptomyces sp.'],1
+55d6e0923493cfb32f46f1bc2d182996,1,GCF_009650765.1,['Streptomyces sp.'],1
+10aa7351ba741910078c386ae9ef28f8,1,GCF_009650765.1,"['Streptomyces sp.', 'Streptomyces sp.']",1
+25ed38269d37e22e63a3d518ea1c916f,2,"GCF_009862625.1,GCF_009650765.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+c37856d294e655d07409830a0f7aee96,1,GCF_009709575.1,"['Streptomyces taklimakanensis', 'Streptomyces taklimakanensis', 'Streptomyces taklimakanensis']",1
+5aa278612ce896eeb6d109b033ef25bd,1,GCF_009709575.1,"['Streptomyces taklimakanensis', 'Streptomyces taklimakanensis']",1
+c87f3da75ea02e0cd6f54661c1fc3897,1,GCF_009709575.1,['Streptomyces taklimakanensis'],1
+5a37419866beb3d2347c84d0936d4e04,1,GCF_009739905.1,"['Streptomyces ficellus', 'Streptomyces ficellus', 'Streptomyces ficellus', 'Streptomyces ficellus', 'Streptomyces ficellus']",1
+15bcc761aef1da8bdf315c3ad5460196,1,GCF_009739905.1,['Streptomyces ficellus'],1
+37f5f0a0875d8d9ab1f6e2428a4b10f1,1,GCF_009769735.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+f3053eec201c17d70ad88472d660ed72,1,GCF_009789635.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+bd82cc55478f74b79cb663f5569dfc00,1,GCF_009796285.1,"['Streptomyces broussonetiae', 'Streptomyces broussonetiae', 'Streptomyces broussonetiae', 'Streptomyces broussonetiae', 'Streptomyces broussonetiae', 'Streptomyces broussonetiae']",1
+12fc5825c22a3b92a8b10ab5b63e29e6,1,GCF_009827025.1,['Streptomyces sp.'],1
+9385a8a4b03d5edbe0978d4650b49c2b,1,GCF_009829585.1,['Streptomyces tendae'],1
+ce695d08d8867e638c82f3a1f03f8a87,1,GCF_009832925.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+752820bb1b9e05dc5bacb13c96d7536e,1,GCF_009832925.1,['Streptomyces sp.'],1
+79bde4ad673a52ec123f2c712afe6509,1,GCF_009834105.1,"['Streptomyces sp.', 'Streptomyces sp.']",1
+7e6b679b2cf7dc8257c7174a6392a7d4,1,GCF_009834105.1,['Streptomyces sp.'],1
+f06504e3b6a06808dbdad9ab16b0b245,1,GCF_009834125.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+f83006709b72b9164c1961aac58131be,1,GCF_009834125.1,['Streptomyces sp.'],1
+46afc4921b9a9cf0670812ac8e38e77e,1,GCF_009834145.1,['Streptomyces sp.'],1
+852f3452fd978cbe33e8a69140cf9ed5,1,GCF_009834145.1,['Streptomyces sp.'],1
+d124515bf738221c09d076f24a10a8f5,1,GCF_009852415.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+16e3ac07cd0800181578fbf06a3a5849,1,GCF_009852415.1,['Streptomyces sp.'],1
+377d896c5aaa02360e943ef032038b8c,1,GCF_009857135.1,['Streptomyces sp.'],1
+e813111a8949d7c6e0ae5ceb85563594,1,GCF_009857135.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+3ec6ee2685a25f808a6c38655c3d05bb,1,GCF_009862365.1,['Streptomyces sp.'],1
+6c2de2ea25446c5f0ea64ebd336244de,1,GCF_009862365.1,['Streptomyces sp.'],1
+584f1c44f67b0da6edce44312ab6cd59,1,GCF_009862635.1,['Streptomyces sp.'],1
+5993b124153311c7031c05991c19e59d,2,"GCF_019090105.1,GCF_009863035.1","['Streptomyces sp.', 'Streptomyces sp.']",1
+f70697982ae90b981124694b05e34f6a,2,"GCF_009863045.1,GCF_900091855.1","['Streptomyces sp.', 'Streptomyces sp.']",1
+b92a4fd3631067b7e2bc9f828e65d45e,2,"GCF_009863095.1,GCF_900091845.1","['Streptomyces sp.', 'Streptomyces sp.']",1
+abb201e31e5313bb846ccc1c4b4adcfa,2,"GCF_009863125.1,GCF_900091725.1","['Streptomyces sp.', 'Streptomyces sp.']",1
+234c35d0b68f1ff6325e4cadde2ee0e9,1,GCF_009865205.1,['Streptomyces sp.'],1
+df2eb786706efb351879cf4e4049327b,1,GCF_009865215.1,['Streptomyces sp.'],1
+4bac1eec3c111a6f311a76c5713bb67c,1,GCF_009865585.1,['Streptomyces sp.'],1
+316411a870dab9a60a42748212db50f8,1,GCF_009867075.1,['Streptomyces sp.'],1
+4c696f08a8801f5df5a6369d4e4bd780,1,GCF_009867075.1,['Streptomyces sp.'],1
+cc5c50bc5dfc1ebb0241b2b9c39b0a9b,1,GCF_009873275.1,['Streptomyces sp.'],1
+beb28110ffc01059008c94ee0dc87412,1,GCF_009916105.1,['Streptomyces sp.'],1
+44b28e03b26d6d886713c3145d149783,1,GCF_009936315.1,['Streptomyces antimycoticus'],1
+8d71231b1f9bd85d622b67f9a16079b3,1,GCF_009936315.1,['Streptomyces antimycoticus'],1
+fc6e3e1c81fdb78da3760a8e45161419,1,GCF_009936315.1,['Streptomyces antimycoticus'],1
+3ff7f92365ec1e269b1ed6a3bb860dab,1,GCF_010384365.1,"['Streptomyces sp.', 'Streptomyces sp.']",1
+64079b120abda3152fe0512ad1b28230,1,GCF_010523235.1,['Streptomyces sp.'],1
+0550cd064798f9d56af6dce3d4de9f6d,1,GCF_010523235.1,['Streptomyces sp.'],1
+86b583bd0b5448a90cda471513fee886,1,GCF_010523235.1,['Streptomyces sp.'],1
+64a8f2bf04dac697b0b3c1062664e52c,2,"GCF_010548275.1,GCF_010550245.1","['Streptomyces sp.', 'Streptomyces sp.']",1
+e0ef4ddc311bcf5275083560c2e6533a,1,GCF_010669165.1,"['Streptomyces aureoverticillatus', 'Streptomyces aureoverticillatus', 'Streptomyces aureoverticillatus', 'Streptomyces aureoverticillatus']",1
+71c3287b1e6343acc5607bcac3ccadc0,1,GCF_010669165.1,"['Streptomyces aureoverticillatus', 'Streptomyces aureoverticillatus']",1
+9c4797e1aa3e30b28e69bc57bffd645d,1,GCF_011006355.1,['Streptomyces albus'],1
+a0cc98d5007c77cbfe8786f316dbe60e,1,GCF_011006355.1,['Streptomyces albus'],1
+1e164b0db7949e087639062e36971091,1,GCF_011006355.1,['Streptomyces albus'],1
+84ee60f6953194110cf27e1946e7f463,1,GCF_011006355.1,['Streptomyces albus'],1
+880a80782c3f03aa9ddf84c78d269548,1,GCF_011006355.1,['Streptomyces albus'],1
+d92d013e244f6841df273f142003fd01,1,GCF_011170105.1,"['Streptomyces rutgersensis', 'Streptomyces rutgersensis']",1
+3f5300ea0e3721cd94134ab6521fa3ed,1,GCF_011170105.1,['Streptomyces rutgersensis'],1
+738156f60eb49bc63f3d18b66243c530,1,GCF_011170105.1,['Streptomyces rutgersensis'],1
+68689313c39155f32f826cf0cfc9fcd5,3,"GCF_900460115.1,GCF_011170125.1,GCF_014216335.1","['Streptomyces diastaticus', 'Streptomyces rutgersensis', 'Streptomyces griseus']",3
+24d007e01d2a2bbf9ae1e8a030151dca,1,GCF_011170125.1,['Streptomyces diastaticus'],1
+c62e926ef351d45eb38de80393b185ef,2,"GCF_011170145.1,GCF_900460115.1","['Streptomyces gougerotii', 'Streptomyces griseus', 'Streptomyces griseus']",2
+3b09257bb60423293e53d8805bf8a3fc,1,GCF_011193355.1,['Streptomyces sp.'],1
+d1e1c0b07f1f93731e6d520cda140dea,1,GCF_011290345.1,['Streptomyces sp.'],1
+68e8cb7b784e2a09c405c4cbb4aa28fa,1,GCF_011421595.1,['Streptomyces sp.'],1
+9e7bcd1c6556c9ba2b94053ce32db02c,1,GCF_011694815.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+1d7d3ed75deeab6565312bd3203d5265,1,GCF_011751035.2,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+2f1edbde6947486dfb57e38f7b6a1617,1,GCF_011751035.2,['Streptomyces sp.'],1
+88ceaa492299476f898696e470ae97ae,1,GCF_011751035.2,"['Streptomyces sp.', 'Streptomyces sp.']",1
+e107a394d6440755753e7969799af3b9,1,GCF_011751035.2,['Streptomyces sp.'],1
+352eef97d475e6d43204f080d40c71d8,1,GCF_011800555.1,['Streptomyces malaysiensis'],1
+b0caa4daefe20275781deedada7f7ad9,1,GCF_011800555.1,['Streptomyces malaysiensis'],1
+e9ee5ab9418b67d10f7f49167dd83e94,1,GCF_011820545.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+0f9651e5250aed707e3db86e118cfd1f,1,GCF_011820545.1,"['Streptomyces sp.', 'Streptomyces sp.']",1
+7131721ae8f1650b9f214adab1653f07,1,GCF_012033735.1,['Streptomyces lonarensis'],1
+cf6420ce7c724e13c5ef76e393e0d66b,1,GCF_012033785.1,['Streptomyces bohaiensis'],1
+67f2929271dc9f752f8b2fa063636b48,1,GCF_012034175.1,['Streptomyces sp.'],1
+093ed616cd0ea254d48aaa91380b5d27,1,GCF_012034385.1,['Streptomyces sp.'],1
+7506b2f66c0c12d28581fc06dac83034,1,GCF_012034935.1,['Streptomyces sp.'],1
+a2160fcef1ee1d4b2b84d3ad540dfb66,1,GCF_012044595.1,['Streptomyces antibioticus'],1
+bab6c2ec6cf3fa6483ff7fcaf045a802,1,GCF_012044595.1,['Streptomyces antibioticus'],1
+11372b541b9be13b3817b0b2eb982052,1,GCF_012044595.1,['Streptomyces antibioticus'],1
+efd9bebed4ebc166ad00903ea451ab89,1,GCF_012044595.1,['Streptomyces antibioticus'],1
+ba357ba55cfad87605235e3d0846b478,1,GCF_012044595.1,['Streptomyces antibioticus'],1
+4c26dac7c8a21b35b0749d75353344a0,1,GCF_012044595.1,['Streptomyces antibioticus'],1
+1bdf56d3f5311dd0c7853d2e84d5972e,1,GCF_012273495.1,['Streptomyces sp.'],1
+5cbc67b5ae7d8242d046b833c94e1d8c,1,GCF_012273495.1,['Streptomyces sp.'],1
+06ccdac00fbb850029f9fe20fbf46b06,1,GCF_012273515.1,"['Streptomyces sp.', 'Streptomyces sp.']",1
+ea13d3558c3e4eba9face78dcbbb91d6,1,GCF_012273515.1,['Streptomyces sp.'],1
+630d126f575284ced6ce18ed7fa78233,1,GCF_012273515.1,['Streptomyces sp.'],1
+b296afb9e5530a3b9885abe61e799fb1,1,GCF_012273515.1,['Streptomyces sp.'],1
+e334da3954bdd00ca89193eb60cc6b7b,1,GCF_012273515.1,['Streptomyces sp.'],1
+5fc97ddb6f36d53e9dbae734c2df0419,1,GCF_012273535.1,['Streptomyces sp.'],1
+38300b54d0bd3fd15294dea35a5541af,1,GCF_012273535.1,['Streptomyces sp.'],1
+3731c409d3f7ec1977274e226060e6b0,1,GCF_012726235.1,['Streptomyces sp.'],1
+ad9453834fdccf7c0fd2072d16e236eb,2,"GCF_012927225.1,GCF_012927245.1","['Streptomyces sp.', 'Streptomyces sp.']",1
+d1487dca39b7b4afd28fe74ccc3ccbeb,1,GCF_013009255.1,['Streptomyces sp.'],1
+fe61c720b334a528c982ac908228594d,1,GCF_013009255.1,['Streptomyces sp.'],1
+19988e07374f316c96a1f12fc14c2172,1,GCF_013009255.1,['Streptomyces sp.'],1
+610b92cf93d0ac58e7567b32ce446d68,1,GCF_013009255.1,['Streptomyces sp.'],1
+e2a30ca0d21b47d9033c67c7f0ba56e1,1,GCF_013009255.1,['Streptomyces sp.'],1
+c1e013b4fddfb577c90c1f43557c466e,1,GCF_013009255.1,['Streptomyces sp.'],1
+4f07c9438143c5536d67c6ffa2949628,1,GCF_013030945.1,['Streptomyces morookaense'],1
+073446a0e71f31736942031ce264930c,1,GCF_013046785.1,['Streptomyces sp.'],1
+3ff9ae5b02936a02cdb70f77f0ac7b01,1,GCF_013046785.1,['Streptomyces sp.'],1
+7b0c82c64ff470d0cfef8bfac5abfd97,1,GCF_013046785.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+4218a4c25107e0715b3be8e41006d8bb,1,GCF_013046785.1,['Streptomyces sp.'],1
+d0d681eca5693771579a53c02d8ab900,1,GCF_013085465.1,"['Streptomyces cacaoi', 'Streptomyces cacaoi', 'Streptomyces cacaoi', 'Streptomyces cacaoi', 'Streptomyces cacaoi']",1
+f971a53ffa6bda9384c3f3adc5388a4d,1,GCF_013085465.1,['Streptomyces cacaoi'],1
+b971276354f41220d1f44330380f73d1,2,"GCF_013167895.1,GCF_013409565.1","['Streptomyces fulvorobeus', 'Streptomyces fulvorobeus', 'Streptomyces fulvorobeus', 'Streptomyces fulvorobeus', 'Streptomyces fulvorobeus', 'Streptomyces fulvorobeus']",1
+c93220fe3378be404c906b5456dc233f,1,GCF_013302895.1,['Streptomyces albus'],1
+06ab1e746e9a2053e30bbd31db9532a4,9,"GCF_013358325.1,GCF_013358245.1,GCF_013358135.1,GCF_013358055.1,GCF_013358115.1,GCF_013358105.1,GCF_013358065.1,GCF_013358335.1,GCF_013358235.1","['Streptomyces lunaelactis', 'Streptomyces lunaelactis', 'Streptomyces lunaelactis', 'Streptomyces lunaelactis', 'Streptomyces lunaelactis', 'Streptomyces lunaelactis', 'Streptomyces lunaelactis', 'Streptomyces lunaelactis', 'Streptomyces lunaelactis']",1
+7a06bcb89915f3091d50e3bb2776c8c2,1,GCF_013363735.1,['Streptomyces sp.'],1
+1cfcf1f13e8bc673c78d174b384150b9,1,GCF_013364095.1,"['Streptomyces harbinensis', 'Streptomyces harbinensis', 'Streptomyces harbinensis', 'Streptomyces harbinensis', 'Streptomyces harbinensis']",1
+32c206c83779655400db4b20ea38809e,1,GCF_013364155.1,['Streptomyces sp.'],1
+704a81a2d2dfe297d9bec7220b30adf7,1,GCF_013364155.1,"['Streptomyces sp.', 'Streptomyces sp.']",1
+a298b3b2d74198969f3f2eb01aa61222,1,GCF_013364155.1,"['Streptomyces sp.', 'Streptomyces sp.']",1
+076a69288787b36469f3d83d3e5afff4,1,GCF_013364155.1,['Streptomyces sp.'],1
+e59e3f8b441ee8e55b1020ec499d605a,1,GCF_013364175.1,['Streptomyces sp.'],1
+1185d97be9debaf4a0cfad0f533310cf,1,GCF_013364175.1,['Streptomyces sp.'],1
+461795f6137d541459b7c14908dece5a,1,GCF_013364195.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+9f2724f92d23e95a0b9e0a65f967499b,1,GCF_013364195.1,['Streptomyces sp.'],1
+61574a8ae994c1a53679534a8432b7ac,3,"GCF_013364335.1,GCF_014284425.1,GCF_014295035.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces buecherae', 'Streptomyces buecherae', 'Streptomyces buecherae', 'Streptomyces buecherae']",2
+e41dee43f0653c948c673ff4be1b602e,1,GCF_013364375.1,['Streptomyces sp.'],1
+16dad32fc839a505ca3a69331d75aba8,1,GCF_013364375.1,['Streptomyces sp.'],1
+0f215bbf0b835b3e3a9df8e0d2fd7270,1,GCF_013394065.1,"['Streptomyces rectiverticillatus', 'Streptomyces rectiverticillatus', 'Streptomyces rectiverticillatus']",1
+e70259a08a269e37fd7996a58d153644,1,GCF_013394065.1,"['Streptomyces rectiverticillatus', 'Streptomyces rectiverticillatus', 'Streptomyces rectiverticillatus']",1
+3ed4570411a0419e95ee41832c09be99,1,GCF_013394065.1,['Streptomyces rectiverticillatus'],1
+d0735e55590fcbb28c14d88305f07b98,1,GCF_013401535.1,['Streptomyces sp.'],1
+9270a249b89162ec60dced0ef0773bb9,1,GCF_013401535.1,['Streptomyces sp.'],1
+8acc1776e4f1d445efdde4766f2c60d4,1,GCF_013401535.1,['Streptomyces sp.'],1
+fc9f818366cf4536b2e0c2e411557968,1,GCF_013401535.1,['Streptomyces sp.'],1
+8aa23a42a9980e040c855b515c928171,1,GCF_013401535.1,['Streptomyces sp.'],1
+d4dc58bf3066743eae5363a66bdfc98a,1,GCF_013401535.1,['Streptomyces sp.'],1
+dfc1165ec2f764edb072f759c0e2020e,1,GCF_013414305.1,['Streptomyces sp.'],1
+ca81983f9fcaf0059f71e259e2224b44,1,GCF_013414305.1,['Streptomyces sp.'],1
+45177ad694f1851588c466d20f40e56e,1,GCF_013414305.1,['Streptomyces sp.'],1
+bdbc88149620827d31f286eff6e0025e,1,GCF_013414305.1,['Streptomyces sp.'],1
+352567b009ee92e4fe8f1cfa70c74a27,1,GCF_013414305.1,['Streptomyces sp.'],1
+d34490c59b07aca1efa1862160c6f276,1,GCF_013414305.1,['Streptomyces sp.'],1
+1f3315d0b4dd038cf764c2c282a68cb5,1,GCF_013450295.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+ef755c84f62d42dfc4fe3c99bee2ae46,1,GCF_013693715.1,['Streptomyces albidoflavus'],1
+fbe6b17e141382610938b7878223ef01,1,GCF_013778455.1,['Streptomyces himalayensis'],1
+c4f4d3aee33f0363a485078e4df2e52e,1,GCF_013870495.1,['Streptomyces sp.'],1
+a8b398225b5d97668411bde938b1b47c,1,GCF_013870515.1,['Streptomyces albidus'],1
+19cce469aa890aef9be76d02f7133ddc,1,GCF_013870535.1,['Streptomyces sp.'],1
+8f5b6632ddbb6f6c7a3b57160095d169,1,GCF_013870595.1,['Streptomyces sp.'],1
+9abf391b8afc1a1e1162b4cb52a08d8a,1,GCF_013912435.1,['Streptomyces himalayensis'],1
+83e3768e16747c4c54fc24cecf1195f4,1,GCF_014070435.1,['Streptomyces pristinaespiralis'],1
+eaef0d0b7f7094b8b856ee0e2c55ee66,1,GCF_014076605.1,['Streptomyces sp.'],1
+4d041dc5af6e9a38f70f13e0645a8bac,1,GCF_014083985.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+881d227b7709525aa7517e409a8b60f9,1,GCF_014138545.1,"['Streptomyces aureorectus', 'Streptomyces aureorectus']",1
+bca1244461592a0fcd0c9b78b7cd6fe9,1,GCF_014138545.1,"['Streptomyces aureorectus', 'Streptomyces aureorectus', 'Streptomyces aureorectus']",1
+f006165f4f1dbbb1cf7627799f5048db,1,GCF_014138545.1,['Streptomyces aureorectus'],1
+4b7d1aaa7e3a8fa19e1ea57956acaec6,1,GCF_014141525.1,['Streptomyces calidiresistens'],1
+32f6de533ee331fa3d2be85be3ef792a,1,GCF_014141535.1,['Streptomyces alkaliphilus'],1
+9cbebf65f4746eb7b693dcea8533ff70,1,GCF_014156695.1,['Streptomyces durbertensis'],1
+3246fac2a5fd34b03bd06a150b18e4bc,2,"GCF_014191845.1,GCF_014650255.1","['Streptomyces violarus', 'Streptomyces violarus']",1
+e020b7472f510e27b7f4e37d385d9c76,1,GCF_014202475.1,['Streptomyces paradoxus'],1
+b04b157e879ea1f96d043b1a2e04fb3e,2,"GCF_014650615.1,GCF_014203495.1","['Streptomyces albaduncus', 'Streptomyces albaduncus']",1
+50c0475659507aecea237a22584b3041,2,"GCF_014649635.1,GCF_014203535.1","['Streptomyces griseostramineus', 'Streptomyces griseostramineus']",1
+988acb55824311f755a7606a97751391,1,GCF_014203545.1,['Streptomyces netropsis'],1
+89b2e2ad6903a3bffdcedb33d63d40f7,1,GCF_014203595.1,['Streptomyces echinatus'],1
+45d785d5b9e75a20ca65967193593aa1,1,GCF_014203645.1,['Streptomyces zagrosensis'],1
+47185d7c8410331469c337c7ac1b3264,1,GCF_014203895.1,['Streptomyces sp.'],1
+45c6c180bcd68d85e690c6b6aeace806,1,GCF_014205055.1,"['Streptomyces luteogriseus', 'Streptomyces luteogriseus', 'Streptomyces luteogriseus', 'Streptomyces luteogriseus', 'Streptomyces luteogriseus']",1
+6cce2cb116c57665dee6f00487cd1445,2,"GCF_014205055.1,GCF_900215615.1","['Streptomyces luteogriseus', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",2
+e4942ac02c800fb5eba07602c83d3d60,2,"GCF_014205255.1,GCF_014650295.1","['Streptomyces caelestis', 'Streptomyces caelestis', 'Streptomyces caelestis', 'Streptomyces caelestis', 'Streptomyces caelestis', 'Streptomyces caelestis', 'Streptomyces caelestis']",1
+05ec50fedc12df6c4602f70df5e24a6f,1,GCF_014207295.1,['Streptomyces sp.'],1
+9e7c5e4f2e33a72c15d1ff4aa2654ab4,1,GCF_014207445.1,['Streptomyces candidus'],1
+ffe9fa9f27195fcd8c5d5b127dbf9feb,1,GCF_014216315.1,"['Streptomyces finlayi', 'Streptomyces finlayi', 'Streptomyces finlayi', 'Streptomyces finlayi', 'Streptomyces finlayi', 'Streptomyces finlayi']",1
+1a46fda48bd12e02771637dbd83da815,2,"GCF_900460115.1,GCF_014216335.1","['Streptomyces rutgersensis', 'Streptomyces rutgersensis', 'Streptomyces griseus', 'Streptomyces griseus']",2
+14b22f08861abf65029a74c4aa6851f6,2,"GCF_014252945.1,GCF_902506575.1","['Streptomyces mexicanus', 'Streptomyces mexicanus', 'Streptomyces mexicanus', 'Streptomyces mexicanus', 'Streptomyces mexicanus']",1
+2b23d1e22fc55788fd109f3b74879d08,1,GCF_014252945.1,['Streptomyces mexicanus'],1
+4dfaeca7db27e9a566d70c44ac2b8f35,1,GCF_014252945.1,['Streptomyces mexicanus'],1
+4d410e66c49709724be6c936b9c77deb,1,GCF_014253015.1,['Streptomyces sp.'],1
+0af159736db69e528fb347632689c13d,1,GCF_014257025.1,['Streptomyces sp.'],1
+692bd1642201268ea535538e789369a9,2,"GCF_018310575.1,GCF_014280945.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+908b96a373b53a0b8427d9cdaee9bf79,1,GCF_014295035.1,['Streptomyces buecherae'],1
+e84aaed02f5d2b40fd0b99c16737a325,1,GCF_014295035.1,"['Streptomyces buecherae', 'Streptomyces buecherae']",1
+2c83f176255d17473f1c8222f4cbea6e,1,GCF_014489615.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+898e7c357ffc0d8c5dcedc0bbf5eaa8e,1,GCF_014489635.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+479991d78bf59252149f8aa3f7ca8bb9,1,GCF_014489635.1,['Streptomyces sp.'],1
+9a7bebf5972244f640a58d5b0dc224aa,1,GCF_014493765.1,['Streptomyces sp.'],1
+74d3ee1a27d7185a7a75e26d4612cbb3,1,GCF_014493765.1,['Streptomyces sp.'],1
+d3c418e1d96e36152268eaa927138886,1,GCF_014495685.1,['Streptomyces sp.'],1
+a11201478cb9663314c561373c48f067,1,GCF_014495705.1,['Streptomyces sp.'],1
+ec85a0707b191545effdf2f11afb5a77,1,GCF_014495705.1,['Streptomyces sp.'],1
+efd126e2536ce7d8666f39259a82c1ab,1,GCF_014495705.1,['Streptomyces sp.'],1
+d336c3294423444bd099912e0dfc9156,1,GCF_014495705.1,['Streptomyces sp.'],1
+f8f2d83c2acf6e68115ce0ebde38b586,1,GCF_014495705.1,['Streptomyces sp.'],1
+e713306d909caf5ad47de4a1af2760f1,1,GCF_014596445.1,['Streptomyces sp.'],1
+bb61d5eaee11d793e0a4beff2f454104,2,"GCF_014596525.1,GCF_014596505.1","['Streptomyces sp.', 'Streptomyces sp.']",1
+6dee0b1069aaafec5f8efb796494e70f,1,GCF_014596915.1,['Streptomyces sp.'],1
+edc42de343cde2e48c07a2083250d17c,1,GCF_014621695.1,['Streptomyces sp.'],1
+fb588b5d1bf0099f6c3623f57ce672dd,1,GCF_014621695.1,"['Streptomyces sp.', 'Streptomyces sp.']",1
+5bd7ef029a1768366c56d30ea5192d14,1,GCF_014621695.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+9949a80b726a1c7c718cbfb1f615e67d,1,GCF_014621695.1,['Streptomyces sp.'],1
+ae5461ccb05813f6e4396e2f9cda3271,1,GCF_014645895.1,['Streptomyces daqingensis'],1
+49dd6976afbf097eebc759ee696487e8,1,GCF_014646055.1,['Streptomyces tyrosinilyticus'],1
+67e73079b84151786e58c94960e3ebbe,1,GCF_014646275.1,['Streptomyces kronopolitis'],1
+b6d2e5f5df250d67e9eb436b7ecd9f6c,1,GCF_014648635.1,['Streptomyces cinerochromogenes'],1
+5a2895b7984e8f0eae33e526d20d8119,1,GCF_014648695.1,['Streptomyces albospinus'],1
+b3c9b326ef7583f73c8145b5fbf6d0b4,1,GCF_014648815.1,['Streptomyces flaveolus'],1
+ba3dd6fe36727982a576d4d96a91ca18,1,GCF_014649135.1,['Streptomyces niveoruber'],1
+5b54baa0e2c02ff20f3d13d165c0d361,1,GCF_014649255.1,['Streptomyces thermoviolaceus'],1
+d0d6cdf03db217372491be9449c3acce,1,GCF_014649335.1,['Streptomyces roseolilacinus'],1
+65fcb2a2dd884656cd392f530a4d2472,1,GCF_014649375.1,['Streptomyces aurantiogriseus'],1
+fa114f30219ca698719057b86e5f80d7,1,GCF_014649435.1,['Streptomyces chromofuscus'],1
+adf00288a9bcd9bcdc856047d6c6abc8,1,GCF_014649435.1,['Streptomyces chromofuscus'],1
+8b0406a6bb6c574ecf46a3f42ee12848,1,GCF_014649475.1,['Streptomyces daghestanicus'],1
+fe25ee0ddbba513d70145e895e160438,1,GCF_014649515.1,['Streptomyces flavoviridis'],1
+c03cfd4a51c017c369fa639b975c0a5c,1,GCF_014649535.1,['Streptomyces gelaticus'],1
+8505a1898ec2bbe9d5e8d86861a4486f,1,GCF_014649595.1,['Streptomyces griseomycini'],1
+132c282a6f6d15fa58c406cfec59bfa0,1,GCF_014649655.1,['Streptomyces humidus'],1
+d0839a0cca1a68ca3fba595e9b674190,1,GCF_014649675.1,['Streptomyces janthinus'],1
+a80a000bcffb8de9dbe3460bd23c619e,1,GCF_014649795.1,['Streptomyces melanogenes'],1
+e951206b843f0b40784a56df60af012d,1,GCF_014649895.1,['Streptomyces rubiginosus'],1
+a7054f76ecd2532a10c3c75aada29a56,2,"GCF_014649915.1,GCF_014748315.1","['Streptomyces toxytricini', 'Streptomyces sp.']",2
+b5a3beb41d31dc8f4b84cc501d3f1be3,1,GCF_014649995.1,['Streptomyces griseoflavus'],1
+da6385ecae9adb8d62c6d4aba29472f7,1,GCF_014650035.1,['Streptomyces lucensis'],1
+a4026578deef4dd01ca0c50c2c73cd30,1,GCF_014650075.1,['Streptomyces microflavus'],1
+a5829e6a03d36d2e5046ba2f5a03deb4,1,GCF_014650075.1,['Streptomyces microflavus'],1
+8402cc9a6de02186322ec00686b59aec,1,GCF_014650095.1,['Streptomyces nashvillensis'],1
+84e9c7ec360bf1f2406310f5585c41dd,1,GCF_014650115.1,['Streptomyces olivaceoviridis'],1
+272d0ff212a16740bf55d5c2f34565a7,1,GCF_014650155.1,['Streptomyces purpurascens'],1
+41bb38e888e04fc2af9b0704004936bb,1,GCF_014650175.1,['Streptomyces termitum'],1
+161d12bf31353f192f3d1878fc3e49c7,1,GCF_014650195.1,['Streptomyces umbrinus'],1
+b69abb28987a6cf5c4cb576fa3b4f49e,1,GCF_014650275.1,['Streptomyces mirabilis'],1
+5fa60d070dbf3f2640cd3deb94521123,1,GCF_014650355.1,['Streptomyces michiganensis'],1
+191d3297adc1165765c8f4def37b43ab,1,GCF_014650395.1,['Streptomyces pluricolorescens'],1
+6a2e582bd575f1235668f92364462e0e,1,GCF_014650455.1,['Streptomyces xanthochromogenes'],1
+c2f440c434aac73012eb6286ca123764,1,GCF_014650495.1,['Streptomyces cinnamoneus'],1
+bd0119c824c00e9041b4fedfc599616b,1,GCF_014650535.1,['Streptomyces galbus'],1
+bfceec8664618cbb943063e4683e2736,1,GCF_014650695.1,['Streptomyces avidinii'],1
+3b748729cfe3f3d9c02ffa2a95d3f462,1,GCF_014650715.1,['Streptomyces bluensis'],1
+8649278ebd70a69c090bc90ba87a796e,1,GCF_014650735.1,['Streptomyces canarius'],1
+2e00d1f709fa63bddb3b2ccdb0bb23a4,1,GCF_014650775.1,['Streptomyces cirratus'],1
+c888a3d8d5e8a1203dc074260735aec2,1,GCF_014650795.1,['Streptomyces coelescens'],1
+e29b4d2545d8debde784309c0e8ab0d6,1,GCF_014650815.1,['Streptomyces flavofungini'],1
+431f6ffb178c3d21b7355cc6ea56ba82,1,GCF_014650835.1,['Streptomyces galilaeus'],1
+61304ce920f849a6b71300b44a8abc30,1,GCF_014650895.1,['Streptomyces omiyaensis'],1
+bafa240636ccd0fab084bb63532c936a,1,GCF_014650915.1,['Streptomyces poonensis'],1
+ca5e8129a77e6bf2b02cd31843cfbf2b,1,GCF_014650955.1,['Streptomyces tauricus'],1
+ec123975528df2c4f4a2ab1b3883e958,1,GCF_014650995.1,['Streptomyces viridiviolaceus'],1
+3b68c82f09a17aac7454f7b0c06c4cb3,1,GCF_014651015.1,['Streptomyces xantholiticus'],1
+50c7fba547b015caff80196ac003ef07,1,GCF_014651075.1,['Streptomyces djakartensis'],1
+472e8594491e382f1d5690b39289fa48,1,GCF_014651155.1,['Streptomyces anthocyanicus'],1
+62715ad51b325688a677eedb64165479,1,GCF_014653855.1,['Streptomyces capitiformicae'],1
+e404a4dcf14fb3d446a36624a11ba04b,1,GCF_014655295.1,['Streptomyces fumanus'],1
+c3ad522239cb7701e99ba0d2eddec00e,1,GCF_014656075.1,['Streptomyces hydrogenans'],1
+94baeb336297e4759d3b0bc525f5933d,1,GCF_014656095.1,['Streptomyces longispororuber'],1
+bc18b67940546827bcfff47060555b31,1,GCF_014656135.1,['Streptomyces thermodiastaticus'],1
+3ba504919bba6fba9c3579616b9cc09e,1,GCF_014656235.1,['Streptomyces glebosus'],1
+bfeaf81ae80435617354b2b43937a8c8,1,GCF_014656295.1,['Streptomyces sulfonofaciens'],1
+df9eb155eda7a8b748e3e314efd58a87,1,GCF_014701095.1,"['Streptomyces tuirus', 'Streptomyces tuirus', 'Streptomyces tuirus', 'Streptomyces tuirus', 'Streptomyces tuirus']",1
+c9bfd743c1834fa9e8c76e5f1d0f0540,1,GCF_014701095.1,['Streptomyces tuirus'],1
+903ef60c8547793a30fc60fb0ec80052,1,GCF_014701115.1,"['Streptomyces glomeroaurantiacus', 'Streptomyces glomeroaurantiacus', 'Streptomyces glomeroaurantiacus']",1
+1fea8f12e3d17a8e3c98650dcc4f640f,1,GCF_014701115.1,"['Streptomyces glomeroaurantiacus', 'Streptomyces glomeroaurantiacus', 'Streptomyces glomeroaurantiacus']",1
+c5d11b2f7b90c7505c8e29a5050a7aac,1,GCF_014748265.1,['Streptomyces sp.'],1
+aed329d95cfbecbf7571d152a303232a,1,GCF_014748315.1,['Streptomyces sp.'],1
+1c029bf59751df7a9d71622a60b50787,1,GCF_014779715.1,['Streptomyces chumphonensis'],1
+caa3facebf8c3e2e3adf28781c997cad,1,GCF_014905535.1,['Streptomyces sp.'],1
+917cf855a60f0da321d76fabdf106ab1,1,GCF_015160855.1,['Streptomyces ferrugineus'],1
+c84a7a15887aeb4c3398afd07819c07e,1,GCF_015160855.1,"['Streptomyces ferrugineus', 'Streptomyces ferrugineus', 'Streptomyces ferrugineus', 'Streptomyces ferrugineus', 'Streptomyces ferrugineus']",1
+e2c495ad483d853ca54c2c02b8d83b8b,1,GCF_015160875.1,['Streptomyces chromofuscus'],1
+43cc756d50455e6e2bdcb60fdfea1046,1,GCF_015160875.1,['Streptomyces chromofuscus'],1
+e2065f20399938845cd5b77773ef3ff9,1,GCF_015160875.1,['Streptomyces chromofuscus'],1
+d1f981b1e470a58d3ba06eefda0e12cb,1,GCF_015160875.1,['Streptomyces chromofuscus'],1
+934586dafc1ac3e7a36899e8cd96b007,1,GCF_015160875.1,['Streptomyces chromofuscus'],1
+36be5045c2935a8ffea418a24e42a620,1,GCF_015160875.1,['Streptomyces chromofuscus'],1
+99aa3e7f2496dc54e8701bf70fec1092,1,GCF_015163075.1,['Streptomyces sp.'],1
+608973d44b6872276c24f08c70bb3746,1,GCF_015244315.1,"['Streptomyces olivaceus', 'Streptomyces olivaceus']",1
+9d2095977360cab8cc2aedc706f677f3,1,GCF_015244315.1,['Streptomyces olivaceus'],1
+092901e175ee2c960b1fcd50145c3c08,1,GCF_015475835.1,['Streptomyces sp.'],1
+0a375e4b223d75b5f68049fe0fa71910,1,GCF_015689475.1,['Streptomyces solisilvae'],1
+d6a5fbc257547138fbd79aa279a7ee17,1,GCF_015689475.1,['Streptomyces solisilvae'],1
+a1cf3bb988a116f9bbec782c468e7cf0,1,GCF_015689475.1,['Streptomyces solisilvae'],1
+661c7f3390c737457220ae2c2449804f,1,GCF_015712165.1,"['Streptomyces spinoverrucosus', 'Streptomyces spinoverrucosus', 'Streptomyces spinoverrucosus', 'Streptomyces spinoverrucosus']",1
+7c502344928609dc0b02822c0c6a15fb,1,GCF_015712165.1,['Streptomyces spinoverrucosus'],1
+e280761ce16b866fe6447d4a184f775f,1,GCF_015712165.1,['Streptomyces spinoverrucosus'],1
+bca79dfb69d477e8f4f66d32bcf08a0f,2,"GCF_015767895.1,GCF_015767815.1","['Streptomyces clavuligerus', 'Streptomyces clavuligerus']",1
+198dc66cfd908a67a513c07fb854ab87,1,GCF_015910445.1,"['Streptomyces bathyalis', 'Streptomyces bathyalis']",1
+2a638c9c72b98f673f457c57142093b0,1,GCF_015910445.1,['Streptomyces bathyalis'],1
+d2535c1c1747de828561d9078a1faa8f,1,GCF_015910445.1,['Streptomyces bathyalis'],1
+52d2863ee3357431f591440c2459997d,1,GCF_015910445.1,['Streptomyces bathyalis'],1
+245ecbe38ea858cbd92e959e4f015b1c,1,GCF_015910445.1,['Streptomyces bathyalis'],1
+78f00940102177ce3adea70443828703,1,GCF_016031615.1,"['Streptomyces pactum', 'Streptomyces pactum', 'Streptomyces pactum', 'Streptomyces pactum', 'Streptomyces pactum', 'Streptomyces pactum']",1
+20cd88edb04c22345bb4592a6d21dcd1,1,GCF_016128295.1,['Streptomyces alfalfae'],1
+684a71fda71faff4ed54c36b0fffb5a2,1,GCF_016411765.1,['Streptomyces flavofungini'],1
+10000d7a01eeab84f6428ef6fd9a1d57,3,"GCF_016432735.1,GCF_016432665.1,GCF_002879675.3","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+65415b883d0107282dc9c24a04f92937,2,"GCF_016432665.1,GCF_002879675.3","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+99683427b510d149ec0fa9641682613e,2,"GCF_016432735.1,GCF_016432665.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+04606ac64fad34d07f2099d6a21a3780,1,GCF_016432685.1,['Streptomyces sp.'],1
+6e250fbf3c00fc3f73b55f734b743740,1,GCF_016432685.1,['Streptomyces sp.'],1
+b45c505dffa9be473be80ac5d2b90b43,2,"GCF_016432685.1,GCF_018638305.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+3faa899c814cea524a8546de836709b3,1,GCF_016464295.1,['Streptomyces sp.'],1
+39dfaf587ed9b52d7d075d113826ba8d,1,GCF_016467295.1,['Streptomyces costaricanus'],1
+7ffae76027ff2b3145df6555e3ec79c8,1,GCF_016598475.1,['Streptomyces adelaidensis'],1
+f9e936843ea8ecd0a1437041738357be,1,GCF_016598575.1,['Streptomyces sp.'],1
+9b9092d69e780a42a5ee0f0bb20be670,1,GCF_016598575.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+54916e8df97fb001ee1bcac836433840,1,GCF_016598615.1,['Streptomyces sp.'],1
+3e43a752b8c109b763a0162f8aecf566,1,GCF_016598615.1,['Streptomyces sp.'],1
+eb929e9dd3c23ac6f4f5f988b7520907,1,GCF_016598615.1,['Streptomyces sp.'],1
+788e4ae54df6c388ca497a7c3e4e9cff,1,GCF_016598615.1,['Streptomyces sp.'],1
+2a16be360641edced4cb926b65253652,1,GCF_016598615.1,['Streptomyces sp.'],1
+db567ff71a8844dacff956308a00338f,1,GCF_016598615.1,['Streptomyces sp.'],1
+9d9d5b1820cb8497f7aea2a0e5dd0b85,1,GCF_016605905.1,['Streptomyces sp.'],1
+c60d921f3ccb9d2d4ecc0c13b27c54ed,1,GCF_016605905.1,['Streptomyces sp.'],1
+e545f9544ac20009bec282f03d6e32ed,1,GCF_016605905.1,['Streptomyces sp.'],1
+819fce7f4a03adfa9b7f190c2ff93484,1,GCF_016612545.1,['Streptomyces sp.'],1
+30ce14f1e9ebf32515d30a9c3efdbbe5,2,"GCF_016612625.1,GCF_016654115.1","['Streptomyces sp.', 'Streptomyces sp.']",1
+2e21dcb7e04a04be6ac7778ba5db4e8f,2,"GCF_016612705.1,GCF_016612725.1","['Streptomyces sp.', 'Streptomyces sp.']",1
+99771265116eedd08c1f208c5430b7ad,2,"GCF_016654055.1,GCF_016612775.1","['Streptomyces sp.', 'Streptomyces sp.']",1
+021ed0754d42c46748fdb3ccceda01e7,3,"GCF_016612825.1,GCF_016612805.1,GCF_016860545.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces cacaoi', 'Streptomyces cacaoi', 'Streptomyces cacaoi', 'Streptomyces cacaoi', 'Streptomyces cacaoi']",2
+4cbb9f46af3b249dd5a8b8642ec39b61,1,GCF_016612855.1,['Streptomyces sp.'],1
+9150a4fe87ad55f1b250a6ff04ea1f7d,1,GCF_016741775.1,['Streptomyces actinomycinicus'],1
+c6e1d921eadae4240a7feaad0cf4651b,1,GCF_016741785.1,['Streptomyces sp.'],1
+d181ddecac581f3343b22b03376c08c2,1,GCF_016741825.1,['Streptomyces sp.'],1
+896951bfc64d9db690177545914fa987,1,GCF_016741855.1,['Streptomyces sp.'],1
+eb54e5448ea8948b1a594bde93a049fd,1,GCF_016741875.1,['Streptomyces coffeae'],1
+eda765ceb4e399b3a59eae43ad26fc98,1,GCF_016741935.1,['Streptomyces sp.'],1
+92493591ce1b7dbbf4f58dde474391ee,1,GCF_016755895.1,['Streptomyces xanthophaeus'],1
+c73f217639385afd03226e111d2bc423,1,GCF_016756395.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+62b5924d4d7b75f1e5acb63af9184caf,1,GCF_016756395.1,['Streptomyces sp.'],1
+4ea981c6f5ca3511f45516a0a8fea1a3,1,GCF_016756395.1,['Streptomyces sp.'],1
+427ee2d9c7fcb9676174ed2a552e7980,1,GCF_016757295.1,['Streptomyces sp.'],1
+6d7730b52838e7379b1fe9e7d28ba3b3,1,GCF_016803985.1,"['Streptomyces koyangensis', 'Streptomyces koyangensis']",1
+0140b8c49642bdd16f10c935a1d6b611,1,GCF_016804005.1,"['Streptomyces pratensis', 'Streptomyces pratensis', 'Streptomyces pratensis', 'Streptomyces pratensis', 'Streptomyces pratensis']",1
+61e97499ccf65cba794a18521cd374d0,1,GCF_016804005.1,['Streptomyces pratensis'],1
+3be974dafec6769ff87716c55286d81d,1,GCF_016834575.1,['Streptomyces sp.'],1
+8e53c3be50ee4f6e9eab4e3c0e7f9bbe,1,GCF_016860525.1,"['Streptomyces achromogenes', 'Streptomyces achromogenes', 'Streptomyces achromogenes']",1
+ec22759389ba627cbdb1188c9a9a0a80,1,GCF_016860525.1,"['Streptomyces achromogenes', 'Streptomyces achromogenes']",1
+96dd946ab5a0d78917331eaa1eff09d7,1,GCF_016860525.1,['Streptomyces achromogenes'],1
+c7670a87447f30c09f1e33ec0ecdecdf,1,GCF_016860545.1,['Streptomyces cacaoi'],1
+6a76b720b6b3614a05b8576ffe8aa02f,1,GCF_016876065.1,['Streptomyces sioyaensis'],1
+c8cd675ce5d2b5a63221d06352ad3d22,1,GCF_016876065.1,['Streptomyces sioyaensis'],1
+da35a3e7ba7ac6a64cd8d56abbc05997,1,GCF_016905445.1,['Streptomyces sp.'],1
+0111c104c4886798d465064794ec0458,2,"GCF_016906225.1,GCF_016906185.1","['Streptomyces californicus', 'Streptomyces californicus']",1
+db08140355c283d70165a7e50a74abbb,6,"GCF_017311125.1,GCF_016906185.1,GCF_016906205.1,GCF_016906245.1,GCF_016906265.1,GCF_016906225.1","['Streptomyces californicus', 'Streptomyces californicus', 'Streptomyces californicus', 'Streptomyces californicus', 'Streptomyces californicus', 'Streptomyces californicus', 'Streptomyces californicus', 'Streptomyces californicus', 'Streptomyces californicus', 'Streptomyces californicus', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",2
+13739827fff7470fa5edf204151b5ed3,1,GCF_016909575.1,['Streptomyces sp.'],1
+e8c73df7d47bfc4a90545532817707fa,2,"GCF_017164735.1,GCF_016916835.1","['Streptomyces bryophytorum', 'Streptomyces bryophytorum']",1
+5bf807d6842acb9cd3b9c9afaa688027,1,GCF_016917755.1,"['Streptomyces noursei', 'Streptomyces noursei', 'Streptomyces noursei', 'Streptomyces noursei', 'Streptomyces noursei']",1
+d31552bd9e2ac4d70fecd223063e8fb6,1,GCF_016917755.1,['Streptomyces noursei'],1
+b951b195a5506b6431e63990b4ce94a8,1,GCF_016917755.1,['Streptomyces noursei'],1
+d37b0c1fb57177a031efbaf13dff339c,1,GCF_016919245.1,"['Streptomyces zhihengii', 'Streptomyces zhihengii', 'Streptomyces zhihengii', 'Streptomyces zhihengii', 'Streptomyces zhihengii', 'Streptomyces zhihengii']",1
+7f578403b6a6cc706bb73e7e3b1b7cba,1,GCF_017114865.1,['Streptomyces verrucosisporus'],1
+7ac974f83deb68470908d382e42baaac,1,GCF_017315755.1,['Streptomyces beijiangensis'],1
+ea5ac90785cedc99d1c8cf9e67bc7564,1,GCF_017349075.1,['Streptomyces triculaminicus'],1
+66570220649dda41227fae00a264ea84,1,GCF_017356985.1,['Streptomyces griseocarneus'],1
+afdd84ab00c3ddc127a7875322b57aee,1,GCF_017526105.1,"['Streptomyces cyanogenus', 'Streptomyces cyanogenus', 'Streptomyces cyanogenus', 'Streptomyces cyanogenus', 'Streptomyces cyanogenus']",1
+4978969c2996a48439710ddccacab442,1,GCF_017526105.1,['Streptomyces cyanogenus'],1
+def4f28932ed5a553276a819c7d0d966,1,GCF_017592595.1,['Streptomyces sp.'],1
+3c1263c7416122d5b4cd471dd3970de8,1,GCF_017676345.1,['Streptomyces smyrnaeus'],1
+ec9f5bacd1c660bc72d7228086d2da9e,1,GCF_017676385.1,['Streptomyces sp.'],1
+de32a400f85fb6240edec5c1494abf36,1,GCF_017874515.1,['Streptomyces avidinii'],1
+6a4b880d1663a024d3f7b083d31c3d25,1,GCF_017876255.1,['Streptomyces clavifer'],1
+9d0c36cb154a9999b9f2bb8b85475925,1,GCF_017876255.1,['Streptomyces clavifer'],1
+25846c193dafd27490089f2d5ec1f030,2,"GCF_900290435.1,GCF_017876625.1","['Streptomyces syringium', 'Streptomyces syringium', 'Streptomyces syringium', 'Streptomyces syringium', 'Streptomyces syringium', 'Streptomyces syringium', 'Streptomyces netropsis']",2
+19dc40a8cc60a03ddbb830233c069ecc,1,GCF_017876625.1,['Streptomyces syringium'],1
+61c441da51e13ccd9bad9bcae10c3ccc,8,"GCF_017969005.1,GCF_017968965.1,GCF_017969045.1,GCF_017933115.1,GCF_017933255.1,GCF_017968935.1,GCF_017969025.1,GCF_017968905.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+11d95c644e2d5bb7c20d85d26ee3272f,6,"GCF_017969005.1,GCF_017933115.1,GCF_017933255.1,GCF_017968935.1,GCF_017969025.1,GCF_017968905.1","['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+a9096d97a0e5e0e4fc5b12235d7c3d63,1,GCF_017933235.1,['Streptomyces sp.'],1
+e7207ab0033f539aa8a29f0fe513fded,1,GCF_017933255.1,['Streptomyces sp.'],1
+76dd368c8203b487cf61ba0193b2ecb8,3,"GCF_017942185.1,GCF_018138705.1,GCF_018138715.1","['Streptomyces rhizosphaericus', 'Streptomyces indonesiensis', 'Streptomyces asiaticus']",3
+2d583a216b75eafc936fa8f151e14411,1,GCF_017948455.1,['Streptomyces sp.'],1
+0141c7cda0527c2acfe65174fbb4a2a5,1,GCF_017948485.1,['Streptomyces sp.'],1
+ba0ecfadc4eefa154040c0d5b69e1d71,1,GCF_017968905.1,['Streptomyces sp.'],1
+eb45c66ac5c111dd5af4fe8f7e96cafa,2,"GCF_017969025.1,GCF_017969005.1","['Streptomyces sp.', 'Streptomyces sp.']",1
+b319b9bddf56a82e039b560d242d2e2e,1,GCF_017969025.1,['Streptomyces sp.'],1
+0e17d632b1b29ccac4a89941dd6a83d2,1,GCF_017969075.1,['Streptomyces sp.'],1
+da798cee5a0943ca38f209b3f2423f0e,1,GCF_018035285.1,['Streptomyces sp.'],1
+3168a95331e514c2cc02dde04cd9f941,1,GCF_018069565.1,['Streptomyces sp.'],1
+43b4e33b108b3e9cb68b536e9cfd7621,1,GCF_018069625.1,"['Streptomyces yatensis', 'Streptomyces yatensis']",1
+c391d6b2e29870aabb3df043ebe317f1,1,GCF_018069625.1,['Streptomyces yatensis'],1
+1759b6e21d08c2448cd5b32bd14fe7bd,1,GCF_018069625.1,['Streptomyces yatensis'],1
+31633354c8282b2cc6559bf9273e315b,1,GCF_018069625.1,['Streptomyces yatensis'],1
+f954ccb6b51ccd5a25a2eb75e77dec80,1,GCF_018069625.1,['Streptomyces yatensis'],1
+2775bc86d53e56c5bf3e74cace7fe8d0,1,GCF_018070025.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+d9ca9b19d0a70014438621917d35854a,2,"GCF_018070265.1,GCF_018070175.1","['Streptomyces sp.', 'Streptomyces sp.']",1
+26d92118dab6de61a84d60c9cb1fe06f,1,GCF_018070205.1,['Streptomyces sp.'],1
+188e134d38c7836461a5a3f5f082fa99,1,GCF_018070255.1,['Streptomyces sp.'],1
+0062897972423a7410f1baefeb7044c4,1,GCF_018070345.1,['Streptomyces sp.'],1
+58ee9edfb6754807c490b2301ecd9d50,1,GCF_018070605.1,['Streptomyces sp.'],1
+8fb085817d0c41cd8e138828a68aec4b,1,GCF_018101125.2,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+8dd5d2f3337c36c08216af7e6cb8b4e5,1,GCF_018128905.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+48e170ab56c6209926c3f8d490d4034d,2,"GCF_018138705.1,GCF_018138715.1","['Streptomyces indonesiensis', 'Streptomyces indonesiensis', 'Streptomyces indonesiensis', 'Streptomyces asiaticus']",2
+6bef0063c657ae44e50ff4941ce39d9a,1,GCF_018141485.1,['Streptomyces alfalfae'],1
+580452d760534fea78714c722df75618,1,GCF_018141485.1,['Streptomyces alfalfae'],1
+c6059eb873672d96aaec4f10616eef17,1,GCF_018310575.1,['Streptomyces sp.'],1
+9a6848a498fe0224203b35d859e1c3b7,1,GCF_018327685.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+139ee97caa0ad50b831e85ef52d7b958,1,GCF_018604545.1,['Streptomyces sp.'],1
+f73c39390f40b01b77014a09d99cc9c9,1,GCF_018604545.1,['Streptomyces sp.'],1
+534a21f8b996e11de9646e3d130e2d82,1,GCF_018604545.1,['Streptomyces sp.'],1
+2147aa0562074b652dfddeca543683c2,1,GCF_018604545.1,['Streptomyces sp.'],1
+2fb27d16409ba3ffe1e57015a6c15b53,1,GCF_018604545.1,['Streptomyces sp.'],1
+79d77b51cb74a6e7e67eecc5b5db8daf,1,GCF_018604545.1,['Streptomyces sp.'],1
+9548e00a74f8da1460bcd95cb6be2e76,1,GCF_018613915.1,['Streptomyces sp.'],1
+75e412e02d8d79f335a0876d47985bb2,2,"GCF_018614615.1,GCF_018614035.1","['Streptomyces sp.', 'Streptomyces sp.']",1
+407b5ffa724576d2ba4e8060017aa845,1,GCF_018614055.1,['Streptomyces sp.'],1
+15c2cc3e9d1c67caec9a5cb5310e1d96,2,"GCF_018614475.1,GCF_018614095.1","['Streptomyces sp.', 'Streptomyces sp.']",1
+1451dde0d817368c86b43a8f87d07797,1,GCF_018614135.1,['Streptomyces sp.'],1
+9fa2a7107307621e47c004ccc512df3d,1,GCF_018614155.1,['Streptomyces sp.'],1
+b8b798fe6af1f5befb8b328710ab6db8,1,GCF_018614195.1,['Streptomyces sp.'],1
+329efe6a5e81e4b5283a64aae87e3a8c,1,GCF_018614415.1,['Streptomyces sp.'],1
+85a6a531d81790d45f8ec8a213a9c3ea,1,GCF_018614585.1,['Streptomyces sp.'],1
+6240dfa15748ce0acccf8602588fba14,1,GCF_018619555.1,['Streptomyces sp.'],1
+a090390f412ad7905d6b5b8854dc695d,1,GCF_018619555.1,"['Streptomyces sp.', 'Streptomyces sp.']",1
+c31c465a27d4953846f525f2f58989a0,1,GCF_018619585.1,['Streptomyces sp.'],1
+6e866b7f9b683a42eb37daa21176ce92,1,GCF_018638305.1,['Streptomyces sp.'],1
+7d603d62fae3fcf05d003a506300c7b5,1,GCF_018728545.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+85816267082f9c2dd4e6bf6765d14e97,1,GCF_018866325.1,['Streptomyces sp.'],1
+990a1c3f6ef54c22cbd10376709b0ee0,1,GCF_018866325.1,['Streptomyces sp.'],1
+3e1f1443fd15c3207a5129975ae9543e,1,GCF_018866325.1,['Streptomyces sp.'],1
+0a110383fffa8640d7eec0e5b1aba59e,1,GCF_018866325.1,['Streptomyces sp.'],1
+c716b867c18c9ac37fbb9f1ffee3bfb5,1,GCF_018866325.1,['Streptomyces sp.'],1
+5aaf781bdb345aff16b702819c94415b,1,GCF_018866325.1,['Streptomyces sp.'],1
+adfc62081bf5c23db30c180cec9503a2,1,GCF_018883605.1,['Streptomyces sp.'],1
+23a5512d2d0a1d7ec30cc3c477072866,1,GCF_018982965.1,['Streptomyces sp.'],1
+eaa7d9748726c36b61ff6dbe50b92887,2,"GCF_019029505.1,GCF_019029485.1","['Streptomyces sp.', 'Streptomyces sp.']",1
+ad51d252b452b7e97080d85d168f858b,1,GCF_019029505.1,['Streptomyces sp.'],1
+a79278d9a30bea471bc072e9cdf36368,1,GCF_019049245.1,['Streptomyces sp.'],1
+bdc0095eb21b0408a7ab4eb6cf5bb437,1,GCF_019056675.1,"['Streptomyces sp.', 'Streptomyces sp.']",1
+118b0b18dd93abf74b3bf5ecec0d908d,1,GCF_019056675.1,['Streptomyces sp.'],1
+b88c327b762a7158fe3c37fcf3adfc08,1,GCF_019056675.1,['Streptomyces sp.'],1
+ea3452157de894ff8a7b384a630b5c2e,1,GCF_019056675.1,"['Streptomyces sp.', 'Streptomyces sp.']",1
+a6ab1b2e1d4b7a1e9d765239fa23fb84,1,GCF_900091315.1,['Streptomyces sp.'],1
+c6ca4973e0399c73ade21b691442e9de,1,GCF_900091485.1,['Streptomyces sp.'],1
+dee46e42b70b5fcd39cc8fe1f7fc6700,1,GCF_900091815.1,['Streptomyces sp.'],1
+fb532b38a252bc3346fa27465fe7764e,1,GCF_900091995.1,['Streptomyces sp.'],1
+cf392cbf19d57041849009fb1bdf500e,1,GCF_900092005.1,['Streptomyces sp.'],1
+4688f7d92dd191b35f858ac9727a6d66,1,GCF_900102245.1,['Streptomyces sp.'],1
+8095c56cdb9a6c79199c6c5f1205cf86,1,GCF_900103455.1,['Streptomyces wuyuanensis'],1
+75a670955106a19c0eeaa1e311c6010a,1,GCF_900104815.1,['Streptomyces misionensis'],1
+790a48b0de8ab5d332c4840e3348847f,1,GCF_900104815.1,['Streptomyces misionensis'],1
+1534be3557bb4396066f5594f53e0474,1,GCF_900105265.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+bdb6073f3ab9aea65e906ebdf111e8df,1,GCF_900105265.1,['Streptomyces sp.'],1
+92cf4329b8432591285d27c2b5995a41,1,GCF_900105265.1,['Streptomyces sp.'],1
+8fe5515408fae513b76143da51da1509,1,GCF_900105265.1,['Streptomyces sp.'],1
+9300496deb9fa002f076174547aeddb8,1,GCF_900105275.1,"['Streptomyces sp.', 'Streptomyces sp.']",1
+b09ce22cc8f69709d2b3d1437aa8363f,1,GCF_900105275.1,['Streptomyces sp.'],1
+bda4bc0974210a304a1158020a6bc929,1,GCF_900105275.1,['Streptomyces sp.'],1
+391ca0d89c8849852eb6e74065ef6551,1,GCF_900105415.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+4fadea66bfbb9efc7fbb95a417a75b6d,1,GCF_900105415.1,['Streptomyces sp.'],1
+a09ec847f30b43a4f696fc59f9c95bf4,1,GCF_900105415.1,['Streptomyces sp.'],1
+7ee380bc0362dd8dc33e727c31eff929,1,GCF_900105465.1,['Streptomyces sp.'],1
+5ea3c6ed6eea16d8e4b1d71a9ac19650,1,GCF_900105515.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+70f4517b8aa4c67b0e5bf9c1f9c764b5,1,GCF_900105605.1,['Streptomyces sp.'],1
+c612bf152d1859c0bb7172277de245d0,1,GCF_900105695.1,['Streptomyces melanosporofaciens'],1
+4c1546e6c05fcff64fa59a50350a7d03,1,GCF_900105695.1,"['Streptomyces melanosporofaciens', 'Streptomyces melanosporofaciens']",1
+aa17a46f99e95c332adbff3ef4ad02d8,1,GCF_900105695.1,['Streptomyces melanosporofaciens'],1
+79e1888c8671aaadf591f10704a24874,1,GCF_900105695.1,['Streptomyces melanosporofaciens'],1
+a91c511d658afa9420b0292b5f608f40,1,GCF_900105755.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+7e674ffb509ec3444c958cc674df6569,1,GCF_900105775.1,['Streptomyces sp.'],1
+0a80040baed8fa9a3ec9cba768083664,1,GCF_900105775.1,"['Streptomyces sp.', 'Streptomyces sp.']",1
+9152f0b8c7b02506d6865c739bded0af,1,GCF_900116325.1,['Streptomyces sp.'],1
+4cfa46e88657192405016f6671cf26dd,1,GCF_900119365.1,['Streptomyces atratus'],1
+dd2cc4cff5d98c15fffdcf66f6e61283,1,GCF_900129855.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+9d98a48661ce350e9748440d492bbfaa,1,GCF_900177255.1,['Streptomyces sp.'],1
+6d3ec190bc06da66a802dea7cce608a5,1,GCF_900199205.1,['Streptomyces sp.'],1
+2dead0f7471e68a00730f2c8854bd9ad,1,GCF_900199205.1,['Streptomyces sp.'],1
+0365eecd64057017d405ed86a89451c9,1,GCF_900199205.1,['Streptomyces sp.'],1
+353b3abe6e63add6aa36dadeff009b10,1,GCF_900199205.1,['Streptomyces sp.'],1
+f83a7e890774661f2b0ab0e60e552e34,1,GCF_900215565.1,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+b0f852bb565a45cde3d41c8ab11ab105,1,GCF_900215565.1,['Streptomyces sp.'],1
+0b8f7c2b393b146735b819bd33fb62af,1,GCF_900221035.1,['Streptomyces sp.'],1
+510774fb33fcd11b67dc4da568ca7058,1,GCF_900230195.1,['Streptomyces zhaozhouensis'],1
+18571643f56d3e15c885c5d7f40e3d3a,1,GCF_900290235.1,['Streptomyces sp.'],1
+476a421b192464997751f9696a5ccc44,1,GCF_904440635.1,['Streptomyces sp.'],1
+c0494488a4f026056de8b1dab3704657,1,GCF_002879675.3,['Streptomyces sp.'],1
+69c48e65baea2b24fe7742662d84aba1,1,GCF_003268535.2,"['Streptomyces sp.', 'Streptomyces sp.']",1
+8f82028a08911fe12279f2b21111089a,1,GCF_003268535.2,['Streptomyces sp.'],1
+603b53dc5861f213c4f3d1d38f49bb09,1,GCF_003947265.2,"['Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.', 'Streptomyces sp.']",1
+22717eeb8d74bf5c9e81a21b8099319e,1,GCF_014451325.2,['Streptomyces sp.'],1
