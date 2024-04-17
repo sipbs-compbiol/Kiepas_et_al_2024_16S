@@ -1,0 +1,34 @@
+
+RAxML-NG v. 1.0.2 released on 22.02.2021 by The Exelixis Lab.
+Developed by: Alexey M. Kozlov and Alexandros Stamatakis.
+Contributors: Diego Darriba, Tomas Flouri, Benoit Morel, Sarah Lutteropp, Ben Bettisworth.
+Latest version: https://github.com/amkozlov/raxml-ng
+Questions/problems/suggestions? Please visit: https://groups.google.com/forum/#!forum/raxml
+
+System: Intel(R) Core(TM) i5-1038NG7 CPU @ 2.00GHz, 4 cores, 32 GB RAM
+
+RAxML-NG was called at 01-Jul-2021 18:47:51 as follows:
+
+raxml-ng --support --tree 02_infer.raxml.bestTree --bs-trees 03_bootstrap.raxml.bootstraps --prefix TBE --threads 2 --bs-metric tbe
+
+Analysis options:
+  run mode: Compute bipartition support (Transfer Bootstrap)
+  start tree(s): user
+  random seed: 1625161671
+  SIMD kernels: AVX2
+  parallelization: coarse-grained (auto), PTHREADS (2 threads), thread pinning: OFF
+
+Reading reference tree from file: 02_infer.raxml.bestTree
+Reference tree size: 9049
+
+Reading bootstrap trees from file: 03_bootstrap.raxml.bootstraps
+Loaded 100 trees with 9049 taxa.
+
+Best ML tree with Transfer bootstrap (TBE) support values saved to: /Users/andziamonster/Desktop/strep 2/TBE.raxml.support
+
+Execution log saved to: /Users/andziamonster/Desktop/strep 2/TBE.raxml.log
+
+Analysis started: 01-Jul-2021 18:47:51 / finished: 01-Jul-2021 18:48:14
+
+Elapsed time: 22.241 seconds
+
