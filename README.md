@@ -1,6 +1,6 @@
-# README.md - Kiepas_et_al_2023_16S: 16S taxonomy and clustering is not a proxy for taxonomy in *Streptomyces*
+# README.md - Kiepas_et_al_2024_16S: 16S taxonomy and clustering is not a proxy for taxonomy in *Streptomyces*
 
-This repository contains all supplementary information for analyses reported in Kiepas *et al.* (2023) describing inconsistencies between taxonomies inferred using 16S and whole-genome identities in *Streptomyces*.
+This repository contains all supplementary information for analyses reported in Kiepas *et al.* (2024) describing inconsistencies between taxonomies inferred using 16S and whole-genome identities in *Streptomyces*.
 
 This repository is provided to enable both reproduction and independent exploration of the analysis reported in this manuscript.
 
@@ -32,13 +32,13 @@ How to reach us:
 
 - Angelika B Kiepas:
     - Email: [angelika.kiepas@strath.ac.uk](mailto:angelika.kiepas@strath.ac.uk)
-    - Twitter: [@kiepczi](https://twitter.com/kiepczi?lang=en)
+    - X: [@kiepczi](https://twitter.com/kiepczi?lang=en)
 - Leighton Pritchard:
     - Email: [leighton.pritchard@strath.ac.uk](mailtoleighton.pritchard@strath.ac.uk)
-    - Twitter: [@widdowquinn](https://twitter.com/widdowquinn)
+    - X: [@widdowquinn](https://twitter.com/widdowquinn)
 - Paul A Hoskisson:
     - Email: [paul.hoskisson@strath.ac.uk](mailto:paul.hoskisson@strath.ac.uk)
-    - Twitter: [@PaulHoskisson](https://twitter.com/PaulHoskisson?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+    - X: [@PaulHoskisson](https://twitter.com/PaulHoskisson?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
 ## Downloading Repository
 
@@ -70,37 +70,38 @@ You will need also to install the following software within the environment, and
 - [nextalign v0.1.4](https://github.com/nextstrain/nextclade/releases/tag/nextalign-0.1.4)
 - [Cytoscape v3.9.0](https://cytoscape.org)
 
-Due to repository size limits at `GitHub` we are unable to provide the complete set of 16S sequences and genomes used in this manuscipt in this repository. To access these FASTA and GenBank files you can access them on `Zenodo` at {INSERT DOI}, and place them in the folder `supplementary file 2`.
+Due to repository size limits at `GitHub` we are unable to provide the complete set of 16S sequences and genomes used in this manuscipt in this repository. To access these FASTA and GenBank files you can access them on `Zenodo` at {INSERT DOI}, and place them in the appropriate directories. NCBI refernce taxonomy is also available from `Zenodo`.
 
-- Alternatively, rather than downloading this repository from GitHub, you might download it from `Zenodo` instead.
-- The 16S sequence data used in this study are also available from  [Greengenes v13.5](https://gg-sg-web.s3-us-west-2.amazonaws.com/downloads/greengenes_database/gg_13_5/gg_13_5.fasta.gz), [SILVA v138.1](https://www.arb-silva.de/fileadmin/silva_databases/release_138_1/Exports/SILVA_138.1_SSURef_tax_silva.fasta.gz), [RDP v11.5](http://rdp.cme.msu.edu/download/current_Bacteria_unaligned.fa.gz) and the NCBI under BioProject [PRJNA33175](https://www.ncbi.nlm.nih.gov/nuccore?term=33175%5BBioProject%5D+OR+33317%5BBioProject%5D). However, it is possible that more recent downloads may not contain exactly the same sequences as used in the manuscript.
-- The genomes used in this study can be downloaded using the `download_genomes.sh` bash scipt provided in `supplementary file 17`. To ensure reproducibility, we strongly recommend to verify the accession IDs provided in supplementary file 2 and supplementary file 17 to confirm that the datasets match, and particularly that no extra sequences have been included in the download, before conducting analyses.
+
+- The 16S sequence data used in this study are also available from  [Greengenes v13.5](https://gg-sg-web.s3-us-west-2.amazonaws.com/downloads/greengenes_database/gg_13_5/gg_13_5.fasta.gz), [SILVA v138.1](https://www.arb-silva.de/fileadmin/silva_databases/release_138_1/Exports/SILVA_138.1_SSURef_tax_silva.fasta.gz), [RDP v11.5](http://rdp.cme.msu.edu/download/current_Bacteria_unaligned.fa.gz) and the NCBI under BioProject [PRJNA33175](https://www.ncbi.nlm.nih.gov/nuccore?term=33175%5BBioProject%5D+OR+33317%5BBioProject%5D). However, it is possible that more recent downloads may not contain exactly the same sequences as used in the manuscript. Once the sequences are dowloaded from `Zenodo`, please unzip all files, and place the content of `supplementary_file_2_raw_16S_databases` into `supplementary_file_2`
+- The genomes used in this study can be downloaded using the `download_genomes.sh` bash scipt provided in `supplementary file 17`. To ensure reproducibility, we strongly recommend to verify the accession IDs provided in supplementary file 2 and supplementary file 17 to confirm that the datasets match, and particularly that no extra sequences have been included in the download, before conducting analyses. Once the genome sequences are downloaded from `Zenodo`, please unzip all files, and place the content of `supplementary_file_17_NCBI_streptomyces_genomes` into `supplementary_file_17/data`.
+- NCBI refernce taxonomy was downloaded from [https://ftp.ncbi.nih.gov/pub/taxonomy/taxdmp.zip](https://ftp.ncbi.nih.gov/pub/taxonomy/taxdmp.zip). As this is a life document for the reproductibility sake we enourage to download the file from `Zenodo`, and place the contetnt of `supplementary_file_6_NCBI_taxonomy` into `summplementary_file_6`.
 
 ## Repository Files
 
 Here you can find a list of all supplementary files provided in this repository. current set of subfolders include:
 
-`Supplementary file 1`: Generate figures using Python and R. ZIP file containing all data, Python and R scripts to generate figures for this manuscript. (ZIP 30.1MB)
+`Supplementary file 1`: Generate figures using Python and R. Directory containing all data, Python and R scripts to generate figures for this manuscript. (93MB)
 
-`Supplementary file 2`: Raw 16S rRNA public databases. Zip file containing four separate `.txt` files with sequence IDs for public 16S rRNA databases used in this manuscript, and an additional `.txt` file with Greengenes sequence taxonomy information, and a python script used to map taxonomy information to sequences found in Greengenes v13.5. (ZIP 34.8MB)
+`Supplementary file 2`: Raw 16S rRNA public databases. Directory containing four separate `.txt` files with sequence IDs for public 16S rRNA databases used in this manuscript, and an additional `.txt` file with Greengenes sequence taxonomy information, and a python script used to map taxonomy information to sequences found in Greengenes v13.5. (82.2MB)
 
-`Supplementary file 3`: Filtration of 16S rRNA public databases. Zip file containing python script used for filtration of the raw databases, and generated outputs. (ZIP 7.2MB)
+`Supplementary file 3`: Filtration of 16S rRNA public databases. Directory containing python script used for filtration of the raw databases, and generated outputs. (84.2MB)
 
-`Supplementary file 4`: Cleaning of the filtered 16S rRNA local. Zip file containing all bash and Python scripts used to clean the local full-length 16S rRNA local databases by removing redundant and poor quality 16S rRNA sequences. (ZIP 9MB)
+`Supplementary file 4`: Cleaning of the filtered 16S rRNA local. Directory containing all bash and Python scripts used to clean the local full-length 16S rRNA local databases by removing redundant and poor quality 16S rRNA sequences. (109.8MB)
 
-`Supplementary file 5`: Sequence Clustering. Zip file containing a bash script used to cluster full-length cleaned local 16S rRNA *Streptomyces* local databases at various thresholds, and provides `.txt` files with accessions for representative sequences, and cluster members for each clustering threshold. (ZIP 40.8MB)
+`Supplementary file 5`: Sequence Clustering. Directory containing a bash script used to cluster full-length cleaned local 16S rRNA *Streptomyces* local databases at various thresholds, and provides `.txt` files with accessions for representative sequences, and cluster members for each clustering threshold. (471.7MB)
 
-`Supplementary file 6`: Analysis of taxonomic composition for each clustering threshold. Zip file containing Python scripts, NCBI taxonomy input and all outputs generated used to determine the taxonomic composition for each clustering threshold. (ZIP 49.6)
+`Supplementary file 6`: Analysis of taxonomic composition for each clustering threshold. Directory containing Python scripts, NCBI taxonomy input and all outputs generated used to determine the taxonomic composition for each clustering threshold. (52.7MB)
 
 `Supplementary file 7`: Cluster sizes. Empirical cumulative plot showing cluster size generated for all clustering thresholds. (PDF 44KB)
 
 `Supplementary file 8`: Cluster taxID abundance.  Empirical cumulative plot for unique number of taxID present for all clustering thresholds. (PDF 9KB)
 
-`Supplementary file 9`: MSA. Zip file containing all python and bash scripts, and additional data needed to generate and clean MSA for phylogenetic analysis. (ZIP 4.2MB)
+`Supplementary file 9`: MSA. Directory containing all python and bash scripts, and additional data needed to generate and clean MSA for phylogenetic analysis. (69.2MB)
 
-`Supplementary file 10`: Phylogenetic reconstruction.  ZIP file containing bash scripts used for phylogenetic reconstruction, and all generated outputs and log files. (ZIP 16.8MB).
+`Supplementary file 10`: Phylogenetic reconstruction.  Directory containing bash scripts used for phylogenetic reconstruction, and all generated outputs and log files. (76MB).
 
-`Supplementary file 11`: Collapse branches. ZIP file containing jupyter notebook used for collapsing branches with the same species names, and the collapsed tree in newick format. (ZIP 386KB)
+`Supplementary file 11`: Collapse branches. Directory containing jupyter notebook used for collapsing branches with the same species names, and the collapsed tree in newick format. (3.5MB)
 
 `Supplementary file 12`: Phylogenetic tree. PDF file showing collapsed phylogenetic tree with marked branches with transfer bootstrap expectation support of >= 50%. (PDF 224KB)
 
@@ -112,13 +113,13 @@ Here you can find a list of all supplementary files provided in this repository.
 
 `Supplementary file 16`: Phylogenetic tree. PDF file showing collapsed phylogenetic tree showing distribution of *Streptomyces lavendulae*, *Streptomyces rimosus* and *Streptomyces scabiei*. (PDF 228KB)
 
-`Supplementary file 17`: *Streptomyces* genomes. Zip file containing bash scripts used to download *Streptomyces* genomes, and Python scripts used to check assembly status. The ZIP file also contains two separate `.txt` files with *Streptomyces* genomes used in this manuscript: one file with all initial candidates, and a second file with replaced genomes. (ZIP 2.6MB)
+`Supplementary file 17`: *Streptomyces* genomes. Directory containing bash scripts used to download *Streptomyces* genomes, and Python scripts used to check assembly status. The directory also contains two separate `.txt` files with *Streptomyces* genomes used in this manuscript: one file with all initial candidates, and a second file with replaced genomes. (20.2MB)
 
-`Supplementary file 18`: Extraction of full-length and ambiguity free 16S rRNA sequences from *Streptomyces* genomes. Zip file containing all Python and bash scripts used to extract full-length sequences from the filtered *Streptomyces* genomes. A single FASTA file with all extracted 16S rRNA sequences, and a single FASTA file with filtered sequences. A `.txt` file with accession of genomes retained in the analysis. (ZIP 742KB)
+`Supplementary file 18`: Extraction of full-length and ambiguity free 16S rRNA sequences from *Streptomyces* genomes. Directory containing all Python and bash scripts used to extract full-length sequences from the filtered *Streptomyces* genomes. A single FASTA file with all extracted 16S rRNA sequences, and a single FASTA file with filtered sequences. A `.txt` file with accession of genomes retained in the analysis. (28.2MB)
 
-`Supplementary file 19`: ANI analysis among *Streptomyces* genomes with identical 16S rRNA sequences. ZIP file containing all bash and Python scripts used to determine taxonomic boundaries among *Streptomyces* genomes sharing identical full-length 16S rRNA sequences. All output and pyANI log files. (ZIP 37.1MB)
+`Supplementary file 19`: ANI analysis among *Streptomyces* genomes with identical 16S rRNA sequences. Directory containing all bash and Python scripts used to determine taxonomic boundaries among *Streptomyces* genomes sharing identical full-length 16S rRNA sequences. All output and pyANI log files. (52.8MB)
 
-`Supplementary file 20`: Network analysis of genomes based on shared 16S sequences. ZIP file containing jupyter notebook with NetworkX analysis and all associated output files including. bash script for pyANI analysis runs on all connected components and all associated matrices, heatmaps and log files. (ZIP 29MB)
+`Supplementary file 20`: Network analysis of genomes based on shared 16S sequences. Directory containing jupyter notebook with NetworkX analysis and all associated output files including. bash script for pyANI analysis runs on all connected components and all associated matrices, heatmaps and log files. (106.9MB)
 
 `Supplementary file 21`: Interactive network graph. HTML file containing interactive network graph of genomes sharing common full-length 16S sequences with each node colour corresponding to the number of connections/degrees. (HTML 4.7MB)
 
