@@ -21,11 +21,19 @@ p<-ggplot(df, aes(x=number_of_cluster_members, group=theresholds_id, col=theresh
   scale_color_manual(values=c("#022857", "#223e92", "#1576bb", "#458ccc", "#6aa6da", "#96c0e6", "#9acfe6", "#9ddceb", "#355E3B", "#152238", "#087E16", "#168E25", "#2CAC3C", "#43C152", "#5CD16A", "#7DE089", "#AFFAB8", "#D9D608", "#E8E62B",'#FFFF8F', "#F7F469"), name='Clustering \nThreshold (%)') +
   scale_x_continuous(breaks = seq(0, 3600, 200), name ="Cluster Size") +
   coord_cartesian(ylim = c(.98, 1)) +
-  stat_ecdf(geom = "step", pad = FALSE) + ylab("Proportion")  +
+  stat_ecdf(geom = "step", pad = FALSE, size = 1.5) + ylab("Proportion")  +
   theme()+ 
   guides(color = guide_legend(ncol = 1, title.position = "top", title.hjust = 1, title.vjust = 1,
                               label.position = "right", label.hjust = 1, label.vjust = 1)) +
-  theme(legend.position = c(0.95, 0.05), legend.justification = c(1, 0), legend.box.just = "right")
+  theme(legend.text = element_text(size = 20), 
+        legend.title = element_text(size = 20), 
+        legend.position = c(0.95, 0.05), 
+        legend.justification = c(1, 0), 
+        legend.box.just = "right",
+        axis.title.x = element_text(size = 20),  # Adjust x-axis label size
+        axis.title.y = element_text(size = 20),  # Adjust y-axis label size
+        axis.text.x = element_text(size = 15),   # Adjust x-axis tick label size
+        axis.text.y = element_text(size = 15))   # Adjust y-axis tick label size
 plot(p)
 dev.off()
 
@@ -36,35 +44,55 @@ p<-ggplot(df, aes(x=unique_number_of_cluster_members, group=theresholds_id, col=
   scale_color_manual(values=c("#022857", "#223e92", "#1576bb", "#458ccc", "#6aa6da", "#96c0e6", "#9acfe6", "#9ddceb", "#355E3B", "#152238", "#087E16", "#168E25", "#2CAC3C", "#43C152", "#5CD16A", "#7DE089", "#AFFAB8", "#D9D608", "#E8E62B",'#FFFF8F', "#F7F469"), name='Clustering \nThreshold (%)') +
   xlim(0,100) + xlab("Unique taxID") +
   coord_cartesian(ylim = c(.98, 1)) +
-  stat_ecdf(geom = "step", pad = FALSE) + ylab("Proportion")  +
+  stat_ecdf(geom = "step", pad = FALSE, size = 1.5) + ylab("Proportion")  +
   theme()+ 
   guides(color = guide_legend(ncol = 1, title.position = "top", title.hjust = 1, title.vjust = 1,
                               label.position = "right", label.hjust = 1, label.vjust = 1)) +
-  theme(legend.position = c(0.95, 0.05), legend.justification = c(1, 0), legend.box.just = "right")
+  theme(legend.text = element_text(size = 20), 
+        legend.title = element_text(size = 20), 
+        legend.position = c(0.95, 0.05), 
+        legend.justification = c(1, 0), 
+        legend.box.just = "right",
+        axis.title.x = element_text(size = 20),  # Adjust x-axis label size
+        axis.title.y = element_text(size = 20),  # Adjust y-axis label size
+        axis.text.x = element_text(size = 20),   # Adjust x-axis tick label size
+        axis.text.y = element_text(size = 20))   # Adjust y-axis tick label size
 plot(p)
 dev.off()
 
 
-#Generate Figure 2. Number of unique taxID in clusters vs proportion of all clusters
+
+# Generate Figure 2. Number of unique taxID in clusters vs proportion of all clusters
 data2 <- df[df$theresholds_id %in% c('100%', '99.5%', '99%', '98.5%', '98%'), ]
 
 data2$theresholds_id <- factor(data2$theresholds_id, levels=c('100%', '99.5%', '99%', '98.5%', '98%'))
 
 pdf(file='Fig_2.pdf', width=12, height=8)
-p <- ggplot(data2, aes(x=unique_number_of_cluster_members, group=theresholds_id, col=theresholds_id)) + 
-  stat_ecdf(geom = "step", pad=FALSE) +
+p <- ggplot(data2, aes(x=unique_number_of_cluster_members, group=theresholds_id, col=theresholds_id, linetype=theresholds_id)) + 
+  stat_ecdf(geom = "step", pad=FALSE, size = 1.5) +  # Make lines thicker by setting size
   xlim(0, 100) + xlab("Unique taxID") +
   coord_cartesian(ylim = c(.98, 1)) +
-  stat_ecdf(geom = "step", pad = FALSE) + ylab("Proportion") +
+  ylab("Proportion") +
   theme() + 
   scale_color_manual(name='Clustering \nThreshold (%)',
-                     values=c('#F7F469', '#5CD16A', '#075711', '#6aa6da', '#152238')) +
+                     values=c('#F0E442', '#009E73', '#56B4E9', '#E69F00', '#152238')) +
+  scale_linetype_manual(name='Clustering \nThreshold (%)',
+                        values=c('solid', 'solid', 'solid', 'solid', 'solid')) +  # Specify line types
   guides(color = guide_legend(ncol = 1, title.position = "top", title.hjust = 1, title.vjust = 1,
                               label.position = "right", label.hjust = 1, label.vjust = 1)) +
-  theme(legend.position = c(0.95, 0.05), legend.justification = c(1, 0), legend.box.just = "right")
+  theme(legend.text = element_text(size = 30), 
+        legend.title = element_text(size = 32), 
+        legend.position = c(0.95, 0.05), 
+        legend.justification = c(1, 0), 
+        legend.box.just = "right",
+        axis.title.x = element_text(size = 20),  # Adjust x-axis label size
+        axis.title.y = element_text(size = 20),  # Adjust y-axis label size
+        axis.text.x = element_text(size = 20),   # Adjust x-axis tick label size
+        axis.text.y = element_text(size = 20))   # Adjust y-axis tick label size
 
 plot(p)
 dev.off()
+
 
 
 
