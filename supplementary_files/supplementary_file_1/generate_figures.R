@@ -159,48 +159,96 @@ p + geom_text(data = ggplot_build(p)$data[[1]],
 
 dev.off()
 
-
-
-#Generate Fig 6. Genome coverage pyANI plots
+#Generate figure 6
+# Read in data
 data <- read.csv("pyani_analysis_coverage_identity_representative.csv")
 
+# Filter data
 data2 <- data[!data$unique_taxa_names %in% c('6', '5','4', '3'), ]
 data3 <- data[!data$unique_taxa_names %in% c('1', '2'), ]
-pdf(file='Fig_6.pdf', width=30, height=15)
 
+# Create PDF
+pdf(file='Fig_6.pdf', width=20, height=10)
 
-p1<-ggplot(data2, aes(x=cluster_id, y=coverage, col=comparision_type_species)) +
-  geom_jitter(alpha=0.2)  + 
-  facet_wrap(unique_taxa_names ~., scales = 'free_x', nrow=7, shrink=FALSE, dir='h') + 
-  scale_y_continuous(name="Genome Coverage (%)") +
-  scale_x_continuous(breaks = seq(0, 160, 10), name ="") + theme(legend.position="none") + ylim(0.25, 1) +
-  geom_hline(yintercept = 0.5, linetype = "dashed", color = "red") 
-
-p2<-ggplot(data3, aes(x=cluster_id, y=coverage, col=comparision_type_species)) +
+# Plot 1
+p1 <- ggplot(data2, aes(x=cluster_id, y=coverage, col=comparision_type_species)) +
   geom_jitter(alpha=0.2) + 
-  geom_rect(data = subset(data3,unique_taxa_names == '6'), fill = NA, colour = "red", xmin = 1.5,xmax = 2.5,
-            ymin = 0.3,ymax = 1,alpha = 0.1) +
-  facet_wrap(unique_taxa_names ~., scales = 'free_x', nrow=1, shrink=TRUE, dir='h') + scale_y_continuous(name="") +
-  scale_x_continuous(breaks = seq(0, 20, 2), name ="Cluster ID") + theme(legend.position="none")  + ylim(0.25, 1) +
-  geom_hline(yintercept = 0.5, linetype = "dashed", color = "red") 
+  facet_wrap(unique_taxa_names ~., scales = 'free_x', nrow=7, shrink=FALSE, dir='h') + 
+  scale_color_manual(values=c("#f01e2c", "#023E8A"),
+                     labels=c("between-species", "within-species"),
+                     name="Comparisons") +  # Add legend title here
+  scale_y_continuous(name="Genome Coverage (%)") +
+  scale_x_continuous(breaks = seq(0, 160, 10), name ="") + 
+  theme(legend.text = element_text(size = 20), 
+        legend.title = element_text(size = 20),  # Adjust legend title size
+        legend.position = c(1, 0.6), 
+        legend.justification = c(1, 0), 
+        legend.box.just = "right",
+        legend.background = element_rect(fill = "white", color = "black"), 
+        legend.key = element_rect(fill = "white"),
+        axis.title.x = element_text(size = 25),  # Adjust x-axis label size
+        axis.title.y = element_text(size = 25),  # Adjust y-axis label size
+        axis.text.x = element_text(size = 25),   # Adjust x-axis tick label size
+        axis.text.y = element_text(size = 25), strip.text = element_text(size = 25)) +   # Adjust y-axis tick label size
+  ylim(0.25, 1) +
+  geom_hline(yintercept = 0.5, linetype = "dashed", color = "red") +
+  guides(color = guide_legend(override.aes = list(alpha = 1))) 
 
-p4<-ggarrange(p1, p2,
-              ncol = 1, nrow = 2, heights = c(2, 1, 1)) + 
+# Plot 2
+p2 <- ggplot(data3, aes(x=cluster_id, y=coverage, col=comparision_type_species)) +
+  geom_jitter(alpha=0.2) + 
+  scale_color_manual(values=c("#f01e2c", "#023E8A"),
+                     labels=c("Interspecies", "Intraspecies"),
+                     name="Comparisons") +  # Add legend title here
+  geom_rect(data = subset(data3, unique_taxa_names == '6'), fill = NA, colour = "red", xmin = 1.5, xmax = 2.5,
+            ymin = 0.3, ymax = 1, alpha = 0.1) +
+  facet_wrap(unique_taxa_names ~., scales = 'free_x', nrow=1, shrink=TRUE, dir='h') + 
+  scale_y_continuous(name="") +
+  scale_x_continuous(breaks = seq(0, 20, 2), name ="Cluster ID") + 
+  ylim(0.25, 1) +
+  geom_hline(yintercept = 0.5, linetype = "dashed", color = "red") +
+  theme(legend.position="none",
+        axis.title.x = element_text(size = 25),  # Adjust x-axis label size
+        axis.title.y = element_text(size = 25),  # Adjust y-axis label size
+        axis.text.x = element_text(size = 25),   # Adjust x-axis tick label size
+        axis.text.y = element_text(size = 25), strip.text = element_text(size = 25))   # Adjust y-axis tick label size
+
+# Combine plots
+p4 <- ggarrange(p1, p2,
+                ncol = 1, nrow = 2, heights = c(2, 1, 1)) + 
   geom_rect(aes(xmin = -132, xmax = -69, ymin = 23, ymax = 49), color = "red", fill = NA) 
-  
+
+# Plot combined figure
 plot(p4)
 dev.off()
 
 
 
-#Generate Fig 12. Genome identity pyANI plots
-pdf(file='Fig_12.pdf', width=30, height=15)
+
+
+#Generate Fig7. Genome identity pyANI plots
+pdf(file='Fig_7.pdf', width=20, height=10)
 
 p1<-ggplot(data2, aes(x=cluster_id, y=identity, col=comparision_type_genus)) +geom_jitter(alpha=0.1)  + facet_wrap(unique_taxa_names ~., scales = 'free_x', nrow=7, shrink=TRUE, dir='h') + scale_y_continuous(name="Genome Identity (%)") +
   scale_x_continuous(breaks = seq(0, 160, 10), name ="") + theme(legend.position="none") +
   ylim(0.85, 1) +
   geom_hline(yintercept = 0.95, linetype = "dashed", color = "red") +
-  scale_color_manual(values=c( "purple", "orange")) 
+  scale_color_manual(values=c("purple", "orange"),
+                     labels=c("between-genus", "within-genus"),
+                     name="Comparisons") +  # Add legend title here
+                
+  theme(legend.text = element_text(size = 20), 
+        legend.title = element_text(size = 20),  # Adjust legend title size
+        legend.position = c(1, 0.6), 
+        legend.justification = c(1, 0), 
+        legend.box.just = "right",
+        legend.background = element_rect(fill = "white", color = "black"), 
+        legend.key = element_rect(fill = "white"),
+        axis.title.x = element_text(size = 25),  # Adjust x-axis label size
+        axis.title.y = element_text(size = 25),  # Adjust y-axis label size
+        axis.text.x = element_text(size = 25),   # Adjust x-axis tick label size
+        axis.text.y = element_text(size = 25), strip.text = element_text(size = 25)) +
+  guides(color = guide_legend(override.aes = list(alpha = 1))) 
 
 p2<-ggplot(data3, aes(x=cluster_id, y=identity, col=comparision_type_genus)) +geom_jitter(alpha=0.1) +
   
@@ -210,7 +258,14 @@ p2<-ggplot(data3, aes(x=cluster_id, y=identity, col=comparision_type_genus)) +ge
   scale_x_continuous(breaks = seq(0, 20, 2), name ="Cluster ID") + theme(legend.position="none")+
   ylim(0.85, 1) +
   geom_hline(yintercept = 0.95, linetype = "dashed", color = "red") +
-  scale_color_manual(values=c( "purple", "orange")) 
+  scale_color_manual(values=c( "purple", "orange")) +
+  theme(legend.position="none",
+        axis.title.x = element_text(size = 25),  # Adjust x-axis label size
+        axis.title.y = element_text(size = 25),  # Adjust y-axis label size
+        axis.text.x = element_text(size = 25),   # Adjust x-axis tick label size
+        axis.text.y = element_text(size = 25),
+        strip.text = element_text(size = 25)) 
+
 
 
 p4<-ggarrange(p1, p2,
