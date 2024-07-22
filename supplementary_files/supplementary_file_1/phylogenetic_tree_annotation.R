@@ -88,8 +88,8 @@ tree <- root(tree, outgroup = 'Streptoalloteichus_tenebrarius__COLLAPSED__id0021
 df <- read.csv("phylogenetic_tree_data_annotation.csv", header=TRUE)
 
 
-#Generate Figure 1. 
-pdf(file = "../supplementary_file_1/Fig_1.pdf",   # The directory you want to save the file in
+#Generate Figure 2. 
+pdf(file = "../supplementary_file_1/Fig_2.pdf",   # The directory you want to save the file in
     width = 30, # The width of the plot in inches
     height = 30) # The height of the plot in inches
 row.names(df) <- df$Name
@@ -100,15 +100,15 @@ p <- ggplottree(tree, df, cols=c('representative_disperions'),
   geom_hilight(node=c(6826,2434), fill="#1E88E5", extendto=0.5, alpha=0.2) +
   geom_hilight(node=c(7658), fill="#FFC107", extendto=0.54, alpha=0.2) +
   geom_hilight(node=c(7651,2425,2424,6833), fill="#1E88E5", extendto=0.54, alpha=0.2) +
-  geom_strip('no_species_info_id001602', 'Streptomyces_variabilis__COLLAPSED__id001045', barsize=0, color='black', label="Clade 2", fontsize=10, angle=40, offset.text =-0.05, hjust=0.5) +
-  geom_strip('Streptomyces_stelliscabiei__12__Streptomyces_sp.__11__Streptomyces_scabiei__6__id004463', 'no_species_info_id004839', barsize=0, color='black', label="Clade 3", fontsize=10, offset.text =-0.05, hjust=1) +
-  geom_strip('Streptomyces_sp.__1__Streptomyces_bingchengensis__1__Streptomyces_bingchenggensis__1__id001604', 'Streptoalloteichus_tenebrarius__COLLAPSED__id002124', barsize=0, color='black', label="Clade 1",  fontsize=10, angle=-60, offset.text =-0.05, hjust=0.5) +
+  geom_strip('no_species_info_id001602', 'Streptomyces_variabilis__COLLAPSED__id001045', barsize=0, color='black', label="Clade 2", fontsize=13, angle=40, offset.text =-0.05, hjust=0.5) +
+  geom_strip('Streptomyces_stelliscabiei__12__Streptomyces_sp.__11__Streptomyces_scabiei__6__id004463', 'no_species_info_id004839', barsize=0, color='black', label="Clade 3", fontsize=13, offset.text =-0.05, hjust=1) +
+  geom_strip('Streptomyces_sp.__1__Streptomyces_bingchengensis__1__Streptomyces_bingchenggensis__1__id001604', 'Streptoalloteichus_tenebrarius__COLLAPSED__id002124', barsize=0, color='black', label="Clade 1",  fontsize=13, angle=-60, offset.text =-0.05, hjust=0.5) +
   geom_strip('no_species_info_id001602', 'Streptomyces_variabilis__COLLAPSED__id001045', barsize=2, color='white', label="", fontsize=10, angle=40, offset.text =-0.05, hjust=0.5) +
-  geom_strip('Streptomyces_stelliscabiei__12__Streptomyces_sp.__11__Streptomyces_scabiei__6__id004463', 'no_species_info_id004839', barsize=2, color='white', label="", fontsize=10, offset.text =-0.05, hjust=-0.5) +
-  geom_strip('Streptomyces_sp.__1__Streptomyces_bingchengensis__1__Streptomyces_bingchenggensis__1__id001604', 'Streptoalloteichus_tenebrarius__COLLAPSED__id002124', barsize=2, color='white', label="",  fontsize=10, angle=-60, offset.text =-0.05, hjust=0.5)+
+  geom_strip('Streptomyces_stelliscabiei__12__Streptomyces_sp.__11__Streptomyces_scabiei__6__id004463', 'no_species_info_id004839', barsize=2, color='white', label="", fontsize=20, offset.text =-0.05, hjust=-0.5) +
+  geom_strip('Streptomyces_sp.__1__Streptomyces_bingchengensis__1__Streptomyces_bingchenggensis__1__id001604', 'Streptoalloteichus_tenebrarius__COLLAPSED__id002124', barsize=2, color='white', label="",  fontsize=20, angle=-60, offset.text =-0.05, hjust=0.5)+
   theme(legend.text = element_text(size = 40),  # Adjust legend text size
-        legend.title = element_text(size = 42), # Adjust legend title size
-        legend.position = c(0.2, 0.5))  # Move legend to the left
+        legend.title = element_text(size = 40), # Adjust legend title size
+        legend.position = c(0.2, 0.13))  # Move legend to the left
 
 plot(p)
 dev.off()
@@ -124,7 +124,10 @@ pdf(file = "../supplementary_file_13.pdf",   # The directory you want to save th
 row.names(df) <- df$Name
 
 p <- ggplottree(tree, df, cols=c('disperse'),
-                cmaps=c('Set1'), tipsize=5, offset=.05 ,layout='c') 
+                cmaps=c('Set1'), tipsize=5, offset=.05 ,layout='c') +
+  theme(legend.text = element_text(size = 40),  # Adjust legend text size
+        legend.title = element_text(size = 42), # Adjust legend title size
+        legend.position = c(0.2, 0.5))  # Move legend to the left
 plot(p)
 dev.off()
 
@@ -137,7 +140,10 @@ pdf(file = "../supplementary_file_14.pdf",   # The directory you want to save th
 row.names(df) <- df$Name
 
 p <- ggplottree(tree, df, cols=c('no_dispersion'),
-                cmaps=c('Set1'), tipsize=5, offset=.05 ,layout='c') 
+                cmaps=c('Set1'), tipsize=5, offset=.05 ,layout='c') +
+  theme(legend.text = element_text(size = 40),  # Adjust legend text size
+        legend.title = element_text(size = 42), # Adjust legend title size
+        legend.position = c(0.2, 0.5))  # Move legend to the left
 plot(p)
 dev.off()
 
@@ -150,7 +156,10 @@ pdf(file = "../supplementary_file_15.pdf",   # The directory you want to save th
 row.names(df) <- df$Name
 
 p <- ggplottree(tree, df, cols=c('no_data'),
-                cmaps=c('Set1'), tipsize=5, offset=.05 ,layout='c') 
+                cmaps=c('Set1'), tipsize=5, offset=.05 ,layout='c') +
+  theme(legend.text = element_text(size = 40),  # Adjust legend text size
+        legend.title = element_text(size = 42), # Adjust legend title size
+        legend.position = c(0.2, 0.5))  # Move legend to the left
 plot(p)
 dev.off()
 
@@ -163,7 +172,10 @@ pdf(file = "../supplementary_file_16.pdf",   # The directory you want to save th
 row.names(df) <- df$Name
 
 p <- ggplottree(tree, df, cols=c('slight_dispersion'),
-                cmaps=c('Set1'), tipsize=5, offset=.05 ,layout='c') 
+                cmaps=c('Set1'), tipsize=5, offset=.05 ,layout='c') +
+  theme(legend.text = element_text(size = 40),  # Adjust legend text size
+        legend.title = element_text(size = 42), # Adjust legend title size
+        legend.position = c(0.2, 0.5))  # Move legend to the left
 plot(p)
 dev.off()
 
