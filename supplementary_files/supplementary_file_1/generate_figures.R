@@ -62,12 +62,12 @@ dev.off()
 
 
 
-# Generate Figure 2. Number of unique taxID in clusters vs proportion of all clusters
+# Generate Figure 1. Number of unique taxID in clusters vs proportion of all clusters
 data2 <- df[df$theresholds_id %in% c('100%', '99.5%', '99%', '98.5%', '98%'), ]
 
 data2$theresholds_id <- factor(data2$theresholds_id, levels=c('100%', '99.5%', '99%', '98.5%', '98%'))
 
-pdf(file='Fig_2.pdf', width=12, height=8)
+pdf(file='Fig_1.pdf', width=12, height=8)
 p <- ggplot(data2, aes(x=unique_number_of_cluster_members, group=theresholds_id, col=theresholds_id, linetype=theresholds_id)) + 
   stat_ecdf(geom = "step", pad=FALSE, size = 1.5) +  # Make lines thicker by setting size
   xlim(0, 100) + xlab("Unique taxID") +
@@ -80,8 +80,8 @@ p <- ggplot(data2, aes(x=unique_number_of_cluster_members, group=theresholds_id,
                         values=c('solid', 'solid', 'solid', 'solid', 'solid')) +  # Specify line types
   guides(color = guide_legend(ncol = 1, title.position = "top", title.hjust = 1, title.vjust = 1,
                               label.position = "right", label.hjust = 1, label.vjust = 1)) +
-  theme(legend.text = element_text(size = 30), 
-        legend.title = element_text(size = 32), 
+  theme(legend.text = element_text(size = 20), 
+        legend.title = element_text(size = 20), 
         legend.position = c(0.95, 0.05), 
         legend.justification = c(1, 0), 
         legend.box.just = "right",
