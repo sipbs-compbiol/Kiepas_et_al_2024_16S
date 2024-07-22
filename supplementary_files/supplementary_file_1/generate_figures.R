@@ -80,15 +80,15 @@ p <- ggplot(data2, aes(x=unique_number_of_cluster_members, group=theresholds_id,
                         values=c('solid', 'solid', 'solid', 'solid', 'solid')) +  # Specify line types
   guides(color = guide_legend(ncol = 1, title.position = "top", title.hjust = 1, title.vjust = 1,
                               label.position = "right", label.hjust = 1, label.vjust = 1)) +
-  theme(legend.text = element_text(size = 20), 
-        legend.title = element_text(size = 20), 
+  theme(legend.text = element_text(size = 14), 
+        legend.title = element_text(size = 14), 
         legend.position = c(0.95, 0.05), 
         legend.justification = c(1, 0), 
         legend.box.just = "right",
-        axis.title.x = element_text(size = 20),  # Adjust x-axis label size
-        axis.title.y = element_text(size = 20),  # Adjust y-axis label size
-        axis.text.x = element_text(size = 20),   # Adjust x-axis tick label size
-        axis.text.y = element_text(size = 20))   # Adjust y-axis tick label size
+        axis.title.x = element_text(size = 14),  # Adjust x-axis label size
+        axis.title.y = element_text(size = 14),  # Adjust y-axis label size
+        axis.text.x = element_text(size = 14),   # Adjust x-axis tick label size
+        axis.text.y = element_text(size = 14))   # Adjust y-axis tick label size
 
 plot(p)
 dev.off()
