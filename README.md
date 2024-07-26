@@ -23,7 +23,7 @@ Please report any issues or problems with this repository [at the Issues page](h
 This manuscript has the following contributors:
 
 - [Angelika B. Kiepas](https://github.com/kiepczi) - PhD Candidate, Univeristy of Strathclyde
-- [Dr Leighton Pritchard](https://github.com/widdowquinn) - Strathclyde Chancellor's Fellow, Univeristy of Strathclyde
+- [Dr Leighton Pritchard](https://github.com/widdowquinn) - Senior Lecturer, Univeristy of Strathclyde
 - [Prof Paul A. Hoskisson](https://github.com/PaulHoskisson) - Professor, Univeirsty of Strathclyde
 
 ### Contact Us
