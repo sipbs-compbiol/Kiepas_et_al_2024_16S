@@ -121,15 +121,15 @@ Here you can find a list of all supplementary files provided in this repository.
 
 `Supplementary file 20`: Network analysis of genomes based on shared 16S sequences. Directory containing jupyter notebook with NetworkX analysis and all associated output files including. bash script for pyANI analysis runs on all connected components and all associated matrices, heatmaps and log files. (106.9MB)
 
-`Supplementary file 21`: Interactive network graph. HTML file containing interactive network graph of genomes sharing common full-length 16S sequences with each node colour corresponding to the number of connections/degrees. (HTML 4.7MB)
+`Supplementary file 21`: [Interactive network graph](./supplementary_files/supplementary_file_21.html). HTML file containing interactive network graph of genomes sharing common full-length 16S sequences with each node colour corresponding to the number of connections/degrees. (HTML 4.7MB)
 
-`Supplementary file 22`: Interactive network graph. HTML file containing interactive network graph of genomes sharing common full-length 16S sequences showing clique (blue) and non-clique (green) components. (HTML 4.7MB)
+`Supplementary file 22`: [Interactive network graph](./supplementary_files/supplementary_file_22.html). HTML file containing interactive network graph of genomes sharing common full-length 16S sequences showing clique (blue) and non-clique (green) components. (HTML 4.7MB)
 
-`Supplementary file 23`: Interactive network graph. HTML file containing interactive network graph of genomes sharing common full-length 16S sequences showing number of unique genera within each connected component. Each candidate genus is represented as a single node colour within a connected component. (HTML 4.7MB)
+`Supplementary file 23`: [Interactive network graph](./supplementary_files/supplementary_file_23.html). HTML file containing interactive network graph of genomes sharing common full-length 16S sequences showing number of unique genera within each connected component. Each candidate genus is represented as a single node colour within a connected component. (HTML 4.7MB)
 
-`Supplementary file 24`: Interactive network graph. HTML file containing interactive network graph of genomes sharing common full-length 16S rRNA sequences showing number of unique species within each connected component. Each candidate species is represented as a single node colour within a connected component. (HTML 4.7MB)
+`Supplementary file 24`: [Interactive network graph](./supplementary_files/supplementary_file_24.html). HTML file containing interactive network graph of genomes sharing common full-length 16S rRNA sequences showing number of unique species within each connected component. Each candidate species is represented as a single node colour within a connected component. (HTML 4.7MB)
 
-`Supplementary file 25`: Interactive network graph. HTML file containing interactive network graph of genomes sharing common full-length 16S rRNA sequences showing number of unique NCBI names within each connected component. Each NCBI assigned name is represented as a single node colour within a connected component. Gray nodes represent genomes currently lacking assigned species names. (HTML 4.7MB)
+`Supplementary file 25`: [Interactive network graph](./supplementary_files/supplementary_file_25.html). HTML file containing interactive network graph of genomes sharing common full-length 16S rRNA sequences showing number of unique NCBI names within each connected component. Each NCBI assigned name is represented as a single node colour within a connected component. Gray nodes represent genomes currently lacking assigned species names. (HTML 4.7MB)
 
 `Supplementary file 26`: Intragenomic 16S rRNA heterogeneity within 1,369 Streptomyces genomes which exclusively contain only full-length and ambiguity symbol-free 16S rRNA sequences. A total of 811 genomes containing single 16S rRNA sequences are not shown. (PDF 8KB)
 
