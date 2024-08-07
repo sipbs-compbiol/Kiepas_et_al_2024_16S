@@ -51,7 +51,7 @@ git clone https://github.com/sipbs-compbiol/Kiepas_et_al_2024_16S.git
 Alternatively, click [here](https://github.com/sipbs-compbiol/Kiepas_et_al_2024_16S/archive/refs/heads/main.zip) to download the current state of this repository as a `.zip` file, then expand it in the usual way for your operating system, then change directory to the repository root.
 
 ```bash
-cd Kiepas_et_al_2023_16S
+cd Kiepas_et_al_2024_16S
 ```
 
 ## Set Up
