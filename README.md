@@ -2,6 +2,8 @@
 
 This repository contains all supplementary information for analyses reported in Kiepas *et al.* (2024) describing inconsistencies between taxonomies inferred using 16S and whole-genome identities in *Streptomyces*.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11082899.svg)](https://doi.org/10.5281/zenodo.11082899)
+
 This repository is provided to enable both reproduction and independent exploration of the analysis reported in this manuscript.
 
 ## Table of contents
